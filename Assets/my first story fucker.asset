@@ -1,0 +1,119 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 80d55d090c78b6240aa6dccd6042a022, type: 3}
+  m_Name: my first story fucker
+  m_EditorClassIdentifier: 
+  links:
+  - guid: daec0548-1ad8-43af-865f-76c1a8517a95
+    targetGuid: a19e3b4d-bc0a-44dc-b2d8-f7a282c2ba21
+    portId: 0
+  - guid: daec0548-1ad8-43af-865f-76c1a8517a95
+    targetGuid: 965842d4-6bab-4377-9b1f-d9ade0abf12d
+    portId: 1
+  - guid: 965842d4-6bab-4377-9b1f-d9ade0abf12d
+    targetGuid: bf69a42a-bb3a-430a-b357-5bcd441e96d8
+    portId: 2
+  - guid: 68692629-28c3-4299-b9aa-71b90f3f48a9
+    targetGuid: daec0548-1ad8-43af-865f-76c1a8517a95
+    portId: 3
+  nodes:
+  - guid: 68692629-28c3-4299-b9aa-71b90f3f48a9
+    characterSpr: {fileID: 21300000, guid: 748ae8b33df036b46a86e0387f1602cf, type: 3}
+    characterName: Mogolicus 1
+    dialogueText: la basura es absoluta
+    backgroundSpr: {fileID: 0}
+    startNode: 1
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 220
+      y: -451
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: daec0548-1ad8-43af-865f-76c1a8517a95
+    characterSpr: {fileID: 21300000, guid: ec03f79379868c642b48ae5ddc821b6d, type: 3}
+    characterName: Mogolicus Rotterdam
+    dialogueText: "la caca la prefiero en caj\xF3n"
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 2
+    choiceOptions:
+    - 'cagar '
+    - morir
+    nodePosition:
+      serializedVersion: 2
+      x: 820
+      y: -413
+      width: 499
+      height: 369
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: a19e3b4d-bc0a-44dc-b2d8-f7a282c2ba21
+    characterSpr: {fileID: 21300000, guid: ddf2e76e8a1f88f46ae1e42277850b48, type: 3}
+    characterName: Moholicus 1
+    dialogueText: sasasasa
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 1
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 1515
+      y: -565
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 965842d4-6bab-4377-9b1f-d9ade0abf12d
+    characterSpr: {fileID: 21300000, guid: 76beef9fdae7b48468ddf07d0400a374, type: 3}
+    characterName: wwww
+    dialogueText: ssssssssss
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 1517
+      y: -131
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: bf69a42a-bb3a-430a-b357-5bcd441e96d8
+    characterSpr: {fileID: 21300000, guid: 68e5a78013e33f247822a837e55b0ab4, type: 3}
+    characterName: sss
+    dialogueText: asxasa
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 1
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 2222
+      y: -32
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
