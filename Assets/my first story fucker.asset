@@ -13,23 +13,53 @@ MonoBehaviour:
   m_Name: my first story fucker
   m_EditorClassIdentifier: 
   links:
-  - guid: daec0548-1ad8-43af-865f-76c1a8517a95
-    targetGuid: a19e3b4d-bc0a-44dc-b2d8-f7a282c2ba21
-    portId: 0
-  - guid: daec0548-1ad8-43af-865f-76c1a8517a95
-    targetGuid: 965842d4-6bab-4377-9b1f-d9ade0abf12d
-    portId: 1
-  - guid: 965842d4-6bab-4377-9b1f-d9ade0abf12d
-    targetGuid: bf69a42a-bb3a-430a-b357-5bcd441e96d8
-    portId: 2
   - guid: 68692629-28c3-4299-b9aa-71b90f3f48a9
-    targetGuid: daec0548-1ad8-43af-865f-76c1a8517a95
+    targetGuid: 7f3b73e8-8e3a-47ee-bfcd-64343d3ecd00
+    portId: 0
+  - guid: 7f3b73e8-8e3a-47ee-bfcd-64343d3ecd00
+    targetGuid: f617d752-b4c4-487b-893b-1efa2eec76ad
+    portId: 1
+  - guid: 7f3b73e8-8e3a-47ee-bfcd-64343d3ecd00
+    targetGuid: 7183c1f4-341c-4147-a5bc-f362268a69e3
+    portId: 2
+  - guid: f617d752-b4c4-487b-893b-1efa2eec76ad
+    targetGuid: 814dbcf9-0a2d-4cf1-bb58-7f01a1c06c37
     portId: 3
+  - guid: 7183c1f4-341c-4147-a5bc-f362268a69e3
+    targetGuid: 0783302f-2441-4f1e-83d1-73d9e83c2540
+    portId: 4
+  - guid: 814dbcf9-0a2d-4cf1-bb58-7f01a1c06c37
+    targetGuid: fd0a8790-e017-41dc-9fd5-68d0278a2d09
+    portId: 5
+  - guid: 0783302f-2441-4f1e-83d1-73d9e83c2540
+    targetGuid: 5b9ecf11-d5ab-4198-b580-d5ca1e3072b7
+    portId: 6
+  - guid: 0783302f-2441-4f1e-83d1-73d9e83c2540
+    targetGuid: 5b9ecf11-d5ab-4198-b580-d5ca1e3072b7
+    portId: 7
+  - guid: 0783302f-2441-4f1e-83d1-73d9e83c2540
+    targetGuid: 5b9ecf11-d5ab-4198-b580-d5ca1e3072b7
+    portId: 8
+  - guid: 5b9ecf11-d5ab-4198-b580-d5ca1e3072b7
+    targetGuid: 51801c93-723d-4d33-9137-a8ba0993efca
+    portId: 9
+  - guid: fd0a8790-e017-41dc-9fd5-68d0278a2d09
+    targetGuid: 51801c93-723d-4d33-9137-a8ba0993efca
+    portId: 10
+  - guid: 51801c93-723d-4d33-9137-a8ba0993efca
+    targetGuid: 8d59691c-1e92-471f-a773-90e6e4c38839
+    portId: 11
+  - guid: 8d59691c-1e92-471f-a773-90e6e4c38839
+    targetGuid: ef45be72-8213-40f1-94ca-532f83de7feb
+    portId: 12
+  - guid: 8d59691c-1e92-471f-a773-90e6e4c38839
+    targetGuid: ef45be72-8213-40f1-94ca-532f83de7feb
+    portId: 13
   nodes:
   - guid: 68692629-28c3-4299-b9aa-71b90f3f48a9
     characterSpr: {fileID: 21300000, guid: 748ae8b33df036b46a86e0387f1602cf, type: 3}
-    characterName: Mogolicus 1
-    dialogueText: la basura es absoluta
+    characterName: Carmen
+    dialogueText: "asunto del sue\xF1o"
     backgroundSpr: {fileID: 0}
     startNode: 1
     endNode: 0
@@ -38,53 +68,35 @@ MonoBehaviour:
     - 
     nodePosition:
       serializedVersion: 2
-      x: 220
-      y: -451
+      x: 125
+      y: -611
       width: 499
       height: 305
     soundEffect: {fileID: 0}
     backgroundMusic: {fileID: 0}
-  - guid: daec0548-1ad8-43af-865f-76c1a8517a95
-    characterSpr: {fileID: 21300000, guid: ec03f79379868c642b48ae5ddc821b6d, type: 3}
-    characterName: Mogolicus Rotterdam
-    dialogueText: "la caca la prefiero en caj\xF3n"
+  - guid: 7f3b73e8-8e3a-47ee-bfcd-64343d3ecd00
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: 
     backgroundSpr: {fileID: 0}
     startNode: 0
     endNode: 0
     choices: 2
     choiceOptions:
-    - 'cagar '
-    - morir
+    - tomar pastillas
+    - ir a investigar
     nodePosition:
       serializedVersion: 2
-      x: 820
-      y: -413
+      x: 766
+      y: -568
       width: 499
       height: 369
     soundEffect: {fileID: 0}
     backgroundMusic: {fileID: 0}
-  - guid: a19e3b4d-bc0a-44dc-b2d8-f7a282c2ba21
-    characterSpr: {fileID: 21300000, guid: ddf2e76e8a1f88f46ae1e42277850b48, type: 3}
-    characterName: Moholicus 1
-    dialogueText: sasasasa
-    backgroundSpr: {fileID: 0}
-    startNode: 0
-    endNode: 1
-    choices: 1
-    choiceOptions:
-    - 
-    nodePosition:
-      serializedVersion: 2
-      x: 1515
-      y: -565
-      width: 499
-      height: 305
-    soundEffect: {fileID: 0}
-    backgroundMusic: {fileID: 0}
-  - guid: 965842d4-6bab-4377-9b1f-d9ade0abf12d
-    characterSpr: {fileID: 21300000, guid: 76beef9fdae7b48468ddf07d0400a374, type: 3}
-    characterName: wwww
-    dialogueText: ssssssssss
+  - guid: f617d752-b4c4-487b-893b-1efa2eec76ad
+    characterSpr: {fileID: 0}
+    characterName: Carmen
+    dialogueText: Necesito un poco de agua
     backgroundSpr: {fileID: 0}
     startNode: 0
     endNode: 0
@@ -93,16 +105,145 @@ MonoBehaviour:
     - 
     nodePosition:
       serializedVersion: 2
-      x: 1517
-      y: -131
+      x: 1431
+      y: -818
       width: 499
       height: 305
     soundEffect: {fileID: 0}
     backgroundMusic: {fileID: 0}
-  - guid: bf69a42a-bb3a-430a-b357-5bcd441e96d8
-    characterSpr: {fileID: 21300000, guid: 68e5a78013e33f247822a837e55b0ab4, type: 3}
-    characterName: sss
-    dialogueText: asxasa
+  - guid: 7183c1f4-341c-4147-a5bc-f362268a69e3
+    characterSpr: {fileID: 0}
+    characterName: Carmen
+    dialogueText: "Debo salir de esta habitaci\xF3n"
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 2159
+      y: -492
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 814dbcf9-0a2d-4cf1-bb58-7f01a1c06c37
+    characterSpr: {fileID: 0}
+    characterName: Carmen
+    dialogueText: Mejor voy a buscar agua
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 2153
+      y: -896
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 0783302f-2441-4f1e-83d1-73d9e83c2540
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: 
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 3
+    choiceOptions:
+    - Revisar cocina
+    - "Revisar ba\xF1o"
+    - Revisar cuarto
+    nodePosition:
+      serializedVersion: 2
+      x: 2847
+      y: -360
+      width: 499
+      height: 413
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 5b9ecf11-d5ab-4198-b580-d5ca1e3072b7
+    characterSpr: {fileID: 0}
+    characterName: Carmen
+    dialogueText: No hay nada, mejor vuelvo
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 3494
+      y: -301
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 8d59691c-1e92-471f-a773-90e6e4c38839
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: 
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 2
+    choiceOptions:
+    - Revisar debajo de la cama
+    - No hacer nada
+    nodePosition:
+      serializedVersion: 2
+      x: 4813
+      y: -203
+      width: 499
+      height: 369
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: fd0a8790-e017-41dc-9fd5-68d0278a2d09
+    characterSpr: {fileID: 0}
+    characterName: Carmen
+    dialogueText: Bueno, ya tengo agua
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 3485
+      y: -896
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 51801c93-723d-4d33-9137-a8ba0993efca
+    characterSpr: {fileID: 0}
+    characterName: Carmen
+    dialogueText: "Fue solo mi imaginaci\xF3n aunque..."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 4200
+      y: -512
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: ef45be72-8213-40f1-94ca-532f83de7feb
+    characterSpr: {fileID: 0}
+    characterName: final
+    dialogueText: 
     backgroundSpr: {fileID: 0}
     startNode: 0
     endNode: 1
@@ -111,8 +252,8 @@ MonoBehaviour:
     - 
     nodePosition:
       serializedVersion: 2
-      x: 2222
-      y: -32
+      x: 5492
+      y: -183
       width: 499
       height: 305
     soundEffect: {fileID: 0}
