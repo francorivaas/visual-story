@@ -13,61 +13,269 @@ MonoBehaviour:
   m_Name: my first story fucker
   m_EditorClassIdentifier: 
   links:
-  - guid: 7f3b73e8-8e3a-47ee-bfcd-64343d3ecd00
-    targetGuid: f617d752-b4c4-487b-893b-1efa2eec76ad
-    portId: 0
-  - guid: 7f3b73e8-8e3a-47ee-bfcd-64343d3ecd00
-    targetGuid: 7183c1f4-341c-4147-a5bc-f362268a69e3
-    portId: 1
-  - guid: f617d752-b4c4-487b-893b-1efa2eec76ad
-    targetGuid: 06bbd899-dd5d-489b-b7c4-470af5eeabab
-    portId: 2
-  - guid: 7183c1f4-341c-4147-a5bc-f362268a69e3
-    targetGuid: 0783302f-2441-4f1e-83d1-73d9e83c2540
-    portId: 3
-  - guid: 0783302f-2441-4f1e-83d1-73d9e83c2540
-    targetGuid: 5b9ecf11-d5ab-4198-b580-d5ca1e3072b7
-    portId: 4
-  - guid: 0783302f-2441-4f1e-83d1-73d9e83c2540
-    targetGuid: 5b9ecf11-d5ab-4198-b580-d5ca1e3072b7
-    portId: 5
-  - guid: 0783302f-2441-4f1e-83d1-73d9e83c2540
-    targetGuid: 5b9ecf11-d5ab-4198-b580-d5ca1e3072b7
-    portId: 6
-  - guid: 5b9ecf11-d5ab-4198-b580-d5ca1e3072b7
-    targetGuid: 51801c93-723d-4d33-9137-a8ba0993efca
-    portId: 7
-  - guid: 51801c93-723d-4d33-9137-a8ba0993efca
-    targetGuid: 7b2818fb-3dea-4bc9-91ba-652108d17774
-    portId: 8
-  - guid: f24d0467-3adb-4316-b516-3e816a5d2a88
-    targetGuid: 7f3b73e8-8e3a-47ee-bfcd-64343d3ecd00
-    portId: 9
-  - guid: 06bbd899-dd5d-489b-b7c4-470af5eeabab
-    targetGuid: fd0a8790-e017-41dc-9fd5-68d0278a2d09
-    portId: 10
-  - guid: fd0a8790-e017-41dc-9fd5-68d0278a2d09
-    targetGuid: df2d45ee-f76c-4a07-a778-3dc93e0f113a
-    portId: 11
-  - guid: df2d45ee-f76c-4a07-a778-3dc93e0f113a
-    targetGuid: 51801c93-723d-4d33-9137-a8ba0993efca
-    portId: 12
-  - guid: 7b2818fb-3dea-4bc9-91ba-652108d17774
-    targetGuid: 8d59691c-1e92-471f-a773-90e6e4c38839
-    portId: 13
-  - guid: 8d59691c-1e92-471f-a773-90e6e4c38839
-    targetGuid: ef45be72-8213-40f1-94ca-532f83de7feb
-    portId: 14
-  - guid: 8d59691c-1e92-471f-a773-90e6e4c38839
-    targetGuid: ef45be72-8213-40f1-94ca-532f83de7feb
-    portId: 15
   - guid: 342025d9-a0e6-452c-a831-e387e5be68db
     targetGuid: 4ae9e643-2e3a-4e8e-8436-9a467b25016b
-    portId: 16
+    portId: 0
   - guid: 4ae9e643-2e3a-4e8e-8436-9a467b25016b
+    targetGuid: a3832139-3019-4074-8d07-f445c5140f89
+    portId: 1
+  - guid: a3832139-3019-4074-8d07-f445c5140f89
+    targetGuid: cf0a4cc5-d6c9-4207-9305-334373e9bb44
+    portId: 2
+  - guid: cf0a4cc5-d6c9-4207-9305-334373e9bb44
+    targetGuid: 8bb08c3b-9078-412f-9bc2-453c7dbb6fb4
+    portId: 3
+  - guid: 8bb08c3b-9078-412f-9bc2-453c7dbb6fb4
     targetGuid: f24d0467-3adb-4316-b516-3e816a5d2a88
+    portId: 4
+  - guid: f24d0467-3adb-4316-b516-3e816a5d2a88
+    targetGuid: 99e9da01-e4a3-46b1-b329-3b8db5de4e68
+    portId: 5
+  - guid: 99e9da01-e4a3-46b1-b329-3b8db5de4e68
+    targetGuid: d7ac9ec3-e66f-41e0-94b9-88ec3ea6341f
+    portId: 6
+  - guid: d7ac9ec3-e66f-41e0-94b9-88ec3ea6341f
+    targetGuid: 15008eae-bc81-432d-b630-07666c19906e
+    portId: 7
+  - guid: 15008eae-bc81-432d-b630-07666c19906e
+    targetGuid: cd780606-138a-4634-a5bb-1acfee533f2b
+    portId: 8
+  - guid: cd780606-138a-4634-a5bb-1acfee533f2b
+    targetGuid: 7f3b73e8-8e3a-47ee-bfcd-64343d3ecd00
+    portId: 9
+  - guid: 7f3b73e8-8e3a-47ee-bfcd-64343d3ecd00
+    targetGuid: f617d752-b4c4-487b-893b-1efa2eec76ad
+    portId: 10
+  - guid: 7f3b73e8-8e3a-47ee-bfcd-64343d3ecd00
+    targetGuid: 7183c1f4-341c-4147-a5bc-f362268a69e3
+    portId: 11
+  - guid: f617d752-b4c4-487b-893b-1efa2eec76ad
+    targetGuid: b5199379-9db1-495a-8ce4-ca2b63b0af99
+    portId: 12
+  - guid: fd0a8790-e017-41dc-9fd5-68d0278a2d09
+    targetGuid: df2d45ee-f76c-4a07-a778-3dc93e0f113a
+    portId: 13
+  - guid: 7183c1f4-341c-4147-a5bc-f362268a69e3
+    targetGuid: 0783302f-2441-4f1e-83d1-73d9e83c2540
+    portId: 14
+  - guid: 0783302f-2441-4f1e-83d1-73d9e83c2540
+    targetGuid: 5b9ecf11-d5ab-4198-b580-d5ca1e3072b7
+    portId: 15
+  - guid: 0783302f-2441-4f1e-83d1-73d9e83c2540
+    targetGuid: 5b9ecf11-d5ab-4198-b580-d5ca1e3072b7
+    portId: 16
+  - guid: 0783302f-2441-4f1e-83d1-73d9e83c2540
+    targetGuid: 5b9ecf11-d5ab-4198-b580-d5ca1e3072b7
     portId: 17
+  - guid: 5b9ecf11-d5ab-4198-b580-d5ca1e3072b7
+    targetGuid: 51801c93-723d-4d33-9137-a8ba0993efca
+    portId: 18
+  - guid: 51801c93-723d-4d33-9137-a8ba0993efca
+    targetGuid: 7b2818fb-3dea-4bc9-91ba-652108d17774
+    portId: 19
+  - guid: df2d45ee-f76c-4a07-a778-3dc93e0f113a
+    targetGuid: 51801c93-723d-4d33-9137-a8ba0993efca
+    portId: 20
+  - guid: 7b2818fb-3dea-4bc9-91ba-652108d17774
+    targetGuid: 8d59691c-1e92-471f-a773-90e6e4c38839
+    portId: 21
+  - guid: 8d59691c-1e92-471f-a773-90e6e4c38839
+    targetGuid: ef45be72-8213-40f1-94ca-532f83de7feb
+    portId: 22
+  - guid: 8d59691c-1e92-471f-a773-90e6e4c38839
+    targetGuid: ef45be72-8213-40f1-94ca-532f83de7feb
+    portId: 23
+  - guid: 06bbd899-dd5d-489b-b7c4-470af5eeabab
+    targetGuid: fd0a8790-e017-41dc-9fd5-68d0278a2d09
+    portId: 24
+  - guid: b5199379-9db1-495a-8ce4-ca2b63b0af99
+    targetGuid: 06bbd899-dd5d-489b-b7c4-470af5eeabab
+    portId: 25
   nodes:
+  - guid: 342025d9-a0e6-452c-a831-e387e5be68db
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: 
+    backgroundSpr: {fileID: 21300000, guid: e11c0b18c7a84364286f669b0393042a, type: 3}
+    startNode: 1
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: -4610
+      y: -1245
+      width: 499
+      height: 305
+    soundEffect: {fileID: 8300000, guid: af4c9666d75ccf849b6075154d6e5fae, type: 3}
+    backgroundMusic: {fileID: 0}
+  - guid: 4ae9e643-2e3a-4e8e-8436-9a467b25016b
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Sucedi\xF3 otra vez."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: -3916
+      y: -2212
+      width: 499
+      height: 305
+    soundEffect: {fileID: 8300000, guid: af4c9666d75ccf849b6075154d6e5fae, type: 3}
+    backgroundMusic: {fileID: 0}
+  - guid: a3832139-3019-4074-8d07-f445c5140f89
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: No me sorprende.
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: -3352
+      y: -2059
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: cf0a4cc5-d6c9-4207-9305-334373e9bb44
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Intento convencerme a m\xED misma de que solamente fue un sue\xF1o,
+      que no puede hacerme da\xF1o."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: -2740
+      y: -1754
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 8bb08c3b-9078-412f-9bc2-453c7dbb6fb4
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "O al menos en eso insiste el doctor Warren, m\xE9dico especialista
+      en psiquiatr\xEDa."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: -2066
+      y: -1527
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: f24d0467-3adb-4316-b516-3e816a5d2a88
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: Lo cual no implica que esta vez me quede de brazos cruzados...
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: -1250
+      y: -1222
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 99e9da01-e4a3-46b1-b329-3b8db5de4e68
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Las nuevas pastillas deber\xEDan noquearme bastante r\xE1pido... "
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: -559
+      y: -1069
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: d7ac9ec3-e66f-41e0-94b9-88ec3ea6341f
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Aunque tambi\xE9n podr\xEDa bajar a comprobar que sigo siendo
+      una est\xFApida con una imaginaci\xF3n dif\xEDcil de controlar..."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 59
+      y: -975
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 15008eae-bc81-432d-b630-07666c19906e
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Quiz\xE1 hasta podr\xEDa intentar convencerme de que las pastillas
+      no son un problema... "
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 707
+      y: -847
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: cd780606-138a-4634-a5bb-1acfee533f2b
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: Nunca mentimos tan bien como cuando nos mentimos a nosotros mismos.
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 1405
+      y: -694
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
   - guid: 7f3b73e8-8e3a-47ee-bfcd-64343d3ecd00
     characterSpr: {fileID: 0}
     characterName: 
@@ -81,8 +289,8 @@ MonoBehaviour:
     - ir a investigar
     nodePosition:
       serializedVersion: 2
-      x: 766
-      y: -568
+      x: 2717
+      y: -755
       width: 499
       height: 369
     soundEffect: {fileID: 0}
@@ -91,8 +299,44 @@ MonoBehaviour:
     characterSpr: {fileID: 0}
     characterName: 
     dialogueText: "1 miligramo de benzodiacepinas... es el doble de lo que\nel doctor
-      Warren me aconsej\xF3 tomar... Pero necesito dormir...\nRealmente necesito
-      dormir..."
+      Warren me aconsej\xF3 tomar... "
+    backgroundSpr: {fileID: 21300000, guid: f84e3ed4e0e77624bb37255fc5510cf5, type: 3}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 4446
+      y: -1186
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: ef45be72-8213-40f1-94ca-532f83de7feb
+    characterSpr: {fileID: 0}
+    characterName: final
+    dialogueText: 
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 1
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 9588
+      y: -12
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: fd0a8790-e017-41dc-9fd5-68d0278a2d09
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Las pastillas tardar\xE1n al menos media hora en hacerme efecto.\nMejor
+      vuelvo... podr\xEDa leer un libro... podr\xEDa..."
     backgroundSpr: {fileID: 0}
     startNode: 0
     endNode: 0
@@ -101,8 +345,8 @@ MonoBehaviour:
     - 
     nodePosition:
       serializedVersion: 2
-      x: 1431
-      y: -818
+      x: 6480
+      y: -1162
       width: 499
       height: 305
     soundEffect: {fileID: 0}
@@ -119,8 +363,8 @@ MonoBehaviour:
     - 
     nodePosition:
       serializedVersion: 2
-      x: 2159
-      y: -492
+      x: 6811
+      y: -700
       width: 499
       height: 305
     soundEffect: {fileID: 0}
@@ -139,8 +383,8 @@ MonoBehaviour:
     - Revisar cuarto
     nodePosition:
       serializedVersion: 2
-      x: 2847
-      y: -360
+      x: 7499
+      y: -568
       width: 499
       height: 413
     soundEffect: {fileID: 0}
@@ -157,8 +401,8 @@ MonoBehaviour:
     - 
     nodePosition:
       serializedVersion: 2
-      x: 3494
-      y: -301
+      x: 8146
+      y: -509
       width: 499
       height: 305
     soundEffect: {fileID: 0}
@@ -178,65 +422,8 @@ MonoBehaviour:
     - 
     nodePosition:
       serializedVersion: 2
-      x: 4200
-      y: -512
-      width: 499
-      height: 305
-    soundEffect: {fileID: 0}
-    backgroundMusic: {fileID: 0}
-  - guid: f24d0467-3adb-4316-b516-3e816a5d2a88
-    characterSpr: {fileID: 0}
-    characterName: 
-    dialogueText: Lo cual no implica que esta vez no tome medidas...
-    backgroundSpr: {fileID: 21300000, guid: 394a248de37a62c4593ca204c2a0b469, type: 3}
-    startNode: 0
-    endNode: 0
-    choices: 1
-    choiceOptions:
-    - 
-    nodePosition:
-      serializedVersion: 2
-      x: 235
-      y: -676
-      width: 499
-      height: 305
-    soundEffect: {fileID: 0}
-    backgroundMusic: {fileID: 0}
-  - guid: 06bbd899-dd5d-489b-b7c4-470af5eeabab
-    characterSpr: {fileID: 0}
-    characterName: 
-    dialogueText: "Necesito un poco de agua... \xBFCuando voy a recordar no irme\na
-      dormir sin una botella al lado m\xEDo?\nNunca fuiste buena cultivando buenos
-      h\xE1bitos Karen...."
-    backgroundSpr: {fileID: 0}
-    startNode: 0
-    endNode: 0
-    choices: 1
-    choiceOptions:
-    - 
-    nodePosition:
-      serializedVersion: 2
-      x: 1967
-      y: -927
-      width: 499
-      height: 305
-    soundEffect: {fileID: 0}
-    backgroundMusic: {fileID: 0}
-  - guid: fd0a8790-e017-41dc-9fd5-68d0278a2d09
-    characterSpr: {fileID: 0}
-    characterName: 
-    dialogueText: "Las pastillas tardar\xE1n al menos media hora en hacerme efecto.\nMejor
-      vuelvo... podr\xEDa leer un libro... podr\xEDa..."
-    backgroundSpr: {fileID: 0}
-    startNode: 0
-    endNode: 0
-    choices: 1
-    choiceOptions:
-    - 
-    nodePosition:
-      serializedVersion: 2
-      x: 2658
-      y: -927
+      x: 8852
+      y: -720
       width: 499
       height: 305
     soundEffect: {fileID: 0}
@@ -253,8 +440,8 @@ MonoBehaviour:
     - 
     nodePosition:
       serializedVersion: 2
-      x: 3338
-      y: -801
+      x: 7990
+      y: -1009
       width: 499
       height: 305
     soundEffect: {fileID: 0}
@@ -271,26 +458,8 @@ MonoBehaviour:
     - 
     nodePosition:
       serializedVersion: 2
-      x: 4802
-      y: -664
-      width: 499
-      height: 305
-    soundEffect: {fileID: 0}
-    backgroundMusic: {fileID: 0}
-  - guid: ef45be72-8213-40f1-94ca-532f83de7feb
-    characterSpr: {fileID: 0}
-    characterName: final
-    dialogueText: 
-    backgroundSpr: {fileID: 0}
-    startNode: 0
-    endNode: 1
-    choices: 1
-    choiceOptions:
-    - 
-    nodePosition:
-      serializedVersion: 2
-      x: 5834
-      y: -210
+      x: 9454
+      y: -872
       width: 499
       height: 305
     soundEffect: {fileID: 0}
@@ -308,37 +477,17 @@ MonoBehaviour:
     - No hacer nada
     nodePosition:
       serializedVersion: 2
-      x: 5303
-      y: -234
+      x: 9955
+      y: -442
       width: 499
       height: 369
     soundEffect: {fileID: 0}
     backgroundMusic: {fileID: 0}
-  - guid: 342025d9-a0e6-452c-a831-e387e5be68db
+  - guid: b5199379-9db1-495a-8ce4-ca2b63b0af99
     characterSpr: {fileID: 0}
     characterName: 
-    dialogueText: 
-    backgroundSpr: {fileID: 21300000, guid: 9e2f4443aed759741b1da37c9fc68d5e, type: 3}
-    startNode: 1
-    endNode: 0
-    choices: 1
-    choiceOptions:
-    - 
-    nodePosition:
-      serializedVersion: 2
-      x: -1027
-      y: -841
-      width: 499
-      height: 305
-    soundEffect: {fileID: 0}
-    backgroundMusic: {fileID: 0}
-  - guid: 4ae9e643-2e3a-4e8e-8436-9a467b25016b
-    characterSpr: {fileID: 0}
-    characterName: 
-    dialogueText: "Sucedi\xF3 otra vez. No me sorprende. Me fuerzo a mi misma\na
-      recordar que solo es un sue\xF1o. Que no puede hacerme da\xF1o.\nTal y como
-      dice el doctor Warren."
-    backgroundSpr: {fileID: 21300000, guid: 394a248de37a62c4593ca204c2a0b469, type: 3}
+    dialogueText: Pero necesito dormir... realmente necesito dormir...
+    backgroundSpr: {fileID: 0}
     startNode: 0
     endNode: 0
     choices: 1
@@ -346,8 +495,28 @@ MonoBehaviour:
     - 
     nodePosition:
       serializedVersion: 2
-      x: -385
-      y: -841
+      x: 5014
+      y: -1229
+      width: 499
+      height: 305
+    soundEffect: {fileID: 8300000, guid: 423f54808aa5f8d4b832aa486212b21c, type: 3}
+    backgroundMusic: {fileID: 0}
+  - guid: 06bbd899-dd5d-489b-b7c4-470af5eeabab
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Necesito un poco de agua... \xBFCuando voy a recordar no irme\na
+      dormir sin una botella al lado m\xEDo?\nNunca fuiste buena cultivando buenos
+      h\xE1bitos Karen...."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 5736
+      y: -1229
       width: 499
       height: 305
     soundEffect: {fileID: 0}
