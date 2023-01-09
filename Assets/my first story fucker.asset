@@ -34,66 +34,69 @@ MonoBehaviour:
   - guid: d7ac9ec3-e66f-41e0-94b9-88ec3ea6341f
     targetGuid: ac9ff402-7b96-461c-9fac-25d5cd0533a0
     portId: 6
-  - guid: 7f3b73e8-8e3a-47ee-bfcd-64343d3ecd00
-    targetGuid: f617d752-b4c4-487b-893b-1efa2eec76ad
-    portId: 7
-  - guid: 7f3b73e8-8e3a-47ee-bfcd-64343d3ecd00
-    targetGuid: 7183c1f4-341c-4147-a5bc-f362268a69e3
-    portId: 8
   - guid: f617d752-b4c4-487b-893b-1efa2eec76ad
     targetGuid: b5199379-9db1-495a-8ce4-ca2b63b0af99
-    portId: 9
+    portId: 7
   - guid: fd0a8790-e017-41dc-9fd5-68d0278a2d09
     targetGuid: df2d45ee-f76c-4a07-a778-3dc93e0f113a
+    portId: 8
+  - guid: 0783302f-2441-4f1e-83d1-73d9e83c2540
+    targetGuid: 5b9ecf11-d5ab-4198-b580-d5ca1e3072b7
+    portId: 9
+  - guid: 0783302f-2441-4f1e-83d1-73d9e83c2540
+    targetGuid: 5b9ecf11-d5ab-4198-b580-d5ca1e3072b7
     portId: 10
-  - guid: 7183c1f4-341c-4147-a5bc-f362268a69e3
-    targetGuid: 0783302f-2441-4f1e-83d1-73d9e83c2540
+  - guid: 0783302f-2441-4f1e-83d1-73d9e83c2540
+    targetGuid: 5b9ecf11-d5ab-4198-b580-d5ca1e3072b7
     portId: 11
-  - guid: 0783302f-2441-4f1e-83d1-73d9e83c2540
-    targetGuid: 5b9ecf11-d5ab-4198-b580-d5ca1e3072b7
-    portId: 12
-  - guid: 0783302f-2441-4f1e-83d1-73d9e83c2540
-    targetGuid: 5b9ecf11-d5ab-4198-b580-d5ca1e3072b7
-    portId: 13
-  - guid: 0783302f-2441-4f1e-83d1-73d9e83c2540
-    targetGuid: 5b9ecf11-d5ab-4198-b580-d5ca1e3072b7
-    portId: 14
   - guid: 5b9ecf11-d5ab-4198-b580-d5ca1e3072b7
     targetGuid: 51801c93-723d-4d33-9137-a8ba0993efca
-    portId: 15
+    portId: 12
   - guid: 51801c93-723d-4d33-9137-a8ba0993efca
     targetGuid: 7b2818fb-3dea-4bc9-91ba-652108d17774
-    portId: 16
+    portId: 13
   - guid: df2d45ee-f76c-4a07-a778-3dc93e0f113a
     targetGuid: 51801c93-723d-4d33-9137-a8ba0993efca
-    portId: 17
+    portId: 14
   - guid: 7b2818fb-3dea-4bc9-91ba-652108d17774
     targetGuid: 8d59691c-1e92-471f-a773-90e6e4c38839
-    portId: 18
+    portId: 15
   - guid: 8d59691c-1e92-471f-a773-90e6e4c38839
     targetGuid: ef45be72-8213-40f1-94ca-532f83de7feb
-    portId: 19
+    portId: 16
   - guid: 8d59691c-1e92-471f-a773-90e6e4c38839
     targetGuid: ef45be72-8213-40f1-94ca-532f83de7feb
-    portId: 20
+    portId: 17
   - guid: b5199379-9db1-495a-8ce4-ca2b63b0af99
     targetGuid: 06bbd899-dd5d-489b-b7c4-470af5eeabab
-    portId: 21
-  - guid: 06bbd899-dd5d-489b-b7c4-470af5eeabab
-    targetGuid: fd0a8790-e017-41dc-9fd5-68d0278a2d09
-    portId: 22
+    portId: 18
   - guid: 342025d9-a0e6-452c-a831-e387e5be68db
     targetGuid: 4ae9e643-2e3a-4e8e-8436-9a467b25016b
-    portId: 23
+    portId: 19
   - guid: 15008eae-bc81-432d-b630-07666c19906e
     targetGuid: cd780606-138a-4634-a5bb-1acfee533f2b
-    portId: 24
+    portId: 20
   - guid: cd780606-138a-4634-a5bb-1acfee533f2b
     targetGuid: 7f3b73e8-8e3a-47ee-bfcd-64343d3ecd00
-    portId: 25
+    portId: 21
   - guid: ac9ff402-7b96-461c-9fac-25d5cd0533a0
     targetGuid: 15008eae-bc81-432d-b630-07666c19906e
+    portId: 22
+  - guid: 7f3b73e8-8e3a-47ee-bfcd-64343d3ecd00
+    targetGuid: f617d752-b4c4-487b-893b-1efa2eec76ad
+    portId: 23
+  - guid: 7f3b73e8-8e3a-47ee-bfcd-64343d3ecd00
+    targetGuid: 7183c1f4-341c-4147-a5bc-f362268a69e3
+    portId: 24
+  - guid: 7183c1f4-341c-4147-a5bc-f362268a69e3
+    targetGuid: 0783302f-2441-4f1e-83d1-73d9e83c2540
+    portId: 25
+  - guid: 06bbd899-dd5d-489b-b7c4-470af5eeabab
+    targetGuid: 69f11523-1f72-4fa3-92de-c41e1921524d
     portId: 26
+  - guid: 69f11523-1f72-4fa3-92de-c41e1921524d
+    targetGuid: fd0a8790-e017-41dc-9fd5-68d0278a2d09
+    portId: 27
   nodes:
   - guid: 4ae9e643-2e3a-4e8e-8436-9a467b25016b
     characterSpr: {fileID: 0}
@@ -224,25 +227,6 @@ MonoBehaviour:
       height: 305
     soundEffect: {fileID: 0}
     backgroundMusic: {fileID: 0}
-  - guid: f617d752-b4c4-487b-893b-1efa2eec76ad
-    characterSpr: {fileID: 0}
-    characterName: 
-    dialogueText: "1 miligramo de benzodiacepinas... es el doble de lo que\nel doctor
-      Warren me aconsej\xF3 tomar... "
-    backgroundSpr: {fileID: 21300000, guid: f84e3ed4e0e77624bb37255fc5510cf5, type: 3}
-    startNode: 0
-    endNode: 0
-    choices: 1
-    choiceOptions:
-    - 
-    nodePosition:
-      serializedVersion: 2
-      x: 4446
-      y: -1186
-      width: 499
-      height: 305
-    soundEffect: {fileID: 0}
-    backgroundMusic: {fileID: 0}
   - guid: ef45be72-8213-40f1-94ca-532f83de7feb
     characterSpr: {fileID: 0}
     characterName: final
@@ -257,25 +241,6 @@ MonoBehaviour:
       serializedVersion: 2
       x: 9588
       y: -12
-      width: 499
-      height: 305
-    soundEffect: {fileID: 0}
-    backgroundMusic: {fileID: 0}
-  - guid: fd0a8790-e017-41dc-9fd5-68d0278a2d09
-    characterSpr: {fileID: 0}
-    characterName: 
-    dialogueText: "Las pastillas tardar\xE1n al menos media hora en hacerme efecto.\nMejor
-      vuelvo... podr\xEDa leer un libro... podr\xEDa..."
-    backgroundSpr: {fileID: 0}
-    startNode: 0
-    endNode: 0
-    choices: 1
-    choiceOptions:
-    - 
-    nodePosition:
-      serializedVersion: 2
-      x: 6480
-      y: -1162
       width: 499
       height: 305
     soundEffect: {fileID: 0}
@@ -394,44 +359,6 @@ MonoBehaviour:
       height: 369
     soundEffect: {fileID: 0}
     backgroundMusic: {fileID: 0}
-  - guid: b5199379-9db1-495a-8ce4-ca2b63b0af99
-    characterSpr: {fileID: 0}
-    characterName: 
-    dialogueText: Pero necesito dormir... realmente necesito dormir...
-    backgroundSpr: {fileID: 0}
-    startNode: 0
-    endNode: 0
-    choices: 1
-    choiceOptions:
-    - 
-    nodePosition:
-      serializedVersion: 2
-      x: 5014
-      y: -1229
-      width: 499
-      height: 305
-    soundEffect: {fileID: 8300000, guid: 423f54808aa5f8d4b832aa486212b21c, type: 3}
-    backgroundMusic: {fileID: 0}
-  - guid: 06bbd899-dd5d-489b-b7c4-470af5eeabab
-    characterSpr: {fileID: 0}
-    characterName: 
-    dialogueText: "Necesito un poco de agua... \xBFCuando voy a recordar no irme\na
-      dormir sin una botella al lado m\xEDo?\nNunca fuiste buena cultivando buenos
-      h\xE1bitos Karen...."
-    backgroundSpr: {fileID: 0}
-    startNode: 0
-    endNode: 0
-    choices: 1
-    choiceOptions:
-    - 
-    nodePosition:
-      serializedVersion: 2
-      x: 5736
-      y: -1229
-      width: 499
-      height: 305
-    soundEffect: {fileID: 0}
-    backgroundMusic: {fileID: 0}
   - guid: 342025d9-a0e6-452c-a831-e387e5be68db
     characterSpr: {fileID: 0}
     characterName: 
@@ -505,25 +432,6 @@ MonoBehaviour:
       height: 305
     soundEffect: {fileID: 0}
     backgroundMusic: {fileID: 0}
-  - guid: 7f3b73e8-8e3a-47ee-bfcd-64343d3ecd00
-    characterSpr: {fileID: 0}
-    characterName: 
-    dialogueText: 
-    backgroundSpr: {fileID: 21300000, guid: 28cc7a25eae69e4418801c1dd3f5054a, type: 3}
-    startNode: 0
-    endNode: 0
-    choices: 2
-    choiceOptions:
-    - tomar pastillas
-    - ir a investigar
-    nodePosition:
-      serializedVersion: 2
-      x: 2717
-      y: -755
-      width: 499
-      height: 369
-    soundEffect: {fileID: 8300000, guid: af4c9666d75ccf849b6075154d6e5fae, type: 3}
-    backgroundMusic: {fileID: 8300000, guid: b687c6e880f6fb440be84aa321601fe6, type: 3}
   - guid: 7183c1f4-341c-4147-a5bc-f362268a69e3
     characterSpr: {fileID: 0}
     characterName: 
@@ -543,3 +451,115 @@ MonoBehaviour:
       height: 305
     soundEffect: {fileID: 0}
     backgroundMusic: {fileID: 0}
+  - guid: fd0a8790-e017-41dc-9fd5-68d0278a2d09
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Las pastillas tardar\xE1n al menos media hora en hacerme efecto.\nMejor
+      vuelvo... podr\xEDa leer un libro... podr\xEDa..."
+    backgroundSpr: {fileID: 21300000, guid: 951d262d026ccce48a7e96e86e817933, type: 3}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 6918
+      y: -1107
+      width: 499
+      height: 305
+    soundEffect: {fileID: 8300000, guid: ee31c5c957769114d91dc9eb99e3db4a, type: 3}
+    backgroundMusic: {fileID: 8300000, guid: b687c6e880f6fb440be84aa321601fe6, type: 3}
+  - guid: 69f11523-1f72-4fa3-92de-c41e1921524d
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Nunca fuiste buena cultivando buenos h\xE1bitos Karen...."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 6295
+      y: -1159
+      width: 499
+      height: 305
+    soundEffect: {fileID: 8300000, guid: af4c9666d75ccf849b6075154d6e5fae, type: 3}
+    backgroundMusic: {fileID: 8300000, guid: b687c6e880f6fb440be84aa321601fe6, type: 3}
+  - guid: 06bbd899-dd5d-489b-b7c4-470af5eeabab
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Ah... necesitar\xEDa un poco de agua... \xBFCuando voy a recordar
+      no irme\na dormir sin una botella al lado m\xEDo?"
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 5736
+      y: -1229
+      width: 499
+      height: 305
+    soundEffect: {fileID: 8300000, guid: af4c9666d75ccf849b6075154d6e5fae, type: 3}
+    backgroundMusic: {fileID: 8300000, guid: b687c6e880f6fb440be84aa321601fe6, type: 3}
+  - guid: b5199379-9db1-495a-8ce4-ca2b63b0af99
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: Pero necesito dormir... realmente necesito dormir...
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 5014
+      y: -1229
+      width: 499
+      height: 305
+    soundEffect: {fileID: 8300000, guid: af4c9666d75ccf849b6075154d6e5fae, type: 3}
+    backgroundMusic: {fileID: 0}
+  - guid: f617d752-b4c4-487b-893b-1efa2eec76ad
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "1 miligramo de benzodiacepinas... es el doble de lo que\nel doctor
+      Warren me aconsej\xF3 tomar... "
+    backgroundSpr: {fileID: 21300000, guid: f84e3ed4e0e77624bb37255fc5510cf5, type: 3}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 4446
+      y: -1186
+      width: 499
+      height: 305
+    soundEffect: {fileID: 8300000, guid: af4c9666d75ccf849b6075154d6e5fae, type: 3}
+    backgroundMusic: {fileID: 8300000, guid: b687c6e880f6fb440be84aa321601fe6, type: 3}
+  - guid: 7f3b73e8-8e3a-47ee-bfcd-64343d3ecd00
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: 
+    backgroundSpr: {fileID: 21300000, guid: 28cc7a25eae69e4418801c1dd3f5054a, type: 3}
+    startNode: 0
+    endNode: 0
+    choices: 2
+    choiceOptions:
+    - Tomar pastillas
+    - Ir a investigar
+    nodePosition:
+      serializedVersion: 2
+      x: 2717
+      y: -755
+      width: 499
+      height: 369
+    soundEffect: {fileID: 8300000, guid: af4c9666d75ccf849b6075154d6e5fae, type: 3}
+    backgroundMusic: {fileID: 8300000, guid: b687c6e880f6fb440be84aa321601fe6, type: 3}
