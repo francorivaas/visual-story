@@ -139,104 +139,104 @@ MonoBehaviour:
   - guid: ec736c12-bd69-4611-8fa0-2538972a1222
     targetGuid: 653e0fba-fac5-4202-99c3-44bc20374d24
     portId: 41
-  - guid: 10d9dfb3-ad8c-4489-adea-ce59c7ff9e09
-    targetGuid: c702b3c0-56a1-49dd-88f6-bb1a1e9f245a
-    portId: 42
-  - guid: c702b3c0-56a1-49dd-88f6-bb1a1e9f245a
-    targetGuid: 5a607a49-7632-4f04-9068-c34e730d4392
-    portId: 43
   - guid: 5a607a49-7632-4f04-9068-c34e730d4392
     targetGuid: e3e23820-7ece-40a7-9e8a-37148a0b417f
-    portId: 44
+    portId: 42
   - guid: cf7416ea-b2d7-4422-9371-cc414f6dae68
     targetGuid: af522714-98dc-4be4-badd-eb9c62351881
-    portId: 45
+    portId: 43
   - guid: af522714-98dc-4be4-badd-eb9c62351881
     targetGuid: 169d63b6-d198-47c1-8675-b377c4df9f13
-    portId: 46
+    portId: 44
   - guid: 169d63b6-d198-47c1-8675-b377c4df9f13
     targetGuid: 2daee902-509a-4c72-abaf-f43e7434da89
-    portId: 47
+    portId: 45
   - guid: 2daee902-509a-4c72-abaf-f43e7434da89
     targetGuid: f1a58840-1a74-43ba-b440-5e4f6e37f7df
-    portId: 48
+    portId: 46
   - guid: f1a58840-1a74-43ba-b440-5e4f6e37f7df
     targetGuid: 88116de8-fba3-4a5a-92c2-1565cfc484af
-    portId: 49
+    portId: 47
   - guid: 88116de8-fba3-4a5a-92c2-1565cfc484af
     targetGuid: c52c1390-139e-41fe-9d16-9e09ccdaf3ed
-    portId: 50
+    portId: 48
   - guid: 88116de8-fba3-4a5a-92c2-1565cfc484af
     targetGuid: 8bac7197-6e26-4a35-87a8-4e2c99359ad0
-    portId: 51
+    portId: 49
   - guid: c52c1390-139e-41fe-9d16-9e09ccdaf3ed
     targetGuid: 1cc94a42-0b8b-4ec3-acf5-4a43603ba66a
-    portId: 52
+    portId: 50
   - guid: 8bac7197-6e26-4a35-87a8-4e2c99359ad0
     targetGuid: 1cc94a42-0b8b-4ec3-acf5-4a43603ba66a
+    portId: 51
+  - guid: 00233784-0f61-4dfa-9545-d8d17201412f
+    targetGuid: cf7416ea-b2d7-4422-9371-cc414f6dae68
+    portId: 52
+  - guid: 00233784-0f61-4dfa-9545-d8d17201412f
+    targetGuid: cf7416ea-b2d7-4422-9371-cc414f6dae68
     portId: 53
   - guid: 00233784-0f61-4dfa-9545-d8d17201412f
     targetGuid: cf7416ea-b2d7-4422-9371-cc414f6dae68
     portId: 54
-  - guid: 00233784-0f61-4dfa-9545-d8d17201412f
-    targetGuid: cf7416ea-b2d7-4422-9371-cc414f6dae68
-    portId: 55
-  - guid: 00233784-0f61-4dfa-9545-d8d17201412f
-    targetGuid: cf7416ea-b2d7-4422-9371-cc414f6dae68
-    portId: 56
   - guid: 24b2cbd0-b3a4-4302-9dd8-147d798ea1fe
     targetGuid: 00233784-0f61-4dfa-9545-d8d17201412f
-    portId: 57
+    portId: 55
   - guid: 8c14f1d8-e18f-4136-92fe-6d0604d128e3
     targetGuid: 24b2cbd0-b3a4-4302-9dd8-147d798ea1fe
-    portId: 58
+    portId: 56
   - guid: d953ea48-34ab-403d-9502-834b99b2050f
     targetGuid: ec648684-939c-4ee0-808f-8ce46a0f2667
-    portId: 59
+    portId: 57
   - guid: ec648684-939c-4ee0-808f-8ce46a0f2667
     targetGuid: 5930894a-edbe-42b2-98d8-674421c5c95e
-    portId: 60
+    portId: 58
   - guid: 5930894a-edbe-42b2-98d8-674421c5c95e
     targetGuid: 8c14f1d8-e18f-4136-92fe-6d0604d128e3
-    portId: 61
+    portId: 59
   - guid: 5b0b0220-26fa-4ad2-ae15-283962945f73
     targetGuid: 8c14f1d8-e18f-4136-92fe-6d0604d128e3
-    portId: 62
+    portId: 60
   - guid: 3212d8c3-cc7a-41d8-a5d8-46dbca640066
     targetGuid: 5b0b0220-26fa-4ad2-ae15-283962945f73
-    portId: 63
+    portId: 61
   - guid: 7298b481-0bd2-4bec-9977-8f86925dfc3c
     targetGuid: d953ea48-34ab-403d-9502-834b99b2050f
-    portId: 64
+    portId: 62
   - guid: c9e7f7cc-372b-4535-87f3-5a8e1dd7a50c
     targetGuid: 3212d8c3-cc7a-41d8-a5d8-46dbca640066
-    portId: 65
+    portId: 63
   - guid: c9e7f7cc-372b-4535-87f3-5a8e1dd7a50c
     targetGuid: 7298b481-0bd2-4bec-9977-8f86925dfc3c
-    portId: 66
+    portId: 64
   - guid: 38d2406f-bc2a-405b-8450-9ef51781d1ae
     targetGuid: c9e7f7cc-372b-4535-87f3-5a8e1dd7a50c
-    portId: 67
+    portId: 65
   - guid: 91c4557a-4e07-40b4-b2a3-fcab9f71a461
     targetGuid: 38d2406f-bc2a-405b-8450-9ef51781d1ae
-    portId: 68
+    portId: 66
   - guid: 16942520-8a3f-4e24-b8fa-c6aa5311c09f
     targetGuid: 91c4557a-4e07-40b4-b2a3-fcab9f71a461
-    portId: 69
+    portId: 67
   - guid: a83e0968-2144-4a4c-b130-eda29d0ce1ad
     targetGuid: 16942520-8a3f-4e24-b8fa-c6aa5311c09f
-    portId: 70
+    portId: 68
   - guid: dce5e125-36a9-433e-a7b5-75cb627abc6f
     targetGuid: a83e0968-2144-4a4c-b130-eda29d0ce1ad
-    portId: 71
+    portId: 69
   - guid: e3e23820-7ece-40a7-9e8a-37148a0b417f
     targetGuid: dce5e125-36a9-433e-a7b5-75cb627abc6f
-    portId: 72
+    portId: 70
   - guid: 653e0fba-fac5-4202-99c3-44bc20374d24
     targetGuid: 0783302f-2441-4f1e-83d1-73d9e83c2540
-    portId: 73
+    portId: 71
   - guid: 653e0fba-fac5-4202-99c3-44bc20374d24
     targetGuid: 10d9dfb3-ad8c-4489-adea-ce59c7ff9e09
+    portId: 72
+  - guid: c702b3c0-56a1-49dd-88f6-bb1a1e9f245a
+    targetGuid: 5a607a49-7632-4f04-9068-c34e730d4392
+    portId: 73
+  - guid: 10d9dfb3-ad8c-4489-adea-ce59c7ff9e09
+    targetGuid: c702b3c0-56a1-49dd-88f6-bb1a1e9f245a
     portId: 74
   nodes:
   - guid: a3832139-3019-4074-8d07-f445c5140f89
@@ -1197,115 +1197,6 @@ MonoBehaviour:
       height: 305
     soundEffect: {fileID: 0}
     backgroundMusic: {fileID: 0}
-  - guid: d953ea48-34ab-403d-9502-834b99b2050f
-    characterSpr: {fileID: 0}
-    characterName: 
-    dialogueText: "El doctor Warren dice que los sue\xF1os solo nos dan informaci\xF3n
-      de nuestro subconsciente."
-    backgroundSpr: {fileID: 0}
-    startNode: 0
-    endNode: 0
-    choices: 1
-    choiceOptions:
-    - 
-    nodePosition:
-      serializedVersion: 2
-      x: 19162
-      y: -1853
-      width: 499
-      height: 305
-    soundEffect: {fileID: 0}
-    backgroundMusic: {fileID: 0}
-  - guid: ec648684-939c-4ee0-808f-8ce46a0f2667
-    characterSpr: {fileID: 0}
-    characterName: 
-    dialogueText: "\xBFQu\xE9 dice eso de mi?"
-    backgroundSpr: {fileID: 0}
-    startNode: 0
-    endNode: 0
-    choices: 1
-    choiceOptions:
-    - 
-    nodePosition:
-      serializedVersion: 2
-      x: 19742
-      y: -1853
-      width: 499
-      height: 305
-    soundEffect: {fileID: 0}
-    backgroundMusic: {fileID: 0}
-  - guid: 5930894a-edbe-42b2-98d8-674421c5c95e
-    characterSpr: {fileID: 0}
-    characterName: 
-    dialogueText: Por dios... soy un espanto...
-    backgroundSpr: {fileID: 0}
-    startNode: 0
-    endNode: 0
-    choices: 1
-    choiceOptions:
-    - 
-    nodePosition:
-      serializedVersion: 2
-      x: 20323
-      y: -1853
-      width: 499
-      height: 305
-    soundEffect: {fileID: 0}
-    backgroundMusic: {fileID: 0}
-  - guid: 5b0b0220-26fa-4ad2-ae15-283962945f73
-    characterSpr: {fileID: 0}
-    characterName: 
-    dialogueText: "Recuerdos que se forman cuando estamos m\xE1s vulnerables..."
-    backgroundSpr: {fileID: 0}
-    startNode: 0
-    endNode: 0
-    choices: 1
-    choiceOptions:
-    - 
-    nodePosition:
-      serializedVersion: 2
-      x: 19445
-      y: -2404
-      width: 499
-      height: 305
-    soundEffect: {fileID: 0}
-    backgroundMusic: {fileID: 0}
-  - guid: 3212d8c3-cc7a-41d8-a5d8-46dbca640066
-    characterSpr: {fileID: 0}
-    characterName: 
-    dialogueText: Si... lamentablemente se transforman en recuerdos...
-    backgroundSpr: {fileID: 0}
-    startNode: 0
-    endNode: 0
-    choices: 1
-    choiceOptions:
-    - 
-    nodePosition:
-      serializedVersion: 2
-      x: 18806
-      y: -2405
-      width: 499
-      height: 305
-    soundEffect: {fileID: 0}
-    backgroundMusic: {fileID: 0}
-  - guid: 7298b481-0bd2-4bec-9977-8f86925dfc3c
-    characterSpr: {fileID: 0}
-    characterName: 
-    dialogueText: "Pensarlo as\xED no me calma tanto como hubiese esperado."
-    backgroundSpr: {fileID: 0}
-    startNode: 0
-    endNode: 0
-    choices: 1
-    choiceOptions:
-    - 
-    nodePosition:
-      serializedVersion: 2
-      x: 18102
-      y: -1675
-      width: 499
-      height: 305
-    soundEffect: {fileID: 0}
-    backgroundMusic: {fileID: 0}
   - guid: c9e7f7cc-372b-4535-87f3-5a8e1dd7a50c
     characterSpr: {fileID: 0}
     characterName: 
@@ -1417,24 +1308,6 @@ MonoBehaviour:
       height: 305
     soundEffect: {fileID: 0}
     backgroundMusic: {fileID: 0}
-  - guid: e3e23820-7ece-40a7-9e8a-37148a0b417f
-    characterSpr: {fileID: 0}
-    characterName: 
-    dialogueText: Aquellos pensamientos que solo aparecen de noche.
-    backgroundSpr: {fileID: 0}
-    startNode: 0
-    endNode: 0
-    choices: 1
-    choiceOptions:
-    - 
-    nodePosition:
-      serializedVersion: 2
-      x: 12281
-      y: -1940
-      width: 499
-      height: 305
-    soundEffect: {fileID: 0}
-    backgroundMusic: {fileID: 0}
   - guid: 653e0fba-fac5-4202-99c3-44bc20374d24
     characterSpr: {fileID: 0}
     characterName: 
@@ -1490,3 +1363,130 @@ MonoBehaviour:
       height: 305
     soundEffect: {fileID: 0}
     backgroundMusic: {fileID: 8300000, guid: 3f221df4c1fb662489c944eb569ccf35, type: 3}
+  - guid: e3e23820-7ece-40a7-9e8a-37148a0b417f
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: Aquellos pensamientos que solo aparecen de noche.
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 12281
+      y: -1940
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 7298b481-0bd2-4bec-9977-8f86925dfc3c
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Pensarlo as\xED no me calma tanto como hubiese esperado."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 17102
+      y: -1619
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 3212d8c3-cc7a-41d8-a5d8-46dbca640066
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: Si... lamentablemente se transforman en recuerdos...
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 17102
+      y: -2245
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: d953ea48-34ab-403d-9502-834b99b2050f
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "El doctor Warren dice que los sue\xF1os solo nos dan informaci\xF3n
+      de nuestro subconsciente."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 17897
+      y: -1619
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: ec648684-939c-4ee0-808f-8ce46a0f2667
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "\xBFQu\xE9 dice eso de mi?"
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 18560
+      y: -1619
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 5930894a-edbe-42b2-98d8-674421c5c95e
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: Por dios... soy un espanto...
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 19236
+      y: -1619
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 5b0b0220-26fa-4ad2-ae15-283962945f73
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Recuerdos que se forman cuando estamos m\xE1s vulnerables..."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 17897
+      y: -2244
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
