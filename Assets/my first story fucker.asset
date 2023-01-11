@@ -519,7 +519,7 @@ MonoBehaviour:
   - guid: 7f3b73e8-8e3a-47ee-bfcd-64343d3ecd00
     characterSpr: {fileID: 0}
     characterName: 
-    dialogueText: 
+    dialogueText: "\xBFQu\xE9 deber\xEDa hacer?"
     backgroundSpr: {fileID: 21300000, guid: 28cc7a25eae69e4418801c1dd3f5054a, type: 3}
     startNode: 0
     endNode: 0
