@@ -85,80 +85,80 @@ MonoBehaviour:
   - guid: 7183c1f4-341c-4147-a5bc-f362268a69e3
     targetGuid: 0783302f-2441-4f1e-83d1-73d9e83c2540
     portId: 23
-  - guid: 57cd3fef-823c-4ba2-82b6-4a0d8f94f43a
-    targetGuid: 653e0fba-fac5-4202-99c3-44bc20374d24
-    portId: 24
   - guid: d288bbc9-4088-477f-a5fc-44761216b656
     targetGuid: a67834d4-6c86-43e1-b1b4-2fc9ddf4448a
-    portId: 25
+    portId: 24
   - guid: a67834d4-6c86-43e1-b1b4-2fc9ddf4448a
     targetGuid: 7f8dab5f-964f-4d13-bf0f-077beb8f6dbe
-    portId: 26
+    portId: 25
   - guid: 7f8dab5f-964f-4d13-bf0f-077beb8f6dbe
     targetGuid: 254d7449-3d4e-4fab-8fcf-25a1ef423d17
-    portId: 27
+    portId: 26
   - guid: 254d7449-3d4e-4fab-8fcf-25a1ef423d17
     targetGuid: ac8c6441-a7b6-4285-b1ec-60a50feda9ef
-    portId: 28
+    portId: 27
   - guid: ac8c6441-a7b6-4285-b1ec-60a50feda9ef
     targetGuid: ba9d70c1-dd06-4666-8d7a-1f3ed644433b
-    portId: 29
+    portId: 28
   - guid: ba9d70c1-dd06-4666-8d7a-1f3ed644433b
     targetGuid: dd2d2201-42b7-40b1-9b2c-e63aa57a3ac4
-    portId: 30
+    portId: 29
   - guid: dd2d2201-42b7-40b1-9b2c-e63aa57a3ac4
     targetGuid: 653e0fba-fac5-4202-99c3-44bc20374d24
-    portId: 31
+    portId: 30
   - guid: 1a7a99f9-2316-4b83-abbd-c9c74e672282
     targetGuid: 3e0a9996-1895-4081-bd40-cf701664075d
-    portId: 32
+    portId: 31
   - guid: 3e0a9996-1895-4081-bd40-cf701664075d
     targetGuid: 35b0543c-4bd2-4ba0-8bec-0858ca03023d
-    portId: 33
+    portId: 32
   - guid: 35b0543c-4bd2-4ba0-8bec-0858ca03023d
     targetGuid: 01ab60a1-5b4a-43f9-a364-2a9835a7f719
-    portId: 34
+    portId: 33
   - guid: 01ab60a1-5b4a-43f9-a364-2a9835a7f719
     targetGuid: 05405038-b213-4b86-be8d-3a1652bb21c5
-    portId: 35
+    portId: 34
   - guid: 05405038-b213-4b86-be8d-3a1652bb21c5
     targetGuid: beaf19bd-0693-4681-b928-f97b8cfcffda
-    portId: 36
+    portId: 35
   - guid: beaf19bd-0693-4681-b928-f97b8cfcffda
     targetGuid: ec736c12-bd69-4611-8fa0-2538972a1222
-    portId: 37
+    portId: 36
   - guid: ec736c12-bd69-4611-8fa0-2538972a1222
     targetGuid: 653e0fba-fac5-4202-99c3-44bc20374d24
-    portId: 38
+    portId: 37
   - guid: 5a607a49-7632-4f04-9068-c34e730d4392
     targetGuid: e3e23820-7ece-40a7-9e8a-37148a0b417f
-    portId: 39
+    portId: 38
   - guid: cf7416ea-b2d7-4422-9371-cc414f6dae68
     targetGuid: af522714-98dc-4be4-badd-eb9c62351881
-    portId: 40
+    portId: 39
   - guid: af522714-98dc-4be4-badd-eb9c62351881
     targetGuid: 169d63b6-d198-47c1-8675-b377c4df9f13
-    portId: 41
+    portId: 40
   - guid: 169d63b6-d198-47c1-8675-b377c4df9f13
     targetGuid: 2daee902-509a-4c72-abaf-f43e7434da89
-    portId: 42
+    portId: 41
   - guid: 2daee902-509a-4c72-abaf-f43e7434da89
     targetGuid: f1a58840-1a74-43ba-b440-5e4f6e37f7df
-    portId: 43
+    portId: 42
   - guid: f1a58840-1a74-43ba-b440-5e4f6e37f7df
     targetGuid: 88116de8-fba3-4a5a-92c2-1565cfc484af
-    portId: 44
+    portId: 43
   - guid: 88116de8-fba3-4a5a-92c2-1565cfc484af
     targetGuid: c52c1390-139e-41fe-9d16-9e09ccdaf3ed
-    portId: 45
+    portId: 44
   - guid: 88116de8-fba3-4a5a-92c2-1565cfc484af
     targetGuid: 8bac7197-6e26-4a35-87a8-4e2c99359ad0
-    portId: 46
+    portId: 45
   - guid: c52c1390-139e-41fe-9d16-9e09ccdaf3ed
     targetGuid: 1cc94a42-0b8b-4ec3-acf5-4a43603ba66a
-    portId: 47
+    portId: 46
   - guid: 8bac7197-6e26-4a35-87a8-4e2c99359ad0
     targetGuid: 1cc94a42-0b8b-4ec3-acf5-4a43603ba66a
+    portId: 47
+  - guid: 00233784-0f61-4dfa-9545-d8d17201412f
+    targetGuid: cf7416ea-b2d7-4422-9371-cc414f6dae68
     portId: 48
   - guid: 00233784-0f61-4dfa-9545-d8d17201412f
     targetGuid: cf7416ea-b2d7-4422-9371-cc414f6dae68
@@ -166,78 +166,84 @@ MonoBehaviour:
   - guid: 00233784-0f61-4dfa-9545-d8d17201412f
     targetGuid: cf7416ea-b2d7-4422-9371-cc414f6dae68
     portId: 50
-  - guid: 00233784-0f61-4dfa-9545-d8d17201412f
-    targetGuid: cf7416ea-b2d7-4422-9371-cc414f6dae68
-    portId: 51
   - guid: 24b2cbd0-b3a4-4302-9dd8-147d798ea1fe
     targetGuid: 00233784-0f61-4dfa-9545-d8d17201412f
-    portId: 52
+    portId: 51
   - guid: 8c14f1d8-e18f-4136-92fe-6d0604d128e3
     targetGuid: 24b2cbd0-b3a4-4302-9dd8-147d798ea1fe
-    portId: 53
+    portId: 52
   - guid: c9e7f7cc-372b-4535-87f3-5a8e1dd7a50c
     targetGuid: 3212d8c3-cc7a-41d8-a5d8-46dbca640066
-    portId: 54
+    portId: 53
   - guid: c9e7f7cc-372b-4535-87f3-5a8e1dd7a50c
     targetGuid: 7298b481-0bd2-4bec-9977-8f86925dfc3c
-    portId: 55
+    portId: 54
   - guid: 38d2406f-bc2a-405b-8450-9ef51781d1ae
     targetGuid: c9e7f7cc-372b-4535-87f3-5a8e1dd7a50c
-    portId: 56
+    portId: 55
   - guid: 91c4557a-4e07-40b4-b2a3-fcab9f71a461
     targetGuid: 38d2406f-bc2a-405b-8450-9ef51781d1ae
-    portId: 57
+    portId: 56
   - guid: 16942520-8a3f-4e24-b8fa-c6aa5311c09f
     targetGuid: 91c4557a-4e07-40b4-b2a3-fcab9f71a461
-    portId: 58
+    portId: 57
   - guid: a83e0968-2144-4a4c-b130-eda29d0ce1ad
     targetGuid: 16942520-8a3f-4e24-b8fa-c6aa5311c09f
-    portId: 59
+    portId: 58
   - guid: dce5e125-36a9-433e-a7b5-75cb627abc6f
     targetGuid: a83e0968-2144-4a4c-b130-eda29d0ce1ad
-    portId: 60
+    portId: 59
   - guid: 653e0fba-fac5-4202-99c3-44bc20374d24
     targetGuid: 0783302f-2441-4f1e-83d1-73d9e83c2540
-    portId: 61
+    portId: 60
   - guid: 653e0fba-fac5-4202-99c3-44bc20374d24
     targetGuid: 10d9dfb3-ad8c-4489-adea-ce59c7ff9e09
-    portId: 62
+    portId: 61
   - guid: c702b3c0-56a1-49dd-88f6-bb1a1e9f245a
     targetGuid: 5a607a49-7632-4f04-9068-c34e730d4392
-    portId: 63
+    portId: 62
   - guid: e3e23820-7ece-40a7-9e8a-37148a0b417f
     targetGuid: dce5e125-36a9-433e-a7b5-75cb627abc6f
-    portId: 64
+    portId: 63
   - guid: 7298b481-0bd2-4bec-9977-8f86925dfc3c
     targetGuid: d953ea48-34ab-403d-9502-834b99b2050f
-    portId: 65
+    portId: 64
   - guid: 3212d8c3-cc7a-41d8-a5d8-46dbca640066
     targetGuid: 5b0b0220-26fa-4ad2-ae15-283962945f73
-    portId: 66
+    portId: 65
   - guid: d953ea48-34ab-403d-9502-834b99b2050f
     targetGuid: ec648684-939c-4ee0-808f-8ce46a0f2667
-    portId: 67
+    portId: 66
   - guid: ec648684-939c-4ee0-808f-8ce46a0f2667
     targetGuid: 5930894a-edbe-42b2-98d8-674421c5c95e
-    portId: 68
+    portId: 67
   - guid: 5930894a-edbe-42b2-98d8-674421c5c95e
     targetGuid: 8c14f1d8-e18f-4136-92fe-6d0604d128e3
-    portId: 69
+    portId: 68
   - guid: 5b0b0220-26fa-4ad2-ae15-283962945f73
     targetGuid: 8c14f1d8-e18f-4136-92fe-6d0604d128e3
-    portId: 70
+    portId: 69
   - guid: 891c3a7f-125a-494a-814a-e11c21f28a76
     targetGuid: 1a7a99f9-2316-4b83-abbd-c9c74e672282
-    portId: 71
-  - guid: f24943f4-2ac8-44d1-a055-e77fa4e44767
-    targetGuid: 57cd3fef-823c-4ba2-82b6-4a0d8f94f43a
-    portId: 72
+    portId: 70
   - guid: 10d9dfb3-ad8c-4489-adea-ce59c7ff9e09
     targetGuid: c702b3c0-56a1-49dd-88f6-bb1a1e9f245a
-    portId: 73
+    portId: 71
   - guid: f29463e7-c1b1-4c44-9eaa-259021505686
     targetGuid: d288bbc9-4088-477f-a5fc-44761216b656
+    portId: 72
+  - guid: f24943f4-2ac8-44d1-a055-e77fa4e44767
+    targetGuid: dfdd1bb5-e71c-49c1-90e5-76836a191cab
+    portId: 73
+  - guid: dfdd1bb5-e71c-49c1-90e5-76836a191cab
+    targetGuid: 79cb0150-6173-4f15-a987-7ec4b717b7eb
     portId: 74
+  - guid: 79cb0150-6173-4f15-a987-7ec4b717b7eb
+    targetGuid: 782f93eb-0585-4f43-b66f-c525f6494360
+    portId: 75
+  - guid: 79cb0150-6173-4f15-a987-7ec4b717b7eb
+    targetGuid: 786385e0-59c5-49df-a4ea-41b2e9d6f34c
+    portId: 76
   nodes:
   - guid: a3832139-3019-4074-8d07-f445c5140f89
     characterSpr: {fileID: 0}
@@ -625,24 +631,6 @@ MonoBehaviour:
       serializedVersion: 2
       x: 3212
       y: -72
-      width: 499
-      height: 305
-    soundEffect: {fileID: 0}
-    backgroundMusic: {fileID: 0}
-  - guid: 57cd3fef-823c-4ba2-82b6-4a0d8f94f43a
-    characterSpr: {fileID: 0}
-    characterName: 
-    dialogueText: No escucho nada. Tampoco veo nada raro. Mejor volver
-    backgroundSpr: {fileID: 0}
-    startNode: 0
-    endNode: 0
-    choices: 1
-    choiceOptions:
-    - 
-    nodePosition:
-      serializedVersion: 2
-      x: 5192
-      y: -298
       width: 499
       height: 305
     soundEffect: {fileID: 0}
@@ -1490,3 +1478,76 @@ MonoBehaviour:
       height: 305
     soundEffect: {fileID: 8300000, guid: 5fa9263fabd1b354ea6b163da61cbcb7, type: 3}
     backgroundMusic: {fileID: 8300000, guid: 1aff510f31e7bc6449250f5ca8754b13, type: 3}
+  - guid: dfdd1bb5-e71c-49c1-90e5-76836a191cab
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "El ruido de estos electrodom\xE9sticos va a volverme loca..."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 5273
+      y: -410
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 79cb0150-6173-4f15-a987-7ec4b717b7eb
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: 
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 2
+    choiceOptions:
+    - 
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 5828
+      y: -524
+      width: 499
+      height: 369
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 782f93eb-0585-4f43-b66f-c525f6494360
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: 
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 6448
+      y: -862
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 786385e0-59c5-49df-a4ea-41b2e9d6f34c
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: 
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 6480
+      y: -460
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}

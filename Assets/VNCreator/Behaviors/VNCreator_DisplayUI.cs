@@ -27,6 +27,7 @@ namespace VNCreator
         public Button choiceBtn1;
         public Button choiceBtn2;
         public Button choiceBtn3;
+        public Button choiceBtn4;
         [Header("End")]
         public GameObject endScreen;
         [Header("Main menu")]
@@ -49,6 +50,8 @@ namespace VNCreator
                 choiceBtn2.onClick.AddListener(delegate { NextNode(1); });
             if(choiceBtn3 != null)
                 choiceBtn3.onClick.AddListener(delegate { NextNode(2); });
+            if (choiceBtn4 != null)
+                choiceBtn4.onClick.AddListener(delegate { NextNode(2); });
 
             endScreen.SetActive(false);
 
