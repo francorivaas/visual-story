@@ -1924,7 +1924,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &686884339
 RectTransform:
   m_ObjectHideFlags: 0
@@ -3468,6 +3468,7 @@ MonoBehaviour:
   choiceBtn1: {fileID: 199742158}
   choiceBtn2: {fileID: 346263642}
   choiceBtn3: {fileID: 1427051549}
+  choiceBtn4: {fileID: 0}
   endScreen: {fileID: 475204577}
   mainMenu: Assets/Scenes/Main Menu.unity
 --- !u!4 &1466996396
