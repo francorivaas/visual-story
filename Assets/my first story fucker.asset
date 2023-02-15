@@ -166,81 +166,96 @@ MonoBehaviour:
   - guid: 24b2cbd0-b3a4-4302-9dd8-147d798ea1fe
     targetGuid: 00233784-0f61-4dfa-9545-d8d17201412f
     portId: 50
-  - guid: 00233784-0f61-4dfa-9545-d8d17201412f
-    targetGuid: cf7416ea-b2d7-4422-9371-cc414f6dae68
-    portId: 51
-  - guid: 00233784-0f61-4dfa-9545-d8d17201412f
-    targetGuid: cf7416ea-b2d7-4422-9371-cc414f6dae68
-    portId: 52
-  - guid: 00233784-0f61-4dfa-9545-d8d17201412f
-    targetGuid: cf7416ea-b2d7-4422-9371-cc414f6dae68
-    portId: 53
   - guid: af522714-98dc-4be4-badd-eb9c62351881
     targetGuid: 169d63b6-d198-47c1-8675-b377c4df9f13
-    portId: 54
+    portId: 51
   - guid: 169d63b6-d198-47c1-8675-b377c4df9f13
     targetGuid: 2daee902-509a-4c72-abaf-f43e7434da89
-    portId: 55
+    portId: 52
   - guid: 2daee902-509a-4c72-abaf-f43e7434da89
     targetGuid: f1a58840-1a74-43ba-b440-5e4f6e37f7df
-    portId: 56
+    portId: 53
   - guid: f1a58840-1a74-43ba-b440-5e4f6e37f7df
     targetGuid: 88116de8-fba3-4a5a-92c2-1565cfc484af
-    portId: 57
-  - guid: 88116de8-fba3-4a5a-92c2-1565cfc484af
-    targetGuid: c52c1390-139e-41fe-9d16-9e09ccdaf3ed
-    portId: 58
+    portId: 54
   - guid: 88116de8-fba3-4a5a-92c2-1565cfc484af
     targetGuid: 8bac7197-6e26-4a35-87a8-4e2c99359ad0
-    portId: 59
-  - guid: c52c1390-139e-41fe-9d16-9e09ccdaf3ed
-    targetGuid: 1cc94a42-0b8b-4ec3-acf5-4a43603ba66a
-    portId: 60
+    portId: 55
+  - guid: 88116de8-fba3-4a5a-92c2-1565cfc484af
+    targetGuid: 140692c5-b4cd-4859-856f-ae417fa47067
+    portId: 56
   - guid: 8bac7197-6e26-4a35-87a8-4e2c99359ad0
-    targetGuid: 1cc94a42-0b8b-4ec3-acf5-4a43603ba66a
-    portId: 61
+    targetGuid: 4fa66298-d95e-44ef-81ea-7b1c701ddb30
+    portId: 57
   - guid: cf7416ea-b2d7-4422-9371-cc414f6dae68
     targetGuid: af522714-98dc-4be4-badd-eb9c62351881
-    portId: 62
+    portId: 58
   - guid: d953ea48-34ab-403d-9502-834b99b2050f
     targetGuid: ec648684-939c-4ee0-808f-8ce46a0f2667
-    portId: 63
+    portId: 59
   - guid: ec648684-939c-4ee0-808f-8ce46a0f2667
     targetGuid: 5930894a-edbe-42b2-98d8-674421c5c95e
-    portId: 64
+    portId: 60
   - guid: 5930894a-edbe-42b2-98d8-674421c5c95e
     targetGuid: 8c14f1d8-e18f-4136-92fe-6d0604d128e3
-    portId: 65
+    portId: 61
   - guid: 5b0b0220-26fa-4ad2-ae15-283962945f73
     targetGuid: 8c14f1d8-e18f-4136-92fe-6d0604d128e3
-    portId: 66
+    portId: 62
   - guid: 3212d8c3-cc7a-41d8-a5d8-46dbca640066
     targetGuid: 5b0b0220-26fa-4ad2-ae15-283962945f73
-    portId: 67
+    portId: 63
   - guid: c9e7f7cc-372b-4535-87f3-5a8e1dd7a50c
     targetGuid: 3212d8c3-cc7a-41d8-a5d8-46dbca640066
-    portId: 68
+    portId: 64
   - guid: c9e7f7cc-372b-4535-87f3-5a8e1dd7a50c
     targetGuid: 7298b481-0bd2-4bec-9977-8f86925dfc3c
-    portId: 69
+    portId: 65
   - guid: 38d2406f-bc2a-405b-8450-9ef51781d1ae
     targetGuid: c9e7f7cc-372b-4535-87f3-5a8e1dd7a50c
-    portId: 70
+    portId: 66
   - guid: 91c4557a-4e07-40b4-b2a3-fcab9f71a461
     targetGuid: 38d2406f-bc2a-405b-8450-9ef51781d1ae
-    portId: 71
+    portId: 67
   - guid: 16942520-8a3f-4e24-b8fa-c6aa5311c09f
     targetGuid: 91c4557a-4e07-40b4-b2a3-fcab9f71a461
-    portId: 72
+    portId: 68
   - guid: a83e0968-2144-4a4c-b130-eda29d0ce1ad
     targetGuid: 16942520-8a3f-4e24-b8fa-c6aa5311c09f
-    portId: 73
+    portId: 69
   - guid: dce5e125-36a9-433e-a7b5-75cb627abc6f
     targetGuid: a83e0968-2144-4a4c-b130-eda29d0ce1ad
-    portId: 74
+    portId: 70
   - guid: e3e23820-7ece-40a7-9e8a-37148a0b417f
     targetGuid: dce5e125-36a9-433e-a7b5-75cb627abc6f
+    portId: 71
+  - guid: 4fa66298-d95e-44ef-81ea-7b1c701ddb30
+    targetGuid: 0a684e6b-3e06-40c9-88d7-ff6b4b70aeb3
+    portId: 72
+  - guid: 00233784-0f61-4dfa-9545-d8d17201412f
+    targetGuid: cf7416ea-b2d7-4422-9371-cc414f6dae68
+    portId: 73
+  - guid: 00233784-0f61-4dfa-9545-d8d17201412f
+    targetGuid: cf7416ea-b2d7-4422-9371-cc414f6dae68
+    portId: 74
+  - guid: 00233784-0f61-4dfa-9545-d8d17201412f
+    targetGuid: cf7416ea-b2d7-4422-9371-cc414f6dae68
     portId: 75
+  - guid: c52c1390-139e-41fe-9d16-9e09ccdaf3ed
+    targetGuid: d4cec7a3-7f81-4aae-acbc-87fd6b6173e4
+    portId: 76
+  - guid: 140692c5-b4cd-4859-856f-ae417fa47067
+    targetGuid: c52c1390-139e-41fe-9d16-9e09ccdaf3ed
+    portId: 77
+  - guid: 0a684e6b-3e06-40c9-88d7-ff6b4b70aeb3
+    targetGuid: 917cfe0b-4348-43a8-9a90-d05fb1d417bd
+    portId: 78
+  - guid: 917cfe0b-4348-43a8-9a90-d05fb1d417bd
+    targetGuid: 58029982-dd0a-4300-bddb-47a3292998dd
+    portId: 79
+  - guid: 58029982-dd0a-4300-bddb-47a3292998dd
+    targetGuid: d4cec7a3-7f81-4aae-acbc-87fd6b6173e4
+    portId: 80
   nodes:
   - guid: a3832139-3019-4074-8d07-f445c5140f89
     characterSpr: {fileID: 0}
@@ -1106,26 +1121,6 @@ MonoBehaviour:
       height: 305
     soundEffect: {fileID: 0}
     backgroundMusic: {fileID: 0}
-  - guid: 00233784-0f61-4dfa-9545-d8d17201412f
-    characterSpr: {fileID: 0}
-    characterName: 
-    dialogueText: "Recuerdo que ten\xEDa..."
-    backgroundSpr: {fileID: 0}
-    startNode: 0
-    endNode: 0
-    choices: 3
-    choiceOptions:
-    - Tres ojos
-    - Una boca muy larga
-    - Le faltaba media cabeza
-    nodePosition:
-      serializedVersion: 2
-      x: 21434
-      y: -2088
-      width: 499
-      height: 413
-    soundEffect: {fileID: 0}
-    backgroundMusic: {fileID: 0}
   - guid: af522714-98dc-4be4-badd-eb9c62351881
     characterSpr: {fileID: 0}
     characterName: 
@@ -1209,8 +1204,8 @@ MonoBehaviour:
     endNode: 0
     choices: 2
     choiceOptions:
-    - Revisar debajo de la cama
     - Olvidarse de todo de una puta vez
+    - Revisar debajo de la cama
     nodePosition:
       serializedVersion: 2
       x: 25159
@@ -1219,28 +1214,10 @@ MonoBehaviour:
       height: 369
     soundEffect: {fileID: 0}
     backgroundMusic: {fileID: 0}
-  - guid: c52c1390-139e-41fe-9d16-9e09ccdaf3ed
-    characterSpr: {fileID: 0}
-    characterName: 
-    dialogueText: 
-    backgroundSpr: {fileID: 0}
-    startNode: 0
-    endNode: 0
-    choices: 1
-    choiceOptions:
-    - 
-    nodePosition:
-      serializedVersion: 2
-      x: 25749
-      y: -2158
-      width: 499
-      height: 305
-    soundEffect: {fileID: 0}
-    backgroundMusic: {fileID: 0}
   - guid: 8bac7197-6e26-4a35-87a8-4e2c99359ad0
     characterSpr: {fileID: 0}
     characterName: 
-    dialogueText: 
+    dialogueText: Tal vez eso sea lo mejor.
     backgroundSpr: {fileID: 0}
     startNode: 0
     endNode: 0
@@ -1251,24 +1228,6 @@ MonoBehaviour:
       serializedVersion: 2
       x: 25749
       y: -1788
-      width: 499
-      height: 305
-    soundEffect: {fileID: 0}
-    backgroundMusic: {fileID: 0}
-  - guid: 1cc94a42-0b8b-4ec3-acf5-4a43603ba66a
-    characterSpr: {fileID: 0}
-    characterName: 
-    dialogueText: 
-    backgroundSpr: {fileID: 0}
-    startNode: 0
-    endNode: 1
-    choices: 1
-    choiceOptions:
-    - 
-    nodePosition:
-      serializedVersion: 2
-      x: 26344
-      y: -1976
       width: 499
       height: 305
     soundEffect: {fileID: 0}
@@ -1507,6 +1466,152 @@ MonoBehaviour:
       serializedVersion: 2
       x: 12279
       y: -1988
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 4fa66298-d95e-44ef-81ea-7b1c701ddb30
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: Cierro los ojos e intento deslizarme a un mundo mejor...
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 26295
+      y: -1788
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 00233784-0f61-4dfa-9545-d8d17201412f
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Recuerdo que ten\xEDa..."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 3
+    choiceOptions:
+    - Tres ojos
+    - Una boca muy larga
+    - Le faltaba media cabeza
+    nodePosition:
+      serializedVersion: 2
+      x: 21434
+      y: -2088
+      width: 499
+      height: 413
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: c52c1390-139e-41fe-9d16-9e09ccdaf3ed
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: 
+    backgroundSpr: {fileID: 21300000, guid: 6f7d7733b08fbac4c96d56e78933d9d9, type: 3}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 26273
+      y: -2158
+      width: 499
+      height: 305
+    soundEffect: {fileID: 8300000, guid: 31f305f08f90abf4f8d0416c47b87cf3, type: 3}
+    backgroundMusic: {fileID: 0}
+  - guid: 140692c5-b4cd-4859-856f-ae417fa47067
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: Bueno...
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 25749
+      y: -2158
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 0a684e6b-3e06-40c9-88d7-ff6b4b70aeb3
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Siento el abrazo qu\xEDmico de los calmentes, y lo acepto gustosa..."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 26864
+      y: -1788
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 917cfe0b-4348-43a8-9a90-d05fb1d417bd
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: Cierro los ojos.
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 27411
+      y: -1788
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 58029982-dd0a-4300-bddb-47a3292998dd
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: Me deslizo a un mundo mejor.
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 27963
+      y: -1788
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: d4cec7a3-7f81-4aae-acbc-87fd6b6173e4
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: 
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 1
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 28631
+      y: -2158
       width: 499
       height: 305
     soundEffect: {fileID: 0}

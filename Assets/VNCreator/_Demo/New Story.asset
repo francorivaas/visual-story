@@ -1,0 +1,4113 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 80d55d090c78b6240aa6dccd6042a022, type: 3}
+  m_Name: New Story
+  m_EditorClassIdentifier: 
+  links:
+  - guid: 22219cf1-5e1a-4195-9669-6f12963bbf0e
+    targetGuid: 6a8ec1b7-95b2-468e-bbd5-9b45a05b88f4
+    portId: 0
+  - guid: 6a8ec1b7-95b2-468e-bbd5-9b45a05b88f4
+    targetGuid: 30c4257a-2b52-4548-bd7a-17056e3431bf
+    portId: 1
+  - guid: 30c4257a-2b52-4548-bd7a-17056e3431bf
+    targetGuid: bde9f7f7-d7f2-438f-b91f-b652eb1e9ef1
+    portId: 2
+  - guid: bde9f7f7-d7f2-438f-b91f-b652eb1e9ef1
+    targetGuid: fe15b880-6ce3-4701-a2f4-310246a5da58
+    portId: 3
+  - guid: fe15b880-6ce3-4701-a2f4-310246a5da58
+    targetGuid: e000e0f6-90ae-454b-8416-e9178abf4343
+    portId: 4
+  - guid: e000e0f6-90ae-454b-8416-e9178abf4343
+    targetGuid: 7d36363a-df07-4e9a-85dc-9b5838eec7bf
+    portId: 5
+  - guid: 7d36363a-df07-4e9a-85dc-9b5838eec7bf
+    targetGuid: 07fc541d-2837-4968-945f-1b7797fbc601
+    portId: 6
+  - guid: 07fc541d-2837-4968-945f-1b7797fbc601
+    targetGuid: 408e5ffe-fe94-414d-9017-a9007e16bbdb
+    portId: 7
+  - guid: 408e5ffe-fe94-414d-9017-a9007e16bbdb
+    targetGuid: 34806e8e-62dc-44a9-bc5f-56a8bc745248
+    portId: 8
+  - guid: 34806e8e-62dc-44a9-bc5f-56a8bc745248
+    targetGuid: 4d8bf748-8969-48db-aa35-22a7aed51695
+    portId: 9
+  - guid: 4d8bf748-8969-48db-aa35-22a7aed51695
+    targetGuid: 7d817d0d-448a-4f74-a613-ff3907e3b1e8
+    portId: 10
+  - guid: 7d817d0d-448a-4f74-a613-ff3907e3b1e8
+    targetGuid: 54f23c3b-17f1-42f8-ac21-f319558bd43a
+    portId: 11
+  - guid: 54f23c3b-17f1-42f8-ac21-f319558bd43a
+    targetGuid: ad5bc911-ccff-4d1b-af8c-65bd36356b91
+    portId: 12
+  - guid: bca9ed27-2f50-466b-a148-6bdcc13db207
+    targetGuid: 67211d39-c90a-4007-baac-d9cfc67ff974
+    portId: 13
+  - guid: 67211d39-c90a-4007-baac-d9cfc67ff974
+    targetGuid: 5fa30ef8-e4ff-4046-826c-0749289b3e1b
+    portId: 14
+  - guid: ad5bc911-ccff-4d1b-af8c-65bd36356b91
+    targetGuid: bca9ed27-2f50-466b-a148-6bdcc13db207
+    portId: 15
+  - guid: 5fa30ef8-e4ff-4046-826c-0749289b3e1b
+    targetGuid: ac421bda-2b5a-41d6-ab6e-64b4c12fd7a4
+    portId: 16
+  - guid: ac421bda-2b5a-41d6-ab6e-64b4c12fd7a4
+    targetGuid: 272702d5-87b7-4739-a5cc-74d72145ec94
+    portId: 17
+  - guid: 272702d5-87b7-4739-a5cc-74d72145ec94
+    targetGuid: 5ff0e09a-dabe-402e-ae9d-d3f982d72b78
+    portId: 18
+  - guid: 5ff0e09a-dabe-402e-ae9d-d3f982d72b78
+    targetGuid: b02f8248-07ed-46ee-a10b-1544ee022614
+    portId: 19
+  - guid: b02f8248-07ed-46ee-a10b-1544ee022614
+    targetGuid: b7c713bb-bbc7-438f-bcc6-91cd0eb2cc6c
+    portId: 20
+  - guid: b7c713bb-bbc7-438f-bcc6-91cd0eb2cc6c
+    targetGuid: 5a028086-b1c6-426e-b42c-72312a96f9ce
+    portId: 21
+  - guid: 5a028086-b1c6-426e-b42c-72312a96f9ce
+    targetGuid: 7ec42067-789e-42ef-8c77-19f0e7385028
+    portId: 22
+  - guid: 7ec42067-789e-42ef-8c77-19f0e7385028
+    targetGuid: ef0ad11f-c74c-4bdd-9cdd-05e1b82575a0
+    portId: 23
+  - guid: ef0ad11f-c74c-4bdd-9cdd-05e1b82575a0
+    targetGuid: 727a541a-cf26-479d-81c5-e91f727d1e5e
+    portId: 24
+  - guid: 727a541a-cf26-479d-81c5-e91f727d1e5e
+    targetGuid: 66063729-8f3c-48d2-83d7-a6e1753100f8
+    portId: 25
+  - guid: 66063729-8f3c-48d2-83d7-a6e1753100f8
+    targetGuid: 005ddd8c-7c00-4cbe-838a-0d9367fb3597
+    portId: 26
+  - guid: 005ddd8c-7c00-4cbe-838a-0d9367fb3597
+    targetGuid: 9b4bab65-7cb1-42ca-ba70-b048f3ed50b1
+    portId: 27
+  - guid: 9b4bab65-7cb1-42ca-ba70-b048f3ed50b1
+    targetGuid: 99475675-ee25-4bc2-82b5-a399cbeb6074
+    portId: 28
+  - guid: 85e2b84e-3885-49a1-b210-6da799910646
+    targetGuid: 4b77dd56-eef1-4b65-aa71-7cd6d3aa5bdc
+    portId: 29
+  - guid: 4b77dd56-eef1-4b65-aa71-7cd6d3aa5bdc
+    targetGuid: 7e40fc4a-b745-4641-9b52-433eb6db49e0
+    portId: 30
+  - guid: 7e40fc4a-b745-4641-9b52-433eb6db49e0
+    targetGuid: 495a0df3-c7b0-44f0-8653-ad9dd8a179e2
+    portId: 31
+  - guid: 495a0df3-c7b0-44f0-8653-ad9dd8a179e2
+    targetGuid: 2df636e9-8aad-46f5-a985-fbec0680d52b
+    portId: 32
+  - guid: 2df636e9-8aad-46f5-a985-fbec0680d52b
+    targetGuid: a90f5f3e-d2a8-41e4-8236-edf54752a6e2
+    portId: 33
+  - guid: a90f5f3e-d2a8-41e4-8236-edf54752a6e2
+    targetGuid: 297e8f5b-2630-4ac1-be2f-7d7b07c2d7b0
+    portId: 34
+  - guid: 37e2b90c-8d30-4f19-b80c-e0b031e19f9f
+    targetGuid: e7a62e6c-d718-4d88-8624-99703f4a9db8
+    portId: 35
+  - guid: e7a62e6c-d718-4d88-8624-99703f4a9db8
+    targetGuid: 0c89ca53-bf5b-4bae-bb2f-b24c5616b2cf
+    portId: 36
+  - guid: 0c89ca53-bf5b-4bae-bb2f-b24c5616b2cf
+    targetGuid: 75823cc9-bafc-437b-9961-274a4d4078eb
+    portId: 37
+  - guid: 297e8f5b-2630-4ac1-be2f-7d7b07c2d7b0
+    targetGuid: 37e2b90c-8d30-4f19-b80c-e0b031e19f9f
+    portId: 38
+  - guid: 99475675-ee25-4bc2-82b5-a399cbeb6074
+    targetGuid: 85e2b84e-3885-49a1-b210-6da799910646
+    portId: 39
+  - guid: 75823cc9-bafc-437b-9961-274a4d4078eb
+    targetGuid: cd9620d2-55d2-49f7-ae7e-c7298f76da92
+    portId: 40
+  - guid: cd9620d2-55d2-49f7-ae7e-c7298f76da92
+    targetGuid: 16b0b4b3-e065-436f-9c5d-0941e3945a41
+    portId: 41
+  - guid: 16b0b4b3-e065-436f-9c5d-0941e3945a41
+    targetGuid: 06c8a365-d752-459e-b57e-6e4e0a9a5a6e
+    portId: 42
+  - guid: 06c8a365-d752-459e-b57e-6e4e0a9a5a6e
+    targetGuid: 4d489299-cf19-4e63-8491-9a61f38af222
+    portId: 43
+  - guid: 4d489299-cf19-4e63-8491-9a61f38af222
+    targetGuid: c9b6859f-ac80-49ff-a415-9139ef86de4f
+    portId: 44
+  - guid: c9b6859f-ac80-49ff-a415-9139ef86de4f
+    targetGuid: 95d9cffb-c180-4f5c-8fda-c31867fe000c
+    portId: 45
+  - guid: 95d9cffb-c180-4f5c-8fda-c31867fe000c
+    targetGuid: cbdb0ec9-601e-421e-9713-fbf66c65491d
+    portId: 46
+  - guid: cbdb0ec9-601e-421e-9713-fbf66c65491d
+    targetGuid: 105a185a-a4d1-4747-948e-ae16582697a0
+    portId: 47
+  - guid: 105a185a-a4d1-4747-948e-ae16582697a0
+    targetGuid: bb9ad8c5-d322-454e-a323-1be8198260e3
+    portId: 48
+  - guid: bb9ad8c5-d322-454e-a323-1be8198260e3
+    targetGuid: 3d8bf9d4-e82a-4225-8dee-992233e1db58
+    portId: 49
+  - guid: 3d8bf9d4-e82a-4225-8dee-992233e1db58
+    targetGuid: 8e5f3c5e-463b-4c3b-8f4b-20d85c7d9490
+    portId: 50
+  - guid: 8e5f3c5e-463b-4c3b-8f4b-20d85c7d9490
+    targetGuid: ce320005-5926-4812-917c-c27c98552711
+    portId: 51
+  - guid: ce320005-5926-4812-917c-c27c98552711
+    targetGuid: 251a5e64-bcc2-45ce-8d6f-120c00469276
+    portId: 52
+  - guid: 251a5e64-bcc2-45ce-8d6f-120c00469276
+    targetGuid: 06dedf72-6665-43cd-9eec-30132cb81b71
+    portId: 53
+  - guid: 06dedf72-6665-43cd-9eec-30132cb81b71
+    targetGuid: ba08a54e-0170-4755-b904-40c6693d1d82
+    portId: 54
+  - guid: ba08a54e-0170-4755-b904-40c6693d1d82
+    targetGuid: 058be792-f77d-4163-8325-026eec43f0b2
+    portId: 55
+  - guid: 058be792-f77d-4163-8325-026eec43f0b2
+    targetGuid: 5af088dd-d865-47ab-a73a-dda7271e84e4
+    portId: 56
+  - guid: 5af088dd-d865-47ab-a73a-dda7271e84e4
+    targetGuid: b0e324ef-3bc9-4ac9-9326-9376f42f7e58
+    portId: 57
+  - guid: b0e324ef-3bc9-4ac9-9326-9376f42f7e58
+    targetGuid: fbe619fc-63ea-4b1c-9674-affa644e6329
+    portId: 58
+  - guid: fbe619fc-63ea-4b1c-9674-affa644e6329
+    targetGuid: af2bca11-09c5-4183-80bb-ece5202ba19d
+    portId: 59
+  - guid: af2bca11-09c5-4183-80bb-ece5202ba19d
+    targetGuid: 66da1403-d418-4a9c-af90-0e23c038c4b5
+    portId: 60
+  - guid: 66da1403-d418-4a9c-af90-0e23c038c4b5
+    targetGuid: 4a3b6888-b250-4269-842a-991796e61065
+    portId: 61
+  - guid: 4a3b6888-b250-4269-842a-991796e61065
+    targetGuid: e1fe6b7e-f566-402d-8db4-7ed2f2885444
+    portId: 62
+  - guid: e1fe6b7e-f566-402d-8db4-7ed2f2885444
+    targetGuid: d6108432-b54b-4201-a0cf-3f4c0360986f
+    portId: 63
+  - guid: d6108432-b54b-4201-a0cf-3f4c0360986f
+    targetGuid: 4d40d910-f974-42dc-9117-048e6e8fe08e
+    portId: 64
+  - guid: 4d40d910-f974-42dc-9117-048e6e8fe08e
+    targetGuid: 25b889d2-70c1-4d28-8fcf-94557c090ced
+    portId: 65
+  - guid: 25b889d2-70c1-4d28-8fcf-94557c090ced
+    targetGuid: 02cae644-c2ac-4fc4-a7a8-5d865a5bf7a8
+    portId: 66
+  - guid: 02cae644-c2ac-4fc4-a7a8-5d865a5bf7a8
+    targetGuid: 6ce37dd7-098c-48bc-899f-169fce3450fd
+    portId: 67
+  - guid: 6ce37dd7-098c-48bc-899f-169fce3450fd
+    targetGuid: 7f5cc51c-1cb2-4042-81bb-5880611ab1ef
+    portId: 68
+  - guid: 7f5cc51c-1cb2-4042-81bb-5880611ab1ef
+    targetGuid: d9dc4f53-bb04-47a2-8187-a099527e5770
+    portId: 69
+  - guid: d9dc4f53-bb04-47a2-8187-a099527e5770
+    targetGuid: 6dcf0ee4-884d-41cd-b1f1-73c494cb9d00
+    portId: 70
+  - guid: 6dcf0ee4-884d-41cd-b1f1-73c494cb9d00
+    targetGuid: a8ba276d-f9c4-442c-a22c-f56dd9eae1ce
+    portId: 71
+  - guid: a8ba276d-f9c4-442c-a22c-f56dd9eae1ce
+    targetGuid: f802c286-3220-4d7f-bee9-f4e3a0a04973
+    portId: 72
+  - guid: f802c286-3220-4d7f-bee9-f4e3a0a04973
+    targetGuid: d851ec06-e8df-4385-a6b9-54dbeadea627
+    portId: 73
+  - guid: d851ec06-e8df-4385-a6b9-54dbeadea627
+    targetGuid: 6c85f021-453c-40bd-9501-8f7f92624dce
+    portId: 74
+  - guid: 6c85f021-453c-40bd-9501-8f7f92624dce
+    targetGuid: 1b6add8a-0708-4828-8afe-edd614913c2b
+    portId: 75
+  - guid: 1b6add8a-0708-4828-8afe-edd614913c2b
+    targetGuid: 518b1c22-87eb-4163-b0a3-007a876688b1
+    portId: 76
+  - guid: 518b1c22-87eb-4163-b0a3-007a876688b1
+    targetGuid: 5064c06b-8077-400b-b3ba-ded1f080d869
+    portId: 77
+  - guid: 5064c06b-8077-400b-b3ba-ded1f080d869
+    targetGuid: 29145ef5-62f2-48a3-bba4-e32e50c8d001
+    portId: 78
+  - guid: 29145ef5-62f2-48a3-bba4-e32e50c8d001
+    targetGuid: 8a10a680-f4cd-4898-9a0c-2b5e9b14ce43
+    portId: 79
+  - guid: 8a10a680-f4cd-4898-9a0c-2b5e9b14ce43
+    targetGuid: dc49cca7-3d3b-4ec6-a7e5-a13573d6f3c1
+    portId: 80
+  - guid: dc49cca7-3d3b-4ec6-a7e5-a13573d6f3c1
+    targetGuid: acc39994-bd40-4d2b-b1d8-1ec294363414
+    portId: 81
+  - guid: acc39994-bd40-4d2b-b1d8-1ec294363414
+    targetGuid: 01cffa10-d7d5-48b2-9a95-3253b5e27856
+    portId: 82
+  - guid: 01cffa10-d7d5-48b2-9a95-3253b5e27856
+    targetGuid: f15c7d53-b594-4b13-ae09-41a1c41e3cf6
+    portId: 83
+  - guid: f15c7d53-b594-4b13-ae09-41a1c41e3cf6
+    targetGuid: 1b4dff2b-6a5d-4aa2-b773-c4686e60665c
+    portId: 84
+  - guid: 1b4dff2b-6a5d-4aa2-b773-c4686e60665c
+    targetGuid: 53f9f074-a771-46f5-ae1d-cd196ccae3ba
+    portId: 85
+  - guid: 53f9f074-a771-46f5-ae1d-cd196ccae3ba
+    targetGuid: 0d6d3436-f367-4be6-9d7e-6106b5c5bfbb
+    portId: 86
+  - guid: 0d6d3436-f367-4be6-9d7e-6106b5c5bfbb
+    targetGuid: 0403133e-26be-4f66-8d84-b76179916b23
+    portId: 87
+  - guid: 0403133e-26be-4f66-8d84-b76179916b23
+    targetGuid: ca0d025e-79ff-4611-bd16-d584aa76a393
+    portId: 88
+  - guid: ca0d025e-79ff-4611-bd16-d584aa76a393
+    targetGuid: c0ab86ae-b262-4a13-859a-0aae487ef6f6
+    portId: 89
+  - guid: c0ab86ae-b262-4a13-859a-0aae487ef6f6
+    targetGuid: 3480b4ed-3160-411d-9ed7-64065e0331c0
+    portId: 90
+  - guid: 3480b4ed-3160-411d-9ed7-64065e0331c0
+    targetGuid: 731f81ff-f673-417e-a44c-3dc4d3b62683
+    portId: 91
+  - guid: 731f81ff-f673-417e-a44c-3dc4d3b62683
+    targetGuid: d51897f3-8f41-4f6f-ab0b-fd535367edb6
+    portId: 92
+  - guid: d51897f3-8f41-4f6f-ab0b-fd535367edb6
+    targetGuid: e44b189a-5e4a-4a3f-8ed0-af9a7fe7ca93
+    portId: 93
+  - guid: ff803644-54e7-4479-897a-852a63ec9ae3
+    targetGuid: 54aee9a1-ea24-4585-b79d-a8b08f780385
+    portId: 94
+  - guid: 54aee9a1-ea24-4585-b79d-a8b08f780385
+    targetGuid: b106263f-41db-499e-b74b-7e08278e087f
+    portId: 95
+  - guid: 3234fdd4-b14c-488a-acf1-34854afa0eef
+    targetGuid: ff803644-54e7-4479-897a-852a63ec9ae3
+    portId: 96
+  - guid: e44b189a-5e4a-4a3f-8ed0-af9a7fe7ca93
+    targetGuid: 3234fdd4-b14c-488a-acf1-34854afa0eef
+    portId: 97
+  - guid: e44b189a-5e4a-4a3f-8ed0-af9a7fe7ca93
+    targetGuid: 51e3a93a-cdfc-4e43-86bc-74e1d7af9a7f
+    portId: 98
+  - guid: b106263f-41db-499e-b74b-7e08278e087f
+    targetGuid: 7e3f1760-7013-460f-a202-1fd9637e7312
+    portId: 99
+  - guid: 7e3f1760-7013-460f-a202-1fd9637e7312
+    targetGuid: a4d854c6-5644-47ef-ad98-11206400c655
+    portId: 100
+  - guid: a4d854c6-5644-47ef-ad98-11206400c655
+    targetGuid: 2e1fe730-4e8c-461b-891e-c702f2094be9
+    portId: 101
+  - guid: 2e1fe730-4e8c-461b-891e-c702f2094be9
+    targetGuid: 003661d2-06f3-4c72-bc2a-dc66621751f6
+    portId: 102
+  - guid: 003661d2-06f3-4c72-bc2a-dc66621751f6
+    targetGuid: e2a6d109-43f7-4c3b-9322-34c6e552bc39
+    portId: 103
+  - guid: e2a6d109-43f7-4c3b-9322-34c6e552bc39
+    targetGuid: 51e3a93a-cdfc-4e43-86bc-74e1d7af9a7f
+    portId: 104
+  - guid: 05064a0a-bf76-4c87-8833-15dfb2c7534a
+    targetGuid: ec7f2aae-ebf3-4483-925d-ab492ac93221
+    portId: 105
+  - guid: 51e3a93a-cdfc-4e43-86bc-74e1d7af9a7f
+    targetGuid: 05064a0a-bf76-4c87-8833-15dfb2c7534a
+    portId: 106
+  - guid: ec7f2aae-ebf3-4483-925d-ab492ac93221
+    targetGuid: df73c816-84db-4959-bd73-e510087200b9
+    portId: 107
+  - guid: df73c816-84db-4959-bd73-e510087200b9
+    targetGuid: 197a22de-f5cc-4057-9642-1e87c3fb0764
+    portId: 108
+  - guid: 967f3618-3ae6-49a7-b728-e2cb8fa6bf90
+    targetGuid: 997e59d0-89fc-44c7-8ec8-5b23618879ef
+    portId: 109
+  - guid: 197a22de-f5cc-4057-9642-1e87c3fb0764
+    targetGuid: 967f3618-3ae6-49a7-b728-e2cb8fa6bf90
+    portId: 110
+  - guid: 997e59d0-89fc-44c7-8ec8-5b23618879ef
+    targetGuid: 4d449646-08ce-4e8e-9162-586bcfd3b036
+    portId: 111
+  - guid: 4d449646-08ce-4e8e-9162-586bcfd3b036
+    targetGuid: aae42bd6-1b0f-4840-9fb0-01b4d258c0bc
+    portId: 112
+  - guid: aae42bd6-1b0f-4840-9fb0-01b4d258c0bc
+    targetGuid: 70ece8eb-a198-45e4-94c2-61220f4a2d45
+    portId: 113
+  - guid: 70ece8eb-a198-45e4-94c2-61220f4a2d45
+    targetGuid: 22397a4c-161c-4e7b-932e-f0c3fd84e4ab
+    portId: 114
+  - guid: 22397a4c-161c-4e7b-932e-f0c3fd84e4ab
+    targetGuid: adbf0e0a-5ab4-465b-b12b-8342ecb15e4f
+    portId: 115
+  - guid: adbf0e0a-5ab4-465b-b12b-8342ecb15e4f
+    targetGuid: 06645f02-60ca-4fac-bdbd-97b8328e7843
+    portId: 116
+  - guid: 06645f02-60ca-4fac-bdbd-97b8328e7843
+    targetGuid: d3002317-79b3-4c1f-a6b1-adbbce46515b
+    portId: 117
+  - guid: d3002317-79b3-4c1f-a6b1-adbbce46515b
+    targetGuid: ba7c3b89-03c5-4177-a2e1-4a6d60047924
+    portId: 118
+  - guid: ba7c3b89-03c5-4177-a2e1-4a6d60047924
+    targetGuid: e574765b-b2ed-4768-a0ed-feccb363b198
+    portId: 119
+  - guid: e574765b-b2ed-4768-a0ed-feccb363b198
+    targetGuid: 2839ce4d-6b40-4e50-b08b-ab5b16653411
+    portId: 120
+  - guid: 2839ce4d-6b40-4e50-b08b-ab5b16653411
+    targetGuid: 517d0a9c-ae4d-4e0b-8aae-243cdba7ef9a
+    portId: 121
+  - guid: 517d0a9c-ae4d-4e0b-8aae-243cdba7ef9a
+    targetGuid: 630a4f81-c3fa-4271-9b42-a911a889c265
+    portId: 122
+  - guid: 630a4f81-c3fa-4271-9b42-a911a889c265
+    targetGuid: d6b732a7-d6bc-4a38-acd1-4cd89bbdb299
+    portId: 123
+  - guid: d6b732a7-d6bc-4a38-acd1-4cd89bbdb299
+    targetGuid: 1eaf4135-b55e-4f68-986d-44862c307635
+    portId: 124
+  - guid: 1eaf4135-b55e-4f68-986d-44862c307635
+    targetGuid: 39b5ce82-e0b7-4d28-b757-81b119816887
+    portId: 125
+  - guid: 39b5ce82-e0b7-4d28-b757-81b119816887
+    targetGuid: 31cbfc70-b16c-486f-9f84-ca1a5dae6711
+    portId: 126
+  - guid: 31cbfc70-b16c-486f-9f84-ca1a5dae6711
+    targetGuid: 859d2fce-a1d1-47c4-9f74-57246bd7b0b6
+    portId: 127
+  - guid: 859d2fce-a1d1-47c4-9f74-57246bd7b0b6
+    targetGuid: e253890d-b780-4228-a6ba-dd2b7e17ae5b
+    portId: 128
+  - guid: e253890d-b780-4228-a6ba-dd2b7e17ae5b
+    targetGuid: e4f11280-2aec-436d-b20f-6a3131bd7bb2
+    portId: 129
+  - guid: e4f11280-2aec-436d-b20f-6a3131bd7bb2
+    targetGuid: c2deba8a-2899-4722-b8b6-9b7e2cfcf295
+    portId: 130
+  - guid: c2deba8a-2899-4722-b8b6-9b7e2cfcf295
+    targetGuid: 33282957-4c3f-4fb0-a061-45875d27b70e
+    portId: 131
+  - guid: 33282957-4c3f-4fb0-a061-45875d27b70e
+    targetGuid: 5e36283f-4768-4b22-9fcb-07eda14849df
+    portId: 132
+  - guid: 5e36283f-4768-4b22-9fcb-07eda14849df
+    targetGuid: 665a5466-72aa-4cfd-a6f8-44bc38cf8abf
+    portId: 133
+  - guid: 665a5466-72aa-4cfd-a6f8-44bc38cf8abf
+    targetGuid: 357b8240-8334-4664-b899-872c4329b94d
+    portId: 134
+  - guid: 357b8240-8334-4664-b899-872c4329b94d
+    targetGuid: 9968bb5f-455d-47fd-87bd-67a433253e66
+    portId: 135
+  - guid: 9968bb5f-455d-47fd-87bd-67a433253e66
+    targetGuid: c22598b3-1df0-4d86-ad35-032fb991dc0e
+    portId: 136
+  - guid: c22598b3-1df0-4d86-ad35-032fb991dc0e
+    targetGuid: 8a3d4519-9bdc-4648-83be-3b33fc4e0d3e
+    portId: 137
+  - guid: 8a3d4519-9bdc-4648-83be-3b33fc4e0d3e
+    targetGuid: c29a9c44-4a4b-4650-bc32-db3da5ccb69c
+    portId: 138
+  - guid: c29a9c44-4a4b-4650-bc32-db3da5ccb69c
+    targetGuid: 0edbe1e1-dd30-4493-8887-58aada950ae9
+    portId: 139
+  - guid: 0edbe1e1-dd30-4493-8887-58aada950ae9
+    targetGuid: 3e4c7f28-42eb-4f8b-bcf6-9f850bfa9d80
+    portId: 140
+  - guid: 3e4c7f28-42eb-4f8b-bcf6-9f850bfa9d80
+    targetGuid: 137066dc-1412-4b0c-a2f8-5262af4d532d
+    portId: 141
+  - guid: 137066dc-1412-4b0c-a2f8-5262af4d532d
+    targetGuid: 345ca46c-1e5f-4721-b775-8f6fe0dfd634
+    portId: 142
+  - guid: 345ca46c-1e5f-4721-b775-8f6fe0dfd634
+    targetGuid: f13ad695-5ccb-44a7-89a7-e4b079ee5bc7
+    portId: 143
+  - guid: f13ad695-5ccb-44a7-89a7-e4b079ee5bc7
+    targetGuid: 081213c7-3deb-451e-b6bf-d81f9bdfdf17
+    portId: 144
+  - guid: 081213c7-3deb-451e-b6bf-d81f9bdfdf17
+    targetGuid: ea5de54c-2209-4203-97d6-4b00cbd847d6
+    portId: 145
+  - guid: ea5de54c-2209-4203-97d6-4b00cbd847d6
+    targetGuid: 45380da2-c9ab-4b5d-b2c5-08920ccb0746
+    portId: 146
+  - guid: 45380da2-c9ab-4b5d-b2c5-08920ccb0746
+    targetGuid: cf41fbe1-4219-4794-a1ff-5577a147de25
+    portId: 147
+  - guid: 45380da2-c9ab-4b5d-b2c5-08920ccb0746
+    targetGuid: d4345b08-88ec-4499-8391-8aab4bcca3c8
+    portId: 148
+  - guid: d4345b08-88ec-4499-8391-8aab4bcca3c8
+    targetGuid: 12fd251b-9f93-4e42-b794-c52a04b44a4c
+    portId: 149
+  - guid: 12fd251b-9f93-4e42-b794-c52a04b44a4c
+    targetGuid: 9add67fb-9826-4181-8331-3c8e2f75ae60
+    portId: 150
+  - guid: 9add67fb-9826-4181-8331-3c8e2f75ae60
+    targetGuid: fb2a29dc-3e13-4bcd-bf00-38b0d78b4da2
+    portId: 151
+  - guid: fb2a29dc-3e13-4bcd-bf00-38b0d78b4da2
+    targetGuid: 6b25f4d1-bee1-4232-a81d-c669977154d8
+    portId: 152
+  - guid: 6b25f4d1-bee1-4232-a81d-c669977154d8
+    targetGuid: 7ea645b0-d085-4d30-8309-de2e67d4e7a8
+    portId: 153
+  - guid: 7ea645b0-d085-4d30-8309-de2e67d4e7a8
+    targetGuid: 33e4e1ca-25b3-4874-b95a-a4b44a434e34
+    portId: 154
+  - guid: 33e4e1ca-25b3-4874-b95a-a4b44a434e34
+    targetGuid: 45ce3a70-590a-4857-a534-b0e06710e255
+    portId: 155
+  - guid: cf41fbe1-4219-4794-a1ff-5577a147de25
+    targetGuid: 47280340-0fe0-49ac-a950-b7efe44f75ec
+    portId: 156
+  - guid: 47280340-0fe0-49ac-a950-b7efe44f75ec
+    targetGuid: 5feaeff5-cf12-4720-991d-1485281a4498
+    portId: 157
+  - guid: 5feaeff5-cf12-4720-991d-1485281a4498
+    targetGuid: 45ce3a70-590a-4857-a534-b0e06710e255
+    portId: 158
+  - guid: 45ce3a70-590a-4857-a534-b0e06710e255
+    targetGuid: 1f4414a5-3ea2-4557-8892-204094ee40fd
+    portId: 159
+  - guid: 1f4414a5-3ea2-4557-8892-204094ee40fd
+    targetGuid: c241db40-a8ee-406b-b626-58b7bef7bc36
+    portId: 160
+  - guid: c241db40-a8ee-406b-b626-58b7bef7bc36
+    targetGuid: f02e0bc4-1ba3-4ed0-b180-96e52292c67a
+    portId: 161
+  - guid: f02e0bc4-1ba3-4ed0-b180-96e52292c67a
+    targetGuid: 07326835-581f-445d-b9a8-abaa16e43582
+    portId: 162
+  - guid: d28ed8f7-23ac-40c8-a791-a6ca48c30c96
+    targetGuid: 859114b4-1d28-4c9b-ae64-055b1963d53f
+    portId: 163
+  - guid: 07326835-581f-445d-b9a8-abaa16e43582
+    targetGuid: 898def7d-1b31-49fd-b6fb-9730082ea5b0
+    portId: 164
+  - guid: 898def7d-1b31-49fd-b6fb-9730082ea5b0
+    targetGuid: d28ed8f7-23ac-40c8-a791-a6ca48c30c96
+    portId: 165
+  - guid: 859114b4-1d28-4c9b-ae64-055b1963d53f
+    targetGuid: 25abc56f-52f5-4430-b568-478c5455f8e3
+    portId: 166
+  - guid: 25abc56f-52f5-4430-b568-478c5455f8e3
+    targetGuid: 8c4c8bf0-3963-425e-af60-58a7d0596092
+    portId: 167
+  - guid: 8c4c8bf0-3963-425e-af60-58a7d0596092
+    targetGuid: dbc51595-2e87-4fbf-bde5-991b0d9c30a3
+    portId: 168
+  - guid: dbc51595-2e87-4fbf-bde5-991b0d9c30a3
+    targetGuid: 2f2dee53-d3cc-416f-9ac9-0d6f03c02434
+    portId: 169
+  - guid: 2f2dee53-d3cc-416f-9ac9-0d6f03c02434
+    targetGuid: f2186067-b70d-4d76-9067-fea1b40925ab
+    portId: 170
+  - guid: f2186067-b70d-4d76-9067-fea1b40925ab
+    targetGuid: a47c820f-4ccd-4a68-bbb1-16f78c39ec79
+    portId: 171
+  - guid: a47c820f-4ccd-4a68-bbb1-16f78c39ec79
+    targetGuid: c4887036-a576-46c6-b94a-372a07a95e85
+    portId: 172
+  - guid: c4887036-a576-46c6-b94a-372a07a95e85
+    targetGuid: 949d8cd0-cd94-4836-99bf-bc48d95398fe
+    portId: 173
+  - guid: 949d8cd0-cd94-4836-99bf-bc48d95398fe
+    targetGuid: a72af22c-12dc-460d-ba03-f3faf5b5ae0f
+    portId: 174
+  - guid: a72af22c-12dc-460d-ba03-f3faf5b5ae0f
+    targetGuid: 881c6793-ae10-4654-b3f2-8515c67c3728
+    portId: 175
+  - guid: 881c6793-ae10-4654-b3f2-8515c67c3728
+    targetGuid: 1ba38491-bd79-4ec7-a99f-4115e1492d28
+    portId: 176
+  - guid: 1ba38491-bd79-4ec7-a99f-4115e1492d28
+    targetGuid: c2995733-1be3-457a-8e5f-5e54fbd177d5
+    portId: 177
+  - guid: c2995733-1be3-457a-8e5f-5e54fbd177d5
+    targetGuid: 91b5b8f7-a8f8-4f5c-a245-402266c61853
+    portId: 178
+  - guid: 91b5b8f7-a8f8-4f5c-a245-402266c61853
+    targetGuid: f486c62c-5d70-424c-a124-53817d8a21b3
+    portId: 179
+  - guid: f486c62c-5d70-424c-a124-53817d8a21b3
+    targetGuid: 743b4cb9-a932-4a2f-aba0-a9fc7ac2801b
+    portId: 180
+  - guid: 743b4cb9-a932-4a2f-aba0-a9fc7ac2801b
+    targetGuid: ca811561-ac67-4c16-9bdc-78db13ecad66
+    portId: 181
+  - guid: ca811561-ac67-4c16-9bdc-78db13ecad66
+    targetGuid: 8cdd8d76-e1c0-4ecc-986d-76dd45b807fa
+    portId: 182
+  - guid: 8cdd8d76-e1c0-4ecc-986d-76dd45b807fa
+    targetGuid: 3b41a2ae-99fe-4b30-989d-29e7f2082a68
+    portId: 183
+  - guid: 8cdd8d76-e1c0-4ecc-986d-76dd45b807fa
+    targetGuid: e21fb4aa-fcb5-4fe7-8901-cb1c3a1827a0
+    portId: 184
+  nodes:
+  - guid: 22219cf1-5e1a-4195-9669-6f12963bbf0e
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Te explico c\xF3mo lo hac\xEDamos: agarr\xE1bamos a la persona
+      por el cuello, el pliegue del codo contra su nuez de Ad\xE1n y presionabamos
+      fuerte mientras el otro conten\xEDa la respiraci\xF3n."
+    backgroundSpr: {fileID: 0}
+    startNode: 1
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: -453
+      y: -98
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 6a8ec1b7-95b2-468e-bbd5-9b45a05b88f4
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "\u201CEn un momento, la v\xEDctima va a empezar a moverse muy
+      fuerte y muy r\xE1pido -nos explic\xF3 Carmen-, justo en ese momento, tienen
+      que sacar r\xE1pidamente el brazo y presionar debajo de la yugular, ac\xE1.
+      Y la persona va a caer al suelo.\u201D"
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 46
+      y: -98
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 30c4257a-2b52-4548-bd7a-17056e3431bf
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Ten\xEDamos que estar completamente atentos en esa parte del proceso
+      porque es cuando la persona perd\xEDa control total de sus habilidades motoras
+      y pod\xEDa partirse la cabeza contra el piso."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 545
+      y: -98
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: bde9f7f7-d7f2-438f-b91f-b652eb1e9ef1
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Menos mal que parec\xEDamos tener un talento natural para el m\xE9todo
+      Carmen, porque si no lo hac\xEDamos bien, pod\xEDamos matar a la otra persona."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 1044
+      y: -98
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: fe15b880-6ce3-4701-a2f4-310246a5da58
+    characterSpr: {fileID: 0}
+    characterName: "El M\xE9todo Carmen."
+    dialogueText: 
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 1543
+      y: -98
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: e000e0f6-90ae-454b-8416-e9178abf4343
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Est\xE1bamos almorzando en el buffet del colegio. Sanguches de
+      milanesa porque era viernes y Santi hab\xEDa logrado meter unas coca-colas
+      frente a las narices de Celina, la encargada del buffet."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: -300
+      y: 283
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 7d36363a-df07-4e9a-85dc-9b5838eec7bf
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "La nueva pol\xEDtica saludable del colegio era una cagada y nos
+      privaba no s\xF3lo de las botellas de coca-cola, sino tambi\xE9n de las papas
+      fritas que usualmente nos acompa\xF1aban en los recreos y de los alfajores
+      de chocolate que com\xEDamos durante las horas de matem\xE1tica. Ahora hab\xEDa
+      frutos secos y barritas energ\xE9ticas."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 199
+      y: 283
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 07fc541d-2837-4968-945f-1b7797fbc601
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: Como si el colegio no fuera lo suficientemente aburrido ya.
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 698
+      y: 283
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 408e5ffe-fe94-414d-9017-a9007e16bbdb
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Pero era viernes y nadie nos dir\xEDa nada por tomar coca-cola.
+      La beb\xEDamos con la precauci\xF3n con que un adicto vierte whisky de una
+      petaca en un caf\xE9 de la oficina."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 1197
+      y: 283
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 34806e8e-62dc-44a9-bc5f-56a8bc745248
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "La tem\xE1tica de la conversaci\xF3n era el nuevo libro que Fran
+      estaba leyendo."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 1696
+      y: 283
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 4d8bf748-8969-48db-aa35-22a7aed51695
+    characterSpr: {fileID: 0}
+    characterName: Fran
+    dialogueText: "...entonces el padre entierra al gato en un cementerio indio y
+      a los dos d\xEDas el gato reaparece en la casa, pero ya no es el mismo gato\u2026
+      -se frena solamente para bajarse media botella de coca cola de un trago-, es
+      un gato mucho m\xE1s horrible y raro\u2026\r"
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: -203
+      y: 637
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 7d817d0d-448a-4f74-a613-ff3907e3b1e8
+    characterSpr: {fileID: 0}
+    characterName: Santiago
+    dialogueText: "Es una copia de la pel\xEDcula."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 296
+      y: 637
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 54f23c3b-17f1-42f8-ac21-f319558bd43a
+    characterSpr: {fileID: 0}
+    characterName: Fran
+    dialogueText: "No es una copia. La pel\xEDcula est\xE1 basada en el libro."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 795
+      y: 637
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: bca9ed27-2f50-466b-a148-6bdcc13db207
+    characterSpr: {fileID: 0}
+    characterName: Fran
+    dialogueText: "El libro siempre es mejor que la pel\xEDcula, vos porque sos un
+      infradotado."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 1793
+      y: 637
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 67211d39-c90a-4007-baac-d9cfc67ff974
+    characterSpr: {fileID: 0}
+    characterName: Santiago
+    dialogueText: Vis pirqui sis in infriditidi
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 2292
+      y: 637
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: ad5bc911-ccff-4d1b-af8c-65bd36356b91
+    characterSpr: {fileID: 0}
+    characterName: Santiago
+    dialogueText: "\xBFEntonces por qu\xE9 no ves la pel\xEDcula? Yo en dos horas
+      vi lo mismo que vos, que tardaste un mes para leer ese libro de mierda."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 1294
+      y: 637
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 5fa30ef8-e4ff-4046-826c-0749289b3e1b
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "El lunes siguiente -aquel nefasto lunes que cambiar\xEDa nuestras
+      vidas para siempre-, tendr\xEDamos clase de ingl\xE9s con una maestra suplente."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: -128
+      y: 992
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: ac421bda-2b5a-41d6-ab6e-64b4c12fd7a4
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "\xC9sta result\xF3 ser mucho m\xE1s j\xF3ven que los vejestorios
+      que normalmente ven\xEDan a nutrir nuestras mentes. A pesar de que algunos
+      cuchicheaban sobre este hecho, sobre todo las chicas, yo me mostraba indiferente."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 371
+      y: 992
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 272702d5-87b7-4739-a5cc-74d72145ec94
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Pero no puedo negar que en cuanto aquella mujer se dio vuelta
+      para escribir su nombre en el pizarr\xF3n y pude ver su figura femenina, sensual
+      y madura, me inund\xF3 el cuerpo una agradable sensaci\xF3n que me hizo olvidarme
+      de todo.\r"
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 870
+      y: 992
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 5ff0e09a-dabe-402e-ae9d-d3f982d72b78
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Le prest\xE9 m\xE1s atenci\xF3n a ella que a sus palabras, para
+      ser honesto."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 1369
+      y: 992
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: b02f8248-07ed-46ee-a10b-1544ee022614
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Sin embargo, para su mala suerte, Santi hab\xEDa asistido a clase.
+      \xC9l faltaba mucho y a veces se escond\xEDa debajo de las escaleras o se iba
+      con los m\xE1s grandes a fumar cigarrillos en los recreos, por lo que se perd\xEDa
+      horas de clase enteras."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 1868
+      y: 992
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: b7c713bb-bbc7-438f-bcc6-91cd0eb2cc6c
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Yo lo hab\xEDa acompa\xF1ado en muchas de sus aventuras fuera
+      del colegio, escaparse era muy simple. "
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 2367
+      y: 992
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 5a028086-b1c6-426e-b42c-72312a96f9ce
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "A veces pienso que si Santiago hubiera decidido que aquel lunes
+      ser\xEDa un buen d\xEDa para escaparse, si tan solo hubiera considerado que
+      ser\xEDa una buena idea hacer cualquier otra cosa que no sea ir a clase, si
+      muchas cosas hubieran sido diferentes\u2026"
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 2866
+      y: 992
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 7ec42067-789e-42ef-8c77-19f0e7385028
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "pero aparentemente \xE9l hab\xEDa o\xEDdo el rumor de que la nueva
+      maestra de ingl\xE9s era un fuego y no se lo quiso perder. No lo culpo."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 3365
+      y: 992
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: ef0ad11f-c74c-4bdd-9cdd-05e1b82575a0
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "En cuanto la maestra se dio vuelta y comenz\xF3 a escribir \u201CJulieta
+      V\u2026\u201D se escuch\xF3 un ruido de pedo tan potente que casi se me escapa
+      uno a m\xED."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: -50
+      y: 1339
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 727a541a-cf26-479d-81c5-e91f727d1e5e
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Me tap\xE9 la boca, pues las carcajadas me delataban, pero toda
+      la clase comenz\xF3 a re\xEDr tambi\xE9n y ya no tuvo sentido intentar disimularlo.
+      Santiago se re\xEDa como nunca y me daba cuenta, por el brillo de sus labios,
+      que hab\xEDa sido \xE9l."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 449
+      y: 1339
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 66063729-8f3c-48d2-83d7-a6e1753100f8
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Me dio mucha risa, pero tambi\xE9n  me sent\xED mal por Julieta
+      V\u2026 -la pobre ni siquiera hab\xEDa terminado de escribir su nombre y ya
+      hab\xEDa sido bendecida por el atronador ruido de los pedos falsos de Santiago-."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 948
+      y: 1339
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 005ddd8c-7c00-4cbe-838a-0d9367fb3597
+    characterSpr: {fileID: 0}
+    characterName: Julieta
+    dialogueText: "\xBFQui\xE9n hizo eso?"
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 1447
+      y: 1339
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 9b4bab65-7cb1-42ca-ba70-b048f3ed50b1
+    characterSpr: {fileID: 0}
+    characterName: Santiago
+    dialogueText: "Tengo un\u2026 -comenz\xF3 Santiago. Se retorc\xEDa en su asiento
+      y los alumnos de las mesas adyacentes lo mir\xE1bamos como se mira a un gran
+      actor realizando su n\xFAmero estrella- ...problema."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 1946
+      y: 1339
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 85e2b84e-3885-49a1-b210-6da799910646
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Evidentemente, Santiago no se esperaba aquella respuesta. Se podr\xEDa
+      decir que rompi\xF3 personaje en ese momento y dej\xF3 de retorcerse, pero
+      no desaprovech\xF3 la oportunidad de ir al ba\xF1o."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 2944
+      y: 1339
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 4b77dd56-eef1-4b65-aa71-7cd6d3aa5bdc
+    characterSpr: {fileID: 0}
+    characterName: Santiago
+    dialogueText: "Disculpe, se\xF1orita V..."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 3443
+      y: 1339
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 7e40fc4a-b745-4641-9b52-433eb6db49e0
+    characterSpr: {fileID: 0}
+    characterName: Julieta
+    dialogueText: Vanegas
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 45
+      y: 1665
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 495a0df3-c7b0-44f0-8653-ad9dd8a179e2
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Santiago se retir\xF3 al ba\xF1o y volvi\xF3 tan solo 2 minutos
+      despu\xE9s, rengueando, simulando que ten\xEDa algo muy grande metido ah\xED
+      atr\xE1s. Donde el sol no llega."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 544
+      y: 1665
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 2df636e9-8aad-46f5-a985-fbec0680d52b
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Yo siempre me sentaba al lado de Fran y si bien \xE9l era un hombre
+      refinado y de un humor muy caracter\xEDstico, era imposible resistirse a las
+      idioteces de Santiago y estall\xF3 tambi\xE9n en carcajadas."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 1043
+      y: 1665
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: a90f5f3e-d2a8-41e4-8236-edf54752a6e2
+    characterSpr: {fileID: 0}
+    characterName: Santiago
+    dialogueText: "Tengo\u2026 algo\u2026 metido\u2026"
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 1542
+      y: 1665
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 37e2b90c-8d30-4f19-b80c-e0b031e19f9f
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Yo, por mi parte, me alegraba de que Julieta Vanegas fuera de
+      esas maestras que se mov\xEDan mucho por el aula y que se sentaban en el escritorio,
+      con las piernas elegantemente cruzadas."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 2540
+      y: 1665
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: e7a62e6c-d718-4d88-8624-99703f4a9db8
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Permit\xEDa que mi imaginaci\xF3n de muchacho de 14 a\xF1os volara
+      y volara y se entrometiera con fantas\xEDas pervertidas que volver\xEDan loca
+      a mi madre y encend\xEDan aquel fuego adolescente que es tan puro y tan rebelde
+      que se siente completamente inhumano, ajeno a una vida tan corriente como lo
+      era la m\xEDa."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 3039
+      y: 1665
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 0c89ca53-bf5b-4bae-bb2f-b24c5616b2cf
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "En un momento, cuando la clase parec\xEDa haber vuelto a la normalidad
+      y el rasgueo de los l\xE1pices de los alumnos copiando las tareas en sus cuadernos
+      hab\xEDa ensordecido el aula, Julieta se sac\xF3 su abrigo y dej\xF3 al descubierto
+      un tatuaje muy visible en su antebrazo, que rezaba \u201Cel amor est\xE1 en
+      el aire\u201D. Aquello no pas\xF3 inadvertido para Santiago, atento a cualquier
+      desliz de su nueva v\xEDctima predilecta."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 3538
+      y: 1665
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 297e8f5b-2630-4ac1-be2f-7d7b07c2d7b0
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "La mitad de la clase ya no re\xEDa. La se\xF1orita Vanegas inspiraba
+      simpat\xEDa y otra de las peculiaridades de Santiago es que no pod\xEDa darse
+      cuenta de cu\xE1ndo hab\xEDa llegado demasiado lejos. Ella sigui\xF3 la clase,
+      haciendo caso omiso de sus sandeces, pero sin quitarle realmente los ojos de
+      encima."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 2041
+      y: 1665
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 99475675-ee25-4bc2-82b5-a399cbeb6074
+    characterSpr: {fileID: 0}
+    characterName: Julieta
+    dialogueText: "And\xE1 al ba\xF1o entonces, no ten\xE9s por qu\xE9 aguantarte."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 2445
+      y: 1339
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 75823cc9-bafc-437b-9961-274a4d4078eb
+    characterSpr: {fileID: 0}
+    characterName: Santiago
+    dialogueText: "\xA1La profe se enamor\xF3 de un p\xE1jaro!"
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 4037
+      y: 1665
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: cd9620d2-55d2-49f7-ae7e-c7298f76da92
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Julieta miraba a Santiago con ojos fr\xEDos. Le explic\xF3, muy
+      cordial y dignamente, que era un tatuaje en honor a su abuelo, quien hab\xEDa
+      fallecido hac\xEDa muy poco y que la hab\xEDa cuidado a ella cuando sus padres
+      se la pasaban trabajando unas 16 horas diarias."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 4536
+      y: 1665
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 16b0b4b3-e065-436f-9c5d-0941e3945a41
+    characterSpr: {fileID: 0}
+    characterName: Santiago
+    dialogueText: "\xBF16 horas diarias? \xBFEran esclavos?"
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 5035
+      y: 1665
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 06c8a365-d752-459e-b57e-6e4e0a9a5a6e
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "El nuevo chiste de Santiago fue recibido con abucheos e insultos
+      por parte de los otros alumnos. La maestra se cruz\xF3 de brazos, en silencio.
+      En su rostro hab\xEDa una mirada triunfal."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 5534
+      y: 1665
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 4d489299-cf19-4e63-8491-9a61f38af222
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Aquella historia del abuelo hab\xEDa ganado a la clase y los ten\xEDa
+      de su lado. Yo intent\xE9 no re\xEDrme, a pesar de que sol\xEDa tener una debilidad
+      por los chistes de Santiago. Nos envi\xF3 a direcci\xF3n."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 6033
+      y: 1665
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: c9b6859f-ac80-49ff-a415-9139ef86de4f
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: Por supuesto, siempre era igual. El desubicado y su fiel vasallo.
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 6532
+      y: 1665
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 95d9cffb-c180-4f5c-8fda-c31867fe000c
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Salimos del aula, derrotados, y caminamos por aquellos mortuorios
+      pasillos en camino al aula del director, un camino que hac\xEDamos al menos
+      3 veces por semana."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 148
+      y: 2003
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: cbdb0ec9-601e-421e-9713-fbf66c65491d
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "\xC9ramos alumnos terribles y unas personas muy desagradables.
+      Fran no, para nada, pero Santiago s\xED lo era y si a mi me daban tanta risa
+      sus idioteces y tanto me costaba ponerme firme en cuanto \xE9l suger\xEDa alguna
+      idea que rozaba en lo mortalmente rid\xEDculo, yo deb\xEDa de serlo tambi\xE9n."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 647
+      y: 2003
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 105a185a-a4d1-4747-948e-ae16582697a0
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "\u201CDime con qui\xE9n andas y te dir\xE9 qui\xE9n eres\u201D,
+      \xBFno?"
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 1146
+      y: 2003
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: bb9ad8c5-d322-454e-a323-1be8198260e3
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Fran se juntaba con nosotros porque \xE9l era muy gordo y nosotros
+      siempre lo hab\xEDamos defendido ante los chicos m\xE1s grandes. Santiago le
+      confes\xF3, no mucho m\xE1s tarde, que nunca se perd\xEDa una oportunidad para
+      cagarse bien a palos con un grupo de tarados."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 1645
+      y: 2003
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 3d8bf9d4-e82a-4225-8dee-992233e1db58
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Yo le dije que s\xED, que tambi\xE9n, aunque hoy en d\xEDa no
+      estoy muy seguro."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 2144
+      y: 2003
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 8e5f3c5e-463b-4c3b-8f4b-20d85c7d9490
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Hora de hablar de m\xED, \xBFno les parece?"
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 2643
+      y: 2003
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: ce320005-5926-4812-917c-c27c98552711
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Ac\xE1 va un dato sobre mi persona. Siempre tuve mucho miedo de
+      quedarme solo, y la mejor manera de evitarlo, me parec\xEDa, era seguir la
+      corriente a los chicos que, por alg\xFAn motivo, aceptaban a un rarito que
+      se la pasaba escuchando heavy metal y sufr\xEDa de un insoportable acn\xE9
+      que probablemente lo mantendr\xEDa alejado de mujeres como Julieta Vanegas
+      por el resto de toda una vida."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 3142
+      y: 2003
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 251a5e64-bcc2-45ce-8d6f-120c00469276
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: Con el paso de los recreos y las tardes y los cigarrillos, nos
+      dimos cuenta de que Fran era una persona formidable.
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 201
+      y: 2333
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 06dedf72-6665-43cd-9eec-30132cb81b71
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Muy ocurrente, muy culto -le gustaba leer, tiene que estar enfermito,
+      dec\xEDa Santi- y muy amable. Adem\xE1s siempre nos invitaba a su casa y su
+      madre amasaba pizzas y nos qued\xE1bamos mirando pel\xEDculas de terror hasta
+      altas horas de la madrugada."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 700
+      y: 2333
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: ba08a54e-0170-4755-b904-40c6693d1d82
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Para Santi, aquellos momentos significaban mucho, pues su vida
+      dom\xE9stica era mucho m\xE1s compleja."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 1199
+      y: 2333
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 058be792-f77d-4163-8325-026eec43f0b2
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Su madre se hab\xEDa separado de su padre cuando \xE9l era muy
+      peque\xF1o y, aparentemente, \u201Cla puta esa\u201D -como le dec\xEDa su propio
+      hijo-, se hab\xEDa ido con otro hombre y \xE9l se hab\xEDa quedado con su padre."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 1698
+      y: 2333
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 5af088dd-d865-47ab-a73a-dda7271e84e4
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "\xC9l se llamaba Daniel y ten\xEDa un grave problema con la bebida
+      que afectaba mucho su temperamento."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 2197
+      y: 2333
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: b0e324ef-3bc9-4ac9-9326-9376f42f7e58
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Estas cosas yo las s\xE9 porque obten\xEDa retazos de informaci\xF3n
+      de mi madre cuando conversaba en secreto con mi padre."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 2696
+      y: 2333
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: fbe619fc-63ea-4b1c-9674-affa644e6329
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Pero tambi\xE9n de Santiago, quien explicaba abiertamente y sin
+      tapujos que cada vez que se portaba mal, su padre sub\xEDa las escaleras y
+      sorteaba una muy decente barricada hecha con colchones y juguetes de una patada
+      y finalmente lo cazaba de la oreja y lo golpeaba en los p\xF3mulos ni una,
+      ni dos, ni tres, sino cuatro veces hasta que se le part\xEDan y la sangre manchaba
+      el suelo de madera."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 3195
+      y: 2333
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: af2bca11-09c5-4183-80bb-ece5202ba19d
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Todo aquello podr\xEDa haber pasado desapercibido, tal vez."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 3694
+      y: 2333
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 66da1403-d418-4a9c-af90-0e23c038c4b5
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Pero entonces lleg\xF3 la cicatriz."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 4193
+      y: 2333
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 4a3b6888-b250-4269-842a-991796e61065
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Santiago nos cont\xF3 esa historia, la de la cicatriz, mientras
+      fum\xE1bamos unos cigarrillos en el campo de deportes. El primer relato de
+      horror que escuch\xE9 en mi vida. Y es absolutamente real."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 4692
+      y: 2333
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: e1fe6b7e-f566-402d-8db4-7ed2f2885444
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "El padre de Santiago lleg\xF3 a casa luego de una reuni\xF3n con
+      el director y el coordinador para hablar de la disciplina de su hijo -las cuales
+      eran muy frecuentes-."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 245
+      y: 2669
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: d6108432-b54b-4201-a0cf-3f4c0360986f
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Daniel abri\xF3 la heladera y sac\xF3 una cerveza. Ese d\xEDa
+      ser\xEDan muchas m\xE1s que de costumbre, pues estaba muy enojado."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 744
+      y: 2669
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 4d40d910-f974-42dc-9117-048e6e8fe08e
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "\u201C\xBFC\xF3mo es Santiago en casa?\u201D, le hab\xEDan preguntado.
+      \xBFC\xF3mo se atrev\xEDan esos hijos de puta a cuestionar como \xE9l cuidaba
+      y educaba a su hijo?"
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 1243
+      y: 2669
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 25b889d2-70c1-4d28-8fcf-94557c090ced
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "En cuanto el mocoso llegara del colegio, le mostrar\xEDa muy bien
+      las consecuencias de ser un pendejo insoportable, tal y como su padre se lo
+      hab\xEDa ense\xF1ado a \xE9l, d\xE9cadas atr\xE1s."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 1742
+      y: 2669
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 02cae644-c2ac-4fc4-a7a8-5d865a5bf7a8
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Santiago lleg\xF3 a las 17, abri\xF3 la puerta y se dispon\xEDa
+      a subir a su habitaci\xF3n, pero su padre lo llam\xF3. Santiago, ven\xED para
+      ac\xE1."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 2241
+      y: 2669
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 6ce37dd7-098c-48bc-899f-169fce3450fd
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "El chico trag\xF3 saliva, pues sab\xEDa perfectamente qu\xE9 significaba
+      aquel arrastre de palabras. No era exactamente \u201CSantiago, ven\xED para
+      ac\xE1\u201D, sino \u201CSentego, vene pe equ\xE9\u201D."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 2740
+      y: 2669
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 7f5cc51c-1cb2-4042-81bb-5880611ab1ef
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Eso significaba que su padre hab\xEDa estado tomando mucho, y
+      aquello nunca representaba un pron\xF3stico favorable para \xE9l."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 3239
+      y: 2669
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: d9dc4f53-bb04-47a2-8187-a099527e5770
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "\xBFQu\xE9 es lo que est\xE1s haciendo en el colegio que molesta
+      tanto a tus maestros, hijo m\xEDo?"
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 289
+      y: 3003
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 6dcf0ee4-884d-41cd-b1f1-73c494cb9d00
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Me parece que no fu\xED lo suficientemente firme con vos, hijo
+      m\xEDo\u2026 Seguramente pens\xE1s que estar\xEDas mejor con la prostituta
+      de tu madre\u2026"
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 788
+      y: 3003
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: a8ba276d-f9c4-442c-a22c-f56dd9eae1ce
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Santiago estaba cagado de miedo -lo s\xE9 porque \xE9l me lo dijo,
+      y yo s\xE9 que si hay algo que lo aterra, es su propio padre-. Voy a tener
+      que empezar a mostrarte que en esta vida hay consecuencias hijo m\xEDo. Consecuencias
+      muy graves."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 1298
+      y: 3003
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: f802c286-3220-4d7f-bee9-f4e3a0a04973
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Daniel tom\xF3 una de las tantas botellas de cerveza vac\xEDas
+      que hab\xEDa en la mesita del living y la blandi\xF3 con toda la fuerza de
+      un hombre de 50 y pico de a\xF1os contra la mejilla de su hijo de 12."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 1805
+      y: 3003
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: d851ec06-e8df-4385-a6b9-54dbeadea627
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "El chico ni siquiera atin\xF3 a esquivar el golpe, o llorar por
+      clemencia. Nada. Y cuando todo hab\xEDa terminado, ni siquiera llor\xF3."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 2315
+      y: 3003
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 6c85f021-453c-40bd-9501-8f7f92624dce
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Desde el comienzo del labio hasta el trago de la oreja izquierda,
+      ten\xEDa la mejilla dividida en dos, con un arroyo de sangre en el medio de
+      las dos partes, los pedacitos de vidrio incrustados en la carne."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 2814
+      y: 3003
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 1b6add8a-0708-4828-8afe-edd614913c2b
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Se le ve\xEDan las enc\xEDas y las muelas, por m\xE1s que la boca
+      estaba cerrada."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 3313
+      y: 3003
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 518b1c22-87eb-4163-b0a3-007a876688b1
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Daniel, quien se tambaleaba, se qued\xF3 unos pocos segundos admirando
+      su nueva obra."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 3812
+      y: 3003
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 5064c06b-8077-400b-b3ba-ded1f080d869
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Pero esta vez vio algo raro, diferente a las otras veces. Su hijo
+      se agitaba, como un pececito fuera del agua. Entonces se dirigi\xF3 con un
+      paso lento y pesado hacia el tel\xE9fono para llamar a urgencias."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 4327
+      y: 3003
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 29145ef5-62f2-48a3-bba4-e32e50c8d001
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Lo que me faltaba, pens\xF3.\r"
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 4826
+      y: 3003
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 8a10a680-f4cd-4898-9a0c-2b5e9b14ce43
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "No s\xE9 bien qu\xE9 pas\xF3 despu\xE9s, porque Santiago no se
+      acuerda. Mi madre es psic\xF3loga y me explic\xF3 en varias ocasiones que es
+      muy normal que \xE9l no lo recuerde, pues fu\xE9 \u201Cmuy duro para \xE9l\u201D."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 322
+      y: 3356
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: dc49cca7-3d3b-4ec6-a7e5-a13573d6f3c1
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Lo que s\xED s\xE9, es que despu\xE9s de ese d\xEDa, Santiago
+      pas\xF3 a vivir con su t\xEDa. Una mujer que se pasaba mirando televisi\xF3n
+      y comiendo porquer\xEDas, pero que al menos no lo golpeaba."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 821
+      y: 3356
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: acc39994-bd40-4d2b-b1d8-1ec294363414
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Fumaba y beb\xEDa mucho, pero Santiago nos contaba que ella se
+      quedaba dormida y se tiraba pedos, que era muy gracioso, que deber\xEDamos
+      escucharla."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 1320
+      y: 3356
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 01cffa10-d7d5-48b2-9a95-3253b5e27856
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Lo que no era gracioso, era la cicatriz que caracteriz\xF3 a Santiago
+      desde ese d\xEDa."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 1819
+      y: 3356
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: f15c7d53-b594-4b13-ae09-41a1c41e3cf6
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Una cicatriz espantosamente larga, que recordaba a una media sonrisa
+      de payaso, colorada. Una cicatriz que llegaba casi hasta el trago de la oreja
+      y estaba surcada por l\xEDneas verticales."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 2318
+      y: 3356
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 1b4dff2b-6a5d-4aa2-b773-c4686e60665c
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Una vez envidi\xE9 aquella herida, pues le daba aspecto de chico
+      malo, pensaba. Pero con el paso de los a\xF1os, era doloroso ver como todo
+      el mundo lo rehu\xEDa, en cuanto ve\xEDan esa cicatriz, sobre todo porque en
+      el colegio se sab\xEDa perfectamente c\xF3mo se la hab\xEDa hecho. \xBFA m\xED
+      solo me interesar\xEDa conocer el or\xEDgen de las cicatrices de las personas?"
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 2817
+      y: 3356
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 53f9f074-a771-46f5-ae1d-cd196ccae3ba
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Quiz\xE1 esa era otra de las razones por las que me segu\xEDa
+      juntando con Santiago y Fran, el gordo y el cicatrizado: ten\xEDa una suerte
+      de debilidad por los marginados."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 3316
+      y: 3356
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 0d6d3436-f367-4be6-9d7e-6106b5c5bfbb
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Llegamos a la oficina del director y nos sentamos en el banquito
+      de espera. All\xED estaba Carmen."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 390
+      y: 3694
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 0403133e-26be-4f66-8d84-b76179916b23
+    characterSpr: {fileID: 0}
+    characterName: Santiago
+    dialogueText: "\xBFViene mucho por estos pagos, se\xF1orita?"
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 889
+      y: 3694
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: ca0d025e-79ff-4611-bd16-d584aa76a393
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Yo entend\xEDa que a Santiago le gustara, ella ten\xEDa personalidad,
+      una actitud muy diferente al del resto de las chicas y era la \xFAnica persona
+      -adem\xE1s de Fran y yo-, que no parec\xEDa impresionarle la cicatriz de mi
+      mejor amigo. Adem\xE1s, como frutilla para el postre, ten\xEDa 16 a\xF1os,
+      y los adolescentes siempre tienen una cierta preferencia por las chicas mayores."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 1388
+      y: 3694
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: c0ab86ae-b262-4a13-859a-0aae487ef6f6
+    characterSpr: {fileID: 0}
+    characterName: Carmen
+    dialogueText: "No tanto como ustedes en el \xFAltimo tiempo... \xBFqu\xE9 hicieron
+      esta vez?"
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 1887
+      y: 3694
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 3480b4ed-3160-411d-9ed7-64065e0331c0
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Santiago se lo cont\xF3, desde que la maestra entr\xF3 en el aula,
+      hasta que ella los mand\xF3 a direcci\xF3n, pasando por los pedos, el acting
+      de algo en el culo y que comentario sobre el tatuaje."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 2386
+      y: 3694
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 731f81ff-f673-417e-a44c-3dc4d3b62683
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Carmen se mor\xEDa de risa."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 2885
+      y: 3694
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: d51897f3-8f41-4f6f-ab0b-fd535367edb6
+    characterSpr: {fileID: 0}
+    characterName: Carmen
+    dialogueText: "Eso que hicieron est\xE1 muy mal -jajaja- muy muy mal."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 3384
+      y: 3694
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: ff803644-54e7-4479-897a-852a63ec9ae3
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: En aquel momento tuve un pensamiento espantoso, muy impropio de
+      mi.
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 5076
+      y: 3847
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 54aee9a1-ea24-4585-b79d-a8b08f780385
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Casi que tuve que morderme la lengua. Pero sent\xED unas ganas
+      tremendas de despotricar contra Santiago, vali\xE9ndome de que incluso Carmen
+      pensaba mal de su chiste."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 5575
+      y: 3847
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 3234fdd4-b14c-488a-acf1-34854afa0eef
+    characterSpr: {fileID: 0}
+    characterName: Carmen
+    dialogueText: Me imagino que si... aunque lo del tatuaje fue un golpe bajo...
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 4577
+      y: 3847
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: e44b189a-5e4a-4a3f-8ed0-af9a7fe7ca93
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Hasta entonces yo hab\xEDa permanecido callado, sin nada que decir.
+      Siempre que aparece alguna chica, suelo quedarme callado. Pero sent\xED ganas
+      de participar de la conversaci\xF3n... de alg\xFAn modo."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 2
+    choiceOptions:
+    - Fue muy divertido.
+    - "\xBFY vos que hiciste Carmen?"
+    nodePosition:
+      serializedVersion: 2
+      x: 3963
+      y: 3510
+      width: 499
+      height: 369
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: b106263f-41db-499e-b74b-7e08278e087f
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "\"Ella tiene raz\xF3n, fue muy est\xFApido\", \"no fue gracioso\",
+      \"deber\xEDas madurar\", \"es la \xFAltima vez que te acompa\xF1o a direcci\xF3n...\""
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 6074
+      y: 3847
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 7e3f1760-7013-460f-a202-1fd9637e7312
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Quer\xEDa que la chica se fijara en mi. Y no en \xE9l. "
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 6573
+      y: 3847
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: a4d854c6-5644-47ef-ad98-11206400c655
+    characterSpr: {fileID: 0}
+    characterName: Santiago
+    dialogueText: "\xBFY vos por qu\xE9 estas ac\xE1 Carmen?"
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 7072
+      y: 3847
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 2e1fe730-4e8c-461b-891e-c702f2094be9
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "En ese momento la muchacha le dirigi\xF3 una mirada sombr\xEDa,
+      pero tambi\xE9n muy sensual."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 7571
+      y: 3847
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 003661d2-06f3-4c72-bc2a-dc66621751f6
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Es el tipo de miradas que alguien se reserva cuando recuerda alguna
+      travesura que no contar\xE1 a menos que la audiencia insista demasiado."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 8070
+      y: 3847
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: e2a6d109-43f7-4c3b-9322-34c6e552bc39
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: No voy a mentir. Me hubiera gustado que aquella mirada sea para
+      mi-.
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 8569
+      y: 3847
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 05064a0a-bf76-4c87-8833-15dfb2c7534a
+    characterSpr: {fileID: 0}
+    characterName: Santiago
+    dialogueText: Dale Carmen, contanos.
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 9694
+      y: 3572
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 51e3a93a-cdfc-4e43-86bc-74e1d7af9a7f
+    characterSpr: {fileID: 0}
+    characterName: Carmen
+    dialogueText: "No deber\xEDa contarles."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 9195
+      y: 3572
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: ec7f2aae-ebf3-4483-925d-ab492ac93221
+    characterSpr: {fileID: 0}
+    characterName: Carmen
+    dialogueText: "Es algo espectacular, pero tengo que mostr\xE1rselos afuera, cuando
+      terminen las clases. Esp\xE9renme a las 17 en el campo de f\xFAtbol, si realmente
+      les interesa."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 482
+      y: 4335
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: df73c816-84db-4959-bd73-e510087200b9
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Tanto a Santiago como a m\xED se nos ilumin\xF3 el rostro. \xBFQu\xE9
+      pod\xEDa ser tan transgresor que requer\xEDa contarlo fuera del aula escolar?
+      El plan era delicioso."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 981
+      y: 4335
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 967f3618-3ae6-49a7-b728-e2cb8fa6bf90
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Los tres nos dimos vuelta. Una atronadora voz de se\xF1ora mayor
+      llamaba desde la puerta del director."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 1979
+      y: 4335
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 197a22de-f5cc-4057-9642-1e87c3fb0764
+    characterSpr: {fileID: 0}
+    characterName: Ana
+    dialogueText: "\xA1Mart\xEDnez!"
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 1480
+      y: 4335
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 997e59d0-89fc-44c7-8ec8-5b23618879ef
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Ella era Ana, la secretaria o algo as\xED, del director. Santiago
+      dec\xEDa que la vieja seguramente se la chupaba al director, sin dientes, con
+      las enc\xEDas, y que a \xE9l eso deb\xEDa de gustarle. A mi me parec\xEDa asqueroso,
+      pero convine en que era posible."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 2478
+      y: 4335
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 4d449646-08ce-4e8e-9162-586bcfd3b036
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Carmen Martinez se incorpor\xF3."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 2977
+      y: 4335
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: aae42bd6-1b0f-4840-9fb0-01b4d258c0bc
+    characterSpr: {fileID: 0}
+    characterName: Carmen
+    dialogueText: "Bueno, que les sea leve chicos. Y a las 17 nos vemos en el campo
+      -su mirada se ensombreci\xF3-. Vayan solos."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 3476
+      y: 4335
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 70ece8eb-a198-45e4-94c2-61220f4a2d45
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Carmen se retir\xF3 hacia aquella oficina que tan bien conoc\xEDamos
+      y la seguimos con la mirada, recorri\xE9ndola de arriba abajo."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 3975
+      y: 4335
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 22397a4c-161c-4e7b-932e-f0c3fd84e4ab
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Despu\xE9s me sent\xE9 en su lugar y mir\xE9 a mi amigo."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 4474
+      y: 4335
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: adbf0e0a-5ab4-465b-b12b-8342ecb15e4f
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Me alegr\xE9 porque sab\xEDa perfectamente que este tipo de acoso
+      a una maestra suplente devendr\xEDa en una citaci\xF3n a nuestros padres y,
+      si bien a mi solamente me rega\xF1ar\xEDan y me pedir\xEDan que me dejara de
+      juntar con \"esa manga de idiotas\" -como les gustaba decir a mis padres-,
+      a Santiago, en otros tiempos, le habr\xEDan hecho mucho da\xF1o."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 4973
+      y: 4335
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 06645f02-60ca-4fac-bdbd-97b8328e7843
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Me alegr\xE9 porque su nuevo padre era una mujer vieja que no
+      pod\xEDa importarle menos en qu\xE9 andara su sobrino. Le mir\xE9 aquella cicatriz
+      espantosa y me alegr\xE9 mucho por \xE9l."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 5472
+      y: 4335
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: d3002317-79b3-4c1f-a6b1-adbbce46515b
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "\u201CEs normal que no recuerde, pues fue muy duro para \xE9l\u2026\u201D"
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 5971
+      y: 4335
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: ba7c3b89-03c5-4177-a2e1-4a6d60047924
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: Esperamos pacientemente que gritaran nuestros apellidos.
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 6470
+      y: 4335
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: e574765b-b2ed-4768-a0ed-feccb363b198
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Mi suposici\xF3n hab\xEDa sido acertada, citaron a nuestros padres.
+      Lo escribieron claramente en nuestro cuaderno de comunicaciones para familias."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 535
+      y: 4683
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 2839ce4d-6b40-4e50-b08b-ab5b16653411
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Yo advert\xEDa, con pesar, que cada vez que el director nos lo
+      dec\xEDa, Santi daba un peque\xF1o respingo, muy sutil, como si hubiera recibido
+      corriente por tocar un metal."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 1034
+      y: 4683
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 517d0a9c-ae4d-4e0b-8aae-243cdba7ef9a
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "No s\xE9 si el director se daba cuenta, pero si lo hac\xEDa, era
+      un hombre muy vil, pues hab\xEDa repetido aquella frase al menos 5 veces."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 1533
+      y: 4683
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 630a4f81-c3fa-4271-9b42-a911a889c265
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "\"Vamos a tener que hablar con sus padres\u2026\". Santiago seguramente
+      pensaba en una botella parti\xE9ndose contra su mejilla cada vez que la escuchaba."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 2032
+      y: 4683
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: d6b732a7-d6bc-4a38-acd1-4cd89bbdb299
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: Un arroyo de sangre.
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 2531
+      y: 4683
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 1eaf4135-b55e-4f68-986d-44862c307635
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: Carne humana con pedazos de vidrio incrustados.
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 3030
+      y: 4683
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 39b5ce82-e0b7-4d28-b757-81b119816887
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Unas enc\xEDas dentadas que se ve\xEDan sin necesidad de abrir
+      la boca."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 3529
+      y: 4683
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 31cbfc70-b16c-486f-9f84-ca1a5dae6711
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Su padre borracho dici\xE9ndole que no serv\xEDa para nada."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 4028
+      y: 4683
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 859d2fce-a1d1-47c4-9f74-57246bd7b0b6
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Su madre quien a pesar de que para su hijo era \u201Cla puta esa\u201D,
+      yo me daba cuenta, con mis inocentes 14 a\xF1os, que era una pobre mujer que
+      escapaba de las terribles garras de un terrible hombre."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 4527
+      y: 4683
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: e253890d-b780-4228-a6ba-dd2b7e17ae5b
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Me preguntaba si alg\xFAn d\xEDa Santiago perdonar\xEDa a su madre
+      y a su padre y podr\xEDa llegar a buenos t\xE9rminos con su pasado. Hoy en
+      d\xEDa, conociendo el desenlace de esta historia, s\xE9 que es imposible."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 5026
+      y: 4683
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: e4f11280-2aec-436d-b20f-6a3131bd7bb2
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Santiago estaba mucho menos pensativo. Hablaba sin cesar de la
+      reuni\xF3n con Carmen, la cual suceder\xEDa en un rato."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 575
+      y: 5041
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: c2deba8a-2899-4722-b8b6-9b7e2cfcf295
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Las clases terminaron y nos reunimos con Fran a la salida, pero
+      nos mantuvimos cautos. Carmen hab\xEDa insistido en que fu\xE9ramos a verla
+      solos. Si bien Fran era nuestro otro gran amigo, no pens\xE1bamos poner en
+      riesgo la confianza de la chica."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 1074
+      y: 5041
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 33282957-4c3f-4fb0-a061-45875d27b70e
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Entonces nos despedimos, lo acompa\xF1amos a la parada del bondi
+      y nos dimos un fuerte apret\xF3n de manos."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 1573
+      y: 5041
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 5e36283f-4768-4b22-9fcb-07eda14849df
+    characterSpr: {fileID: 0}
+    characterName: Fran
+    dialogueText: "Tienen que empezar a comportarse, no van a llegar a fin de a\xF1o
+      as\xED"
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 2072
+      y: 5041
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 665a5466-72aa-4cfd-a6f8-44bc38cf8abf
+    characterSpr: {fileID: 0}
+    characterName: Santiago
+    dialogueText: Callate gordo.
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 2571
+      y: 5041
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 357b8240-8334-4664-b899-872c4329b94d
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "El otro neg\xF3 con la cabeza como har\xEDa con cualquier otro
+      caso perdido y vimos finalmente la puerta cerrarse detr\xE1s de \xE9l. Volvimos
+      sobre nuestros pasos, trotando casi, exitadisimos por lo que Carmen iba a mostrarnos."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 3070
+      y: 5041
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 9968bb5f-455d-47fd-87bd-67a433253e66
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Rodeamos el colegio, ya vac\xEDo, y llegamos al campo de deportes."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 3569
+      y: 5041
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: c22598b3-1df0-4d86-ad35-032fb991dc0e
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "All\xED hab\xEDa otras 2 personas adem\xE1s de Carmen, uno era
+      Sebasti\xE1n, a quien Santiago odiaba porque lo hab\xEDa visto bes\xE1ndose
+      con Carmen una vez y el otro se llamaba Tom\xE1s y no iba al colegio."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 4068
+      y: 5041
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 8a3d4519-9bdc-4648-83be-3b33fc4e0d3e
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Tom\xE1s se retir\xF3 antes de que lleg\xE1ramos nosotros y nos
+      dirigi\xF3 una mirada de desd\xE9n, esa mirada que se reservan los adolescentes
+      mayores solamente para los m\xE1s chicos."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 4567
+      y: 5041
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: c29a9c44-4a4b-4650-bc32-db3da5ccb69c
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Llegamos ante Carmen y Sebastian y, aunque yo salud\xE9 a ambos
+      con un firme choque de pu\xF1os, Santiago le encaj\xF3 a la chica un beso en
+      la mejilla que la dej\xF3 perpleja a ella y al otro."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 5066
+      y: 5041
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 0edbe1e1-dd30-4493-8887-58aada950ae9
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: Y a mi.
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 5565
+      y: 5041
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 3e4c7f28-42eb-4f8b-bcf6-9f850bfa9d80
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Las mejillas de Carmen se encendieron y tuve un poco de envidia.
+      Me hubiera encantado besarla en la mejilla a mi tambi\xE9n. Sentir su piel
+      contra la m\xEDa, aunque fuera solo un instante."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 6064
+      y: 5041
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 137066dc-1412-4b0c-a2f8-5262af4d532d
+    characterSpr: {fileID: 0}
+    characterName: Carmen
+    dialogueText: "Bueno, ac\xE1 est\xE1n..."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 615
+      y: 5409
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 345ca46c-1e5f-4721-b775-8f6fe0dfd634
+    characterSpr: {fileID: 0}
+    characterName: Santiago
+    dialogueText: "Ac\xE1 estamos."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 1114
+      y: 5409
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: f13ad695-5ccb-44a7-89a7-e4b079ee5bc7
+    characterSpr: {fileID: 0}
+    characterName: "Sebasti\xE1n"
+    dialogueText: "\xBFNo son muy chicos para hacer esto, Carmen?"
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 1613
+      y: 5409
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 081213c7-3deb-451e-b6bf-d81f9bdfdf17
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Sebastian nos analizaba de arriba abajo, con ojos cr\xEDticos,
+      como si quisiera corroborar que \xE9ramos lo suficientemente buenos como para
+      siquiera pensar en hablar con su chica."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 2112
+      y: 5409
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: ea5de54c-2209-4203-97d6-4b00cbd847d6
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "\xC9l se vest\xEDa con ropa negra y ten\xEDa el pelo largo y lacio
+      hasta la cintura, ten\xEDa un pantal\xF3n de jean ajustado con un cintur\xF3n
+      de tachas y una remera de Megadeth. Se sent\xEDa bien compartir gustos con
+      los chicos mayores."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 2611
+      y: 5409
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 45380da2-c9ab-4b5d-b2c5-08920ccb0746
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: 
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 2
+    choiceOptions:
+    - "Solo son dos a\xF1os mayores que nosotros."
+    - "M\xE1s problemas es lo que menos necesitamos."
+    nodePosition:
+      serializedVersion: 2
+      x: 3145
+      y: 5440
+      width: 499
+      height: 369
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: cf41fbe1-4219-4794-a1ff-5577a147de25
+    characterSpr: {fileID: 0}
+    characterName: Santiago
+    dialogueText: "Exacto, tiene raz\xF3n. Adem\xE1s lo prometiste Carmen."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 3715
+      y: 5399
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: d4345b08-88ec-4499-8391-8aab4bcca3c8
+    characterSpr: {fileID: 0}
+    characterName: "Sebasti\xE1n"
+    dialogueText: "\xBFVes Santiago? Tu amigo es m\xE1s inteligente que vos."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 3715
+      y: 5721
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 12fd251b-9f93-4e42-b794-c52a04b44a4c
+    characterSpr: {fileID: 0}
+    characterName: Carmen
+    dialogueText: No lo molestes, Seba.
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 4214
+      y: 5721
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 9add67fb-9826-4181-8331-3c8e2f75ae60
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "En ese momento, al ver la mirada de Carmen, me sent\xED absolutamente
+      derrotado. Me sent\xEDa el \xFAltimo eslab\xF3n de la evoluci\xF3n humana.
+      Un desperdicio in\xFAtil."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 4713
+      y: 5721
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: fb2a29dc-3e13-4bcd-bf00-38b0d78b4da2
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: Era el mismo sentimiento que tuve esa vez que con Santiago nos
+      pasamos toda una noche tomando vino.
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 5212
+      y: 5721
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 6b25f4d1-bee1-4232-a81d-c669977154d8
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: Aunque sin el dolor de cabeza.
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 5711
+      y: 5721
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 7ea645b0-d085-4d30-8309-de2e67d4e7a8
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Carmen era una chica mala, y solo querr\xEDa a alguien malo...
+      alguien como..."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 6210
+      y: 5721
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 33e4e1ca-25b3-4874-b95a-a4b44a434e34
+    characterSpr: {fileID: 0}
+    characterName: Santiago
+    dialogueText: Mi amigo es un idiota. Carmen, contanos. Lo prometiste.
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 6709
+      y: 5721
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 47280340-0fe0-49ac-a950-b7efe44f75ec
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "La chica nos mir\xF3, divertida, a ambos respectivamente."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 4231
+      y: 5399
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 5feaeff5-cf12-4720-991d-1485281a4498
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Se sinti\xF3 muy bien, sentirse parte. No solamente una sombra
+      de la situaci\xF3n."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 4730
+      y: 5399
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 45ce3a70-590a-4857-a534-b0e06710e255
+    characterSpr: {fileID: 0}
+    characterName: Carmen
+    dialogueText: "Es cierto, se los promet\xED."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 7346
+      y: 5416
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 1f4414a5-3ea2-4557-8892-204094ee40fd
+    characterSpr: {fileID: 0}
+    characterName: Carmen
+    dialogueText: "Adem\xE1s, \xBFc\xF3mo podr\xEDas ocultarle algo as\xED al mundo
+      Seba? \xBFAlgo que permite ver el futuro?"
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 7845
+      y: 5416
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: c241db40-a8ee-406b-b626-58b7bef7bc36
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Mi mirada y la de Santiago se ilumin\xF3, como si tuvi\xE9ramos
+      oro frente a nosotros."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 8344
+      y: 5416
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: f02e0bc4-1ba3-4ed0-b180-96e52292c67a
+    characterSpr: {fileID: 0}
+    characterName: Santiago
+    dialogueText: "\xBFDe qu\xE9 carajo hablas Carmen?"
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 8843
+      y: 5416
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 07326835-581f-445d-b9a8-abaa16e43582
+    characterSpr: {fileID: 0}
+    characterName: Sebastian
+    dialogueText: "\xBFNo la escuchaste? Habla de ver el futuro."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 9342
+      y: 5416
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: d28ed8f7-23ac-40c8-a791-a6ca48c30c96
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Lo prometimos. Y as\xED fue como conocimos el m\xE9todo Carmen."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 10340
+      y: 5416
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 859114b4-1d28-4c9b-ae64-055b1963d53f
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: 
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 10839
+      y: 5416
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 898def7d-1b31-49fd-b6fb-9730082ea5b0
+    characterSpr: {fileID: 0}
+    characterName: Carmen
+    dialogueText: "Pero tienen que prometer que no van a contarle nada a nadie. JAM\xC1S."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 9841
+      y: 5416
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 25abc56f-52f5-4430-b568-478c5455f8e3
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Est\xE1bamos caminando por la vereda, algo cabizbajos. O bueno,
+      yo estaba cabizbajo."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 772
+      y: 6231
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 8c4c8bf0-3963-425e-af60-58a7d0596092
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: Santiago hasta rebotaba por las paredes.
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 1271
+      y: 6231
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: dbc51595-2e87-4fbf-bde5-991b0d9c30a3
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Comenz\xE1bamos a ver las gotas de la lluvia como monedas de cinco
+      centavos en la vereda y el viento nos volaba los cabellos y a mi me hac\xEDa
+      desear haber hecho caso a mi madre cuando sugiri\xF3 que llevara una campera."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 1770
+      y: 6231
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 2f2dee53-d3cc-416f-9ac9-0d6f03c02434
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Finalmente, cuando hab\xEDamos hecho ya dos cuadras en absoluto
+      silencio\u2026"
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 2269
+      y: 6231
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: f2186067-b70d-4d76-9067-fea1b40925ab
+    characterSpr: {fileID: 0}
+    characterName: Santiago
+    dialogueText: "Bueno \xBFqui\xE9n de los dos lo va a intentar primero?"
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 2768
+      y: 6231
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: a47c820f-4ccd-4a68-bbb1-16f78c39ec79
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "\xBFDe qu\xE9 hablas?"
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 3267
+      y: 6231
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: c4887036-a576-46c6-b94a-372a07a95e85
+    characterSpr: {fileID: 0}
+    characterName: Santiago
+    dialogueText: "\xBFC\xF3mo de qu\xE9 hablo? \xBFQui\xE9n va a hacer desmayar
+      al otro?"
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 3766
+      y: 6231
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 949d8cd0-cd94-4836-99bf-bc48d95398fe
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Lo mir\xE9, compadeciente de su ingenuidad."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 4265
+      y: 6231
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: a72af22c-12dc-460d-ba03-f3faf5b5ae0f
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "No me digas que te cre\xEDste eso, San. Nos estaban jodiendo,
+      nos vieron la cara. Les encanta meterse con los m\xE1s chicos."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 4764
+      y: 6231
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 881c6793-ae10-4654-b3f2-8515c67c3728
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Santiago me cort\xF3 el paso."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 5263
+      y: 6231
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 1ba38491-bd79-4ec7-a99f-4115e1492d28
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Carmen no es as\xED -y vi un destello asesino en su mirada-. Adem\xE1s
+      vos mismo lo viste, Sebasti\xE1n lo hizo."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 5762
+      y: 6231
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: c2995733-1be3-457a-8e5f-5e54fbd177d5
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Rode\xE9 a mi amigo."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 6261
+      y: 6231
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 91b5b8f7-a8f8-4f5c-a245-402266c61853
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Estaba actuando. Adem\xE1s, \xBFc\xF3mo vas a siquiera pensar
+      en hacer algo as\xED? \xBFQuer\xE9s morirte?"
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 6760
+      y: 6231
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: f486c62c-5d70-424c-a124-53817d8a21b3
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "No vamos a morirnos si hacemos exactamente como lo dijo Carmen.
+      Tenemos que seguir el m\xE9todo Carmen."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 7259
+      y: 6231
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 743b4cb9-a932-4a2f-aba0-a9fc7ac2801b
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "\xBFEl m\xE9todo Carmen? \xBFPero vos sos loco, Santiago?"
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 7758
+      y: 6231
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: ca811561-ac67-4c16-9bdc-78db13ecad66
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Volvi\xF3 a cortarme el paso. Yo me estaba poniendo un poco nervioso."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 8257
+      y: 6231
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 8cdd8d76-e1c0-4ecc-986d-76dd45b807fa
+    characterSpr: {fileID: 0}
+    characterName: Santiago
+    dialogueText: "Pregunt\xE9 qui\xE9n de los dos va a hacerlo primero."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 2
+    choiceOptions:
+    - "Est\xE1 bien. Lo hago yo primero."
+    - Mejor vos que yo.
+    nodePosition:
+      serializedVersion: 2
+      x: 8800
+      y: 6264
+      width: 499
+      height: 369
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 3b41a2ae-99fe-4b30-989d-29e7f2082a68
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: 
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 9367
+      y: 6145
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: e21fb4aa-fcb5-4fe7-8901-cb1c3a1827a0
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: 
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 9367
+      y: 6481
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
