@@ -460,29 +460,29 @@ MonoBehaviour:
   - guid: 45380da2-c9ab-4b5d-b2c5-08920ccb0746
     targetGuid: d4345b08-88ec-4499-8391-8aab4bcca3c8
     portId: 148
-  - guid: d4345b08-88ec-4499-8391-8aab4bcca3c8
-    targetGuid: 12fd251b-9f93-4e42-b794-c52a04b44a4c
-    portId: 149
-  - guid: 12fd251b-9f93-4e42-b794-c52a04b44a4c
-    targetGuid: 9add67fb-9826-4181-8331-3c8e2f75ae60
-    portId: 150
-  - guid: 9add67fb-9826-4181-8331-3c8e2f75ae60
-    targetGuid: fb2a29dc-3e13-4bcd-bf00-38b0d78b4da2
-    portId: 151
-  - guid: fb2a29dc-3e13-4bcd-bf00-38b0d78b4da2
-    targetGuid: 6b25f4d1-bee1-4232-a81d-c669977154d8
-    portId: 152
-  - guid: 6b25f4d1-bee1-4232-a81d-c669977154d8
-    targetGuid: 7ea645b0-d085-4d30-8309-de2e67d4e7a8
-    portId: 153
-  - guid: 7ea645b0-d085-4d30-8309-de2e67d4e7a8
-    targetGuid: 33e4e1ca-25b3-4874-b95a-a4b44a434e34
-    portId: 154
-  - guid: 33e4e1ca-25b3-4874-b95a-a4b44a434e34
-    targetGuid: 45ce3a70-590a-4857-a534-b0e06710e255
-    portId: 155
   - guid: cf41fbe1-4219-4794-a1ff-5577a147de25
     targetGuid: 47280340-0fe0-49ac-a950-b7efe44f75ec
+    portId: 149
+  - guid: d4345b08-88ec-4499-8391-8aab4bcca3c8
+    targetGuid: 12fd251b-9f93-4e42-b794-c52a04b44a4c
+    portId: 150
+  - guid: 12fd251b-9f93-4e42-b794-c52a04b44a4c
+    targetGuid: 9add67fb-9826-4181-8331-3c8e2f75ae60
+    portId: 151
+  - guid: 9add67fb-9826-4181-8331-3c8e2f75ae60
+    targetGuid: fb2a29dc-3e13-4bcd-bf00-38b0d78b4da2
+    portId: 152
+  - guid: fb2a29dc-3e13-4bcd-bf00-38b0d78b4da2
+    targetGuid: 6b25f4d1-bee1-4232-a81d-c669977154d8
+    portId: 153
+  - guid: 6b25f4d1-bee1-4232-a81d-c669977154d8
+    targetGuid: 7ea645b0-d085-4d30-8309-de2e67d4e7a8
+    portId: 154
+  - guid: 7ea645b0-d085-4d30-8309-de2e67d4e7a8
+    targetGuid: 33e4e1ca-25b3-4874-b95a-a4b44a434e34
+    portId: 155
+  - guid: 33e4e1ca-25b3-4874-b95a-a4b44a434e34
+    targetGuid: 45ce3a70-590a-4857-a534-b0e06710e255
     portId: 156
   - guid: 47280340-0fe0-49ac-a950-b7efe44f75ec
     targetGuid: 5feaeff5-cf12-4720-991d-1485281a4498
@@ -502,17 +502,17 @@ MonoBehaviour:
   - guid: f02e0bc4-1ba3-4ed0-b180-96e52292c67a
     targetGuid: 07326835-581f-445d-b9a8-abaa16e43582
     portId: 162
-  - guid: d28ed8f7-23ac-40c8-a791-a6ca48c30c96
-    targetGuid: 859114b4-1d28-4c9b-ae64-055b1963d53f
-    portId: 163
   - guid: 07326835-581f-445d-b9a8-abaa16e43582
     targetGuid: 898def7d-1b31-49fd-b6fb-9730082ea5b0
+    portId: 163
+  - guid: d28ed8f7-23ac-40c8-a791-a6ca48c30c96
+    targetGuid: 859114b4-1d28-4c9b-ae64-055b1963d53f
     portId: 164
-  - guid: 898def7d-1b31-49fd-b6fb-9730082ea5b0
-    targetGuid: d28ed8f7-23ac-40c8-a791-a6ca48c30c96
-    portId: 165
   - guid: 859114b4-1d28-4c9b-ae64-055b1963d53f
     targetGuid: 25abc56f-52f5-4430-b568-478c5455f8e3
+    portId: 165
+  - guid: 898def7d-1b31-49fd-b6fb-9730082ea5b0
+    targetGuid: d28ed8f7-23ac-40c8-a791-a6ca48c30c96
     portId: 166
   - guid: 25abc56f-52f5-4430-b568-478c5455f8e3
     targetGuid: 8c4c8bf0-3963-425e-af60-58a7d0596092
@@ -559,15 +559,726 @@ MonoBehaviour:
   - guid: 743b4cb9-a932-4a2f-aba0-a9fc7ac2801b
     targetGuid: ca811561-ac67-4c16-9bdc-78db13ecad66
     portId: 181
-  - guid: ca811561-ac67-4c16-9bdc-78db13ecad66
-    targetGuid: 8cdd8d76-e1c0-4ecc-986d-76dd45b807fa
-    portId: 182
   - guid: 8cdd8d76-e1c0-4ecc-986d-76dd45b807fa
     targetGuid: 3b41a2ae-99fe-4b30-989d-29e7f2082a68
-    portId: 183
+    portId: 182
   - guid: 8cdd8d76-e1c0-4ecc-986d-76dd45b807fa
     targetGuid: e21fb4aa-fcb5-4fe7-8901-cb1c3a1827a0
+    portId: 183
+  - guid: ca811561-ac67-4c16-9bdc-78db13ecad66
+    targetGuid: 42fcef41-d7ba-4bd7-b604-39333fc42972
     portId: 184
+  - guid: 42fcef41-d7ba-4bd7-b604-39333fc42972
+    targetGuid: 03019563-02b9-49af-861f-8fecdbdf13be
+    portId: 185
+  - guid: 03019563-02b9-49af-861f-8fecdbdf13be
+    targetGuid: d6fabc81-5125-4de1-9e74-caf0801258a3
+    portId: 186
+  - guid: d6fabc81-5125-4de1-9e74-caf0801258a3
+    targetGuid: 2653b0f9-0b4f-418d-9308-dc760227467a
+    portId: 187
+  - guid: 2653b0f9-0b4f-418d-9308-dc760227467a
+    targetGuid: 8cdd8d76-e1c0-4ecc-986d-76dd45b807fa
+    portId: 188
+  - guid: 42fcef41-d7ba-4bd7-b604-39333fc42972
+    targetGuid: 809747a1-b625-46e2-adfe-b5bff915fd44
+    portId: 189
+  - guid: 809747a1-b625-46e2-adfe-b5bff915fd44
+    targetGuid: 8cdd8d76-e1c0-4ecc-986d-76dd45b807fa
+    portId: 190
+  - guid: 3b41a2ae-99fe-4b30-989d-29e7f2082a68
+    targetGuid: 42ed5ed4-4774-4ded-9775-d20e4029347f
+    portId: 191
+  - guid: 42ed5ed4-4774-4ded-9775-d20e4029347f
+    targetGuid: 8249930a-c1f3-4f59-8d78-4b78180b7539
+    portId: 192
+  - guid: 8249930a-c1f3-4f59-8d78-4b78180b7539
+    targetGuid: 4a4ff8f3-0b21-4fff-8d44-3c8dfaf7fba5
+    portId: 193
+  - guid: 4a4ff8f3-0b21-4fff-8d44-3c8dfaf7fba5
+    targetGuid: 0b0fb5d5-a630-467c-9c3d-c07bab1b0043
+    portId: 194
+  - guid: df4c3582-f7fa-4c50-a28e-7c675ecdd5e9
+    targetGuid: e21fb4aa-fcb5-4fe7-8901-cb1c3a1827a0
+    portId: 195
+  - guid: e21fb4aa-fcb5-4fe7-8901-cb1c3a1827a0
+    targetGuid: 3b94e7bd-6134-47c4-ba63-b0a0e9f63a70
+    portId: 196
+  - guid: 3b94e7bd-6134-47c4-ba63-b0a0e9f63a70
+    targetGuid: 7ee79ee0-adb7-4c66-8da5-62548811212e
+    portId: 197
+  - guid: 7ee79ee0-adb7-4c66-8da5-62548811212e
+    targetGuid: 81f86a29-45e0-4fb0-882e-ba56a7d00a5b
+    portId: 198
+  - guid: 81f86a29-45e0-4fb0-882e-ba56a7d00a5b
+    targetGuid: e14f0565-ab92-481f-80ae-d06480c258a9
+    portId: 199
+  - guid: e14f0565-ab92-481f-80ae-d06480c258a9
+    targetGuid: e6cd8c60-3bd4-4015-bad1-b91fa350a3f4
+    portId: 200
+  - guid: e6cd8c60-3bd4-4015-bad1-b91fa350a3f4
+    targetGuid: 3bbb7dcc-7648-4780-8983-66674396894a
+    portId: 201
+  - guid: 3bbb7dcc-7648-4780-8983-66674396894a
+    targetGuid: f6dd4171-096b-4d2a-b1a2-5c99b469ba12
+    portId: 202
+  - guid: f6dd4171-096b-4d2a-b1a2-5c99b469ba12
+    targetGuid: 1a88820a-b3a3-4562-ba81-7940579ebfbd
+    portId: 203
+  - guid: 1a88820a-b3a3-4562-ba81-7940579ebfbd
+    targetGuid: ee031c1c-d62b-4bae-a80d-0be750d74d10
+    portId: 204
+  - guid: ee031c1c-d62b-4bae-a80d-0be750d74d10
+    targetGuid: 9940ad57-8984-4ec5-8f96-9d28560746e2
+    portId: 205
+  - guid: 9940ad57-8984-4ec5-8f96-9d28560746e2
+    targetGuid: 03353e06-c3a4-412c-bdc7-59ae0705e10b
+    portId: 206
+  - guid: 03353e06-c3a4-412c-bdc7-59ae0705e10b
+    targetGuid: 0fa83e81-03da-4541-9798-29c0f2a044bf
+    portId: 207
+  - guid: 0fa83e81-03da-4541-9798-29c0f2a044bf
+    targetGuid: 153e1ea6-a283-413a-9c7c-63305e9046bd
+    portId: 208
+  - guid: 153e1ea6-a283-413a-9c7c-63305e9046bd
+    targetGuid: 4fe85810-8fc7-4802-bacf-a2f859c1225b
+    portId: 209
+  - guid: 4fe85810-8fc7-4802-bacf-a2f859c1225b
+    targetGuid: 998a05ce-a9dd-4191-ac5d-354a2967ab27
+    portId: 210
+  - guid: 998a05ce-a9dd-4191-ac5d-354a2967ab27
+    targetGuid: 29982c90-8be8-4837-8375-34a732d09fd7
+    portId: 211
+  - guid: 29982c90-8be8-4837-8375-34a732d09fd7
+    targetGuid: f470bc10-bd5d-4b7f-9141-515c1721bc91
+    portId: 212
+  - guid: f470bc10-bd5d-4b7f-9141-515c1721bc91
+    targetGuid: 6a98ee9b-0975-4d0b-b0cb-2bb210e04e6e
+    portId: 213
+  - guid: 6a98ee9b-0975-4d0b-b0cb-2bb210e04e6e
+    targetGuid: f087b6fc-fefd-4db5-a982-89d21115abb1
+    portId: 214
+  - guid: f087b6fc-fefd-4db5-a982-89d21115abb1
+    targetGuid: af32ee6a-f22d-4a26-a673-b26fbba8ae84
+    portId: 215
+  - guid: af32ee6a-f22d-4a26-a673-b26fbba8ae84
+    targetGuid: c48381ed-559f-4213-94f9-43794071f99e
+    portId: 216
+  - guid: c48381ed-559f-4213-94f9-43794071f99e
+    targetGuid: 468648bb-b4f1-4e88-bde9-0fa1054339af
+    portId: 217
+  - guid: 468648bb-b4f1-4e88-bde9-0fa1054339af
+    targetGuid: 37865cf1-11f1-41d6-ace5-7e993949b220
+    portId: 218
+  - guid: 37865cf1-11f1-41d6-ace5-7e993949b220
+    targetGuid: 41908b0c-4c62-42b9-8788-4b979760d82a
+    portId: 219
+  - guid: 41908b0c-4c62-42b9-8788-4b979760d82a
+    targetGuid: 479d3463-8c3c-4623-9620-7a1fcabc1979
+    portId: 220
+  - guid: 479d3463-8c3c-4623-9620-7a1fcabc1979
+    targetGuid: 0a1054e4-188d-4470-b720-4533032d9581
+    portId: 221
+  - guid: 0a1054e4-188d-4470-b720-4533032d9581
+    targetGuid: 90121962-7e81-49cb-9170-a608a5d844db
+    portId: 222
+  - guid: 90121962-7e81-49cb-9170-a608a5d844db
+    targetGuid: 01e467a6-3a3e-4e16-8a86-7107d936422f
+    portId: 223
+  - guid: 01e467a6-3a3e-4e16-8a86-7107d936422f
+    targetGuid: 891d589f-04c6-4860-a062-d1a7467bc91d
+    portId: 224
+  - guid: 891d589f-04c6-4860-a062-d1a7467bc91d
+    targetGuid: 041c67b2-5b86-47fd-8419-010d2b7caef4
+    portId: 225
+  - guid: 041c67b2-5b86-47fd-8419-010d2b7caef4
+    targetGuid: 55fde3cb-8ff9-4b6e-8e01-914293c8609e
+    portId: 226
+  - guid: 55fde3cb-8ff9-4b6e-8e01-914293c8609e
+    targetGuid: 4c600bac-6d0b-4f55-8d46-57e0e825d999
+    portId: 227
+  - guid: 4c600bac-6d0b-4f55-8d46-57e0e825d999
+    targetGuid: f20bc17b-00f0-4928-affe-3e3ae2292169
+    portId: 228
+  - guid: f20bc17b-00f0-4928-affe-3e3ae2292169
+    targetGuid: 6f0a04d8-fdbf-4deb-8c19-d8bb5404eafa
+    portId: 229
+  - guid: 6f0a04d8-fdbf-4deb-8c19-d8bb5404eafa
+    targetGuid: c97e8c3f-dac1-4eef-9358-bac7e1f48649
+    portId: 230
+  - guid: c97e8c3f-dac1-4eef-9358-bac7e1f48649
+    targetGuid: 65deb227-a958-400e-88ca-bdc5ecba1b2e
+    portId: 231
+  - guid: 65deb227-a958-400e-88ca-bdc5ecba1b2e
+    targetGuid: 7bddde77-84e5-4a9c-9321-7b362cea26fe
+    portId: 232
+  - guid: 7bddde77-84e5-4a9c-9321-7b362cea26fe
+    targetGuid: d8182428-31e5-4163-a298-743f90ab34d4
+    portId: 233
+  - guid: d8182428-31e5-4163-a298-743f90ab34d4
+    targetGuid: 5af3d658-c8f1-4076-835c-c857cb2d3f8b
+    portId: 234
+  - guid: 5af3d658-c8f1-4076-835c-c857cb2d3f8b
+    targetGuid: c25e404e-0c55-4c96-aa1f-9bd24870152a
+    portId: 235
+  - guid: c25e404e-0c55-4c96-aa1f-9bd24870152a
+    targetGuid: 516f42cf-add6-4ccd-82dd-d03eb123eb8a
+    portId: 236
+  - guid: 516f42cf-add6-4ccd-82dd-d03eb123eb8a
+    targetGuid: f0a3d1f0-7320-46f2-83fd-18356baa7f3a
+    portId: 237
+  - guid: f0a3d1f0-7320-46f2-83fd-18356baa7f3a
+    targetGuid: d725d0de-c574-499a-b5a3-a999291aec27
+    portId: 238
+  - guid: d725d0de-c574-499a-b5a3-a999291aec27
+    targetGuid: c7340176-44bb-462d-b4f4-d393d94e638a
+    portId: 239
+  - guid: c7340176-44bb-462d-b4f4-d393d94e638a
+    targetGuid: 2e8e1633-c4e0-4809-967d-e75ad3e6a424
+    portId: 240
+  - guid: 2e8e1633-c4e0-4809-967d-e75ad3e6a424
+    targetGuid: 58368955-dc2f-41a0-b151-ac232b671312
+    portId: 241
+  - guid: 58368955-dc2f-41a0-b151-ac232b671312
+    targetGuid: bebbd5b8-03e0-4b52-b7f4-c2c33293b542
+    portId: 242
+  - guid: bebbd5b8-03e0-4b52-b7f4-c2c33293b542
+    targetGuid: 65705230-b3b4-471c-a87a-15b7560df5c5
+    portId: 243
+  - guid: 65705230-b3b4-471c-a87a-15b7560df5c5
+    targetGuid: 5cec9b16-2647-4ce2-af1d-44595afe2318
+    portId: 244
+  - guid: 5cec9b16-2647-4ce2-af1d-44595afe2318
+    targetGuid: 3c49ae6b-ef79-47bc-a44c-c0857b6ff6e2
+    portId: 245
+  - guid: 3c49ae6b-ef79-47bc-a44c-c0857b6ff6e2
+    targetGuid: 50263e05-c492-4968-830e-e8e4413d13ec
+    portId: 246
+  - guid: 50263e05-c492-4968-830e-e8e4413d13ec
+    targetGuid: d1b60525-965f-457d-afb0-087a588c442b
+    portId: 247
+  - guid: d1b60525-965f-457d-afb0-087a588c442b
+    targetGuid: 3ad19c73-fc26-40a1-9ffb-63e4d57f9367
+    portId: 248
+  - guid: 3ad19c73-fc26-40a1-9ffb-63e4d57f9367
+    targetGuid: b96e8357-a811-404f-9bee-0b6f5dd1e060
+    portId: 249
+  - guid: b96e8357-a811-404f-9bee-0b6f5dd1e060
+    targetGuid: 8581e30a-f8ad-4434-a0ed-f9795c61f6f1
+    portId: 250
+  - guid: 8581e30a-f8ad-4434-a0ed-f9795c61f6f1
+    targetGuid: ef405152-a449-4849-ad50-3f25c996d6ac
+    portId: 251
+  - guid: ef405152-a449-4849-ad50-3f25c996d6ac
+    targetGuid: e9e662b9-e185-456e-8032-862be6c67584
+    portId: 252
+  - guid: e9e662b9-e185-456e-8032-862be6c67584
+    targetGuid: 0b7174b1-03ef-45f4-9839-b707bf585f9b
+    portId: 253
+  - guid: 0b7174b1-03ef-45f4-9839-b707bf585f9b
+    targetGuid: 4ff00cbc-28d7-454b-82a7-5798b5a3560c
+    portId: 254
+  - guid: 4ff00cbc-28d7-454b-82a7-5798b5a3560c
+    targetGuid: 24616f34-185d-4c61-9d7c-36b6d7287f9c
+    portId: 255
+  - guid: 24616f34-185d-4c61-9d7c-36b6d7287f9c
+    targetGuid: c1a813f2-78d4-4c23-9ec5-c7a47542e6c5
+    portId: 256
+  - guid: c1a813f2-78d4-4c23-9ec5-c7a47542e6c5
+    targetGuid: eefaf0ea-0242-48fe-8ee4-e159952b5382
+    portId: 257
+  - guid: eefaf0ea-0242-48fe-8ee4-e159952b5382
+    targetGuid: dbe68388-8cc9-4602-952f-da053399305a
+    portId: 258
+  - guid: dbe68388-8cc9-4602-952f-da053399305a
+    targetGuid: a99ab23e-ac55-4f9d-8835-df3a1db4fcb2
+    portId: 259
+  - guid: a99ab23e-ac55-4f9d-8835-df3a1db4fcb2
+    targetGuid: 980ebe5a-ccee-4564-b8a6-d0c23b02b431
+    portId: 260
+  - guid: 980ebe5a-ccee-4564-b8a6-d0c23b02b431
+    targetGuid: 79966de4-d94e-430b-9ee4-b99518d55f95
+    portId: 261
+  - guid: 79966de4-d94e-430b-9ee4-b99518d55f95
+    targetGuid: d5ae9d7a-80d7-4821-8a41-720ac785a6d6
+    portId: 262
+  - guid: d5ae9d7a-80d7-4821-8a41-720ac785a6d6
+    targetGuid: f1a77d4e-2f28-4466-9238-954683374a08
+    portId: 263
+  - guid: f1a77d4e-2f28-4466-9238-954683374a08
+    targetGuid: f3100e50-7ae6-43ed-940e-28ac15f34298
+    portId: 264
+  - guid: f3100e50-7ae6-43ed-940e-28ac15f34298
+    targetGuid: b1006c50-3fd2-4837-879f-0f5369ea06d2
+    portId: 265
+  - guid: b1006c50-3fd2-4837-879f-0f5369ea06d2
+    targetGuid: fd349c62-670d-4371-bd62-c06b62e8a5ca
+    portId: 266
+  - guid: fd349c62-670d-4371-bd62-c06b62e8a5ca
+    targetGuid: c702338e-72a7-4fec-9313-7abb3ee89d3d
+    portId: 267
+  - guid: c702338e-72a7-4fec-9313-7abb3ee89d3d
+    targetGuid: 75ade45c-69ef-4135-8b96-7e1382b8e36d
+    portId: 268
+  - guid: 75ade45c-69ef-4135-8b96-7e1382b8e36d
+    targetGuid: 46105de6-81cf-463b-a2f6-7e14e103f8c2
+    portId: 269
+  - guid: 46105de6-81cf-463b-a2f6-7e14e103f8c2
+    targetGuid: c09416d0-4f69-4839-8690-e85b293b0344
+    portId: 270
+  - guid: c09416d0-4f69-4839-8690-e85b293b0344
+    targetGuid: 3b9fd6d7-f010-4d65-b61d-dde0c7591d94
+    portId: 271
+  - guid: 3b9fd6d7-f010-4d65-b61d-dde0c7591d94
+    targetGuid: ea9bce87-89e1-4b4e-af18-889c2ecbd8ab
+    portId: 272
+  - guid: ea9bce87-89e1-4b4e-af18-889c2ecbd8ab
+    targetGuid: 473dc06e-96a6-42c0-b344-79aa17f3720e
+    portId: 273
+  - guid: 473dc06e-96a6-42c0-b344-79aa17f3720e
+    targetGuid: db82f2cb-934c-42a9-af05-63f0c14e3321
+    portId: 274
+  - guid: db82f2cb-934c-42a9-af05-63f0c14e3321
+    targetGuid: 85f7a1e8-cd52-4dc1-ac6c-edc0673eb3c5
+    portId: 275
+  - guid: 85f7a1e8-cd52-4dc1-ac6c-edc0673eb3c5
+    targetGuid: e08ecebb-dc6f-4610-a2f7-9077a4735c7d
+    portId: 276
+  - guid: e08ecebb-dc6f-4610-a2f7-9077a4735c7d
+    targetGuid: 35811d0c-4c56-4329-93d2-4ee9f6d13beb
+    portId: 277
+  - guid: 35811d0c-4c56-4329-93d2-4ee9f6d13beb
+    targetGuid: 3645f165-01f7-4136-9a27-46791a819a07
+    portId: 278
+  - guid: 3645f165-01f7-4136-9a27-46791a819a07
+    targetGuid: 218cfbbf-268d-4a36-bfe3-9b99a1aa5a0d
+    portId: 279
+  - guid: 218cfbbf-268d-4a36-bfe3-9b99a1aa5a0d
+    targetGuid: 497b0b2a-abb3-46d7-9376-08c14887f184
+    portId: 280
+  - guid: 497b0b2a-abb3-46d7-9376-08c14887f184
+    targetGuid: 5062dd9e-4497-49c8-8aca-84da11bcd092
+    portId: 281
+  - guid: 5062dd9e-4497-49c8-8aca-84da11bcd092
+    targetGuid: 441980dc-a48f-48a2-b04b-e729934b8ae4
+    portId: 282
+  - guid: 441980dc-a48f-48a2-b04b-e729934b8ae4
+    targetGuid: a1f84436-fc22-4876-9191-f5e5d3f92964
+    portId: 283
+  - guid: a1f84436-fc22-4876-9191-f5e5d3f92964
+    targetGuid: cd0d3181-0fd8-4736-8963-eb7889e82970
+    portId: 284
+  - guid: cd0d3181-0fd8-4736-8963-eb7889e82970
+    targetGuid: 8ab0b688-9b53-459c-98d1-8c7ddc077649
+    portId: 285
+  - guid: 8ab0b688-9b53-459c-98d1-8c7ddc077649
+    targetGuid: fcbd838d-847d-40c1-8e2b-c2e2c3bbf446
+    portId: 286
+  - guid: fcbd838d-847d-40c1-8e2b-c2e2c3bbf446
+    targetGuid: 262abaeb-3078-4e04-a9ed-901e8eeeb155
+    portId: 287
+  - guid: 262abaeb-3078-4e04-a9ed-901e8eeeb155
+    targetGuid: 082dd7e8-9a39-449b-9e9c-9851550b9f21
+    portId: 288
+  - guid: 082dd7e8-9a39-449b-9e9c-9851550b9f21
+    targetGuid: ed22c02e-e5c0-4560-b728-b0f62c0cdc38
+    portId: 289
+  - guid: ed22c02e-e5c0-4560-b728-b0f62c0cdc38
+    targetGuid: 87f5ba9b-25c5-4bfa-8549-564bba2715ab
+    portId: 290
+  - guid: 87f5ba9b-25c5-4bfa-8549-564bba2715ab
+    targetGuid: 6ec50491-4c8c-4b66-9c1e-bc5a02d156e2
+    portId: 291
+  - guid: 6ec50491-4c8c-4b66-9c1e-bc5a02d156e2
+    targetGuid: 8e87b807-20eb-4545-a98f-127d912a5899
+    portId: 292
+  - guid: 8e87b807-20eb-4545-a98f-127d912a5899
+    targetGuid: aec426ac-e719-4f0d-8444-f8df51b61c31
+    portId: 293
+  - guid: aec426ac-e719-4f0d-8444-f8df51b61c31
+    targetGuid: c6337c4e-805f-41d6-89e7-d6bf6e0c6cb4
+    portId: 294
+  - guid: c6337c4e-805f-41d6-89e7-d6bf6e0c6cb4
+    targetGuid: a854ebb7-7040-4ea3-b924-71986a6cd440
+    portId: 295
+  - guid: a854ebb7-7040-4ea3-b924-71986a6cd440
+    targetGuid: 8b512c15-970a-46de-9a5c-805f5d6afe5f
+    portId: 296
+  - guid: 8b512c15-970a-46de-9a5c-805f5d6afe5f
+    targetGuid: a4ce02dd-30bd-4a66-b7e4-676f746db432
+    portId: 297
+  - guid: a4ce02dd-30bd-4a66-b7e4-676f746db432
+    targetGuid: cb4f4c17-947a-4c04-a4d6-f17259cd7890
+    portId: 298
+  - guid: cb4f4c17-947a-4c04-a4d6-f17259cd7890
+    targetGuid: bfb42e5a-4afe-4df2-8918-bdfa26bf0d99
+    portId: 299
+  - guid: bfb42e5a-4afe-4df2-8918-bdfa26bf0d99
+    targetGuid: 0cfa35ea-29a3-4278-8b41-9eb432a9d2d7
+    portId: 300
+  - guid: 0cfa35ea-29a3-4278-8b41-9eb432a9d2d7
+    targetGuid: ec8dce38-e67b-4990-a2da-df85e1ed29a4
+    portId: 301
+  - guid: ec8dce38-e67b-4990-a2da-df85e1ed29a4
+    targetGuid: dca6ebcf-1c0c-4767-96ec-1e523ce821e0
+    portId: 302
+  - guid: dca6ebcf-1c0c-4767-96ec-1e523ce821e0
+    targetGuid: 7cf21b43-daf6-4cfe-a255-c349da9be5e1
+    portId: 303
+  - guid: 7cf21b43-daf6-4cfe-a255-c349da9be5e1
+    targetGuid: b8176503-3e72-417c-b162-84044ee2cbe8
+    portId: 304
+  - guid: b8176503-3e72-417c-b162-84044ee2cbe8
+    targetGuid: 93fc646d-12d0-4fec-8574-dc7a70d25df2
+    portId: 305
+  - guid: 93fc646d-12d0-4fec-8574-dc7a70d25df2
+    targetGuid: b44fa859-220c-4a81-b6ab-812e086c47e7
+    portId: 306
+  - guid: b44fa859-220c-4a81-b6ab-812e086c47e7
+    targetGuid: 86379344-e71c-4a96-8c9f-288426fe5f9f
+    portId: 307
+  - guid: 86379344-e71c-4a96-8c9f-288426fe5f9f
+    targetGuid: 3fac09f5-11b3-47e9-a512-ed089e64edb3
+    portId: 308
+  - guid: 3fac09f5-11b3-47e9-a512-ed089e64edb3
+    targetGuid: d69d9b57-37c5-4b11-a9b4-f4e9b67b7139
+    portId: 309
+  - guid: d69d9b57-37c5-4b11-a9b4-f4e9b67b7139
+    targetGuid: e90a1e7f-e5ba-4278-8bce-a20a6adbd768
+    portId: 310
+  - guid: e90a1e7f-e5ba-4278-8bce-a20a6adbd768
+    targetGuid: 63376365-42f9-475a-abd6-c69012d8fda8
+    portId: 311
+  - guid: 63376365-42f9-475a-abd6-c69012d8fda8
+    targetGuid: 2339ce96-6a0d-41e6-a955-642e7f9fcde2
+    portId: 312
+  - guid: 2339ce96-6a0d-41e6-a955-642e7f9fcde2
+    targetGuid: 9797f8ec-d40a-4b0d-b6dc-6fb53be5bea1
+    portId: 313
+  - guid: 9797f8ec-d40a-4b0d-b6dc-6fb53be5bea1
+    targetGuid: df7f6fce-5937-425d-b4d4-3f1948711660
+    portId: 314
+  - guid: df7f6fce-5937-425d-b4d4-3f1948711660
+    targetGuid: 836c1b21-5b16-41c5-9935-3852e16f5c64
+    portId: 315
+  - guid: 836c1b21-5b16-41c5-9935-3852e16f5c64
+    targetGuid: 0fdaee07-fab8-4ac7-bc25-674907e61962
+    portId: 316
+  - guid: 0fdaee07-fab8-4ac7-bc25-674907e61962
+    targetGuid: 1c5a70fb-745f-4e09-83da-10bf1375b9a7
+    portId: 317
+  - guid: 1c5a70fb-745f-4e09-83da-10bf1375b9a7
+    targetGuid: 645f04d9-403b-487a-b90e-5245b623aba7
+    portId: 318
+  - guid: 645f04d9-403b-487a-b90e-5245b623aba7
+    targetGuid: 0d1997c8-79cd-4779-baa1-34e7f46a4d17
+    portId: 319
+  - guid: 0d1997c8-79cd-4779-baa1-34e7f46a4d17
+    targetGuid: 777da39a-bafd-46c3-bf81-81e95c648781
+    portId: 320
+  - guid: 777da39a-bafd-46c3-bf81-81e95c648781
+    targetGuid: 1e471c70-363b-4660-bfea-8ebdacf6b317
+    portId: 321
+  - guid: 1e471c70-363b-4660-bfea-8ebdacf6b317
+    targetGuid: 740a65c8-f5e4-49b3-97d8-d7044ff020a5
+    portId: 322
+  - guid: 740a65c8-f5e4-49b3-97d8-d7044ff020a5
+    targetGuid: 46a97cef-26b7-49a1-a56a-21082bc6d4b4
+    portId: 323
+  - guid: 46a97cef-26b7-49a1-a56a-21082bc6d4b4
+    targetGuid: b1317e62-43c7-47b2-ac6f-bd5109202dc5
+    portId: 324
+  - guid: b1317e62-43c7-47b2-ac6f-bd5109202dc5
+    targetGuid: 4eee8f45-d189-4651-9dce-33df1a5f4ec8
+    portId: 325
+  - guid: 4eee8f45-d189-4651-9dce-33df1a5f4ec8
+    targetGuid: 7a0fc978-6968-4647-910f-a4fc5e60391e
+    portId: 326
+  - guid: 7a0fc978-6968-4647-910f-a4fc5e60391e
+    targetGuid: 48f313cf-2179-451d-9d00-e7c19c748435
+    portId: 327
+  - guid: 48f313cf-2179-451d-9d00-e7c19c748435
+    targetGuid: afc3f86c-25b1-40d1-8bae-5d83cbbc9900
+    portId: 328
+  - guid: afc3f86c-25b1-40d1-8bae-5d83cbbc9900
+    targetGuid: 1c718bce-e592-49fe-9fce-77a53578c075
+    portId: 329
+  - guid: 1c718bce-e592-49fe-9fce-77a53578c075
+    targetGuid: 247d9871-1e23-42df-88b0-6c64f095d692
+    portId: 330
+  - guid: 247d9871-1e23-42df-88b0-6c64f095d692
+    targetGuid: 429afca4-adb6-43ca-9cc5-1e33f662409d
+    portId: 331
+  - guid: 429afca4-adb6-43ca-9cc5-1e33f662409d
+    targetGuid: 162fc857-2d56-46d5-8f22-0a8c9736a14e
+    portId: 332
+  - guid: 162fc857-2d56-46d5-8f22-0a8c9736a14e
+    targetGuid: 819711eb-b02a-4345-84e4-df3cdfc9a4c7
+    portId: 333
+  - guid: 819711eb-b02a-4345-84e4-df3cdfc9a4c7
+    targetGuid: 5668c42e-0917-4352-bec2-74e265c50d00
+    portId: 334
+  - guid: 5668c42e-0917-4352-bec2-74e265c50d00
+    targetGuid: 54ba2bb0-a97d-4848-b4c5-4cfa8d0a2d92
+    portId: 335
+  - guid: 54ba2bb0-a97d-4848-b4c5-4cfa8d0a2d92
+    targetGuid: 9359ac54-9f25-43c7-a425-d4ccaa3b0ce1
+    portId: 336
+  - guid: 9359ac54-9f25-43c7-a425-d4ccaa3b0ce1
+    targetGuid: 3eccd1e4-bbad-4571-bd96-e0f5d3ba831a
+    portId: 337
+  - guid: 3eccd1e4-bbad-4571-bd96-e0f5d3ba831a
+    targetGuid: 90358a0f-5d29-4a9a-85be-d44a92a3ce1e
+    portId: 338
+  - guid: 90358a0f-5d29-4a9a-85be-d44a92a3ce1e
+    targetGuid: 6d478af8-40d5-46c1-97af-1ae1c29f4d32
+    portId: 339
+  - guid: 6d478af8-40d5-46c1-97af-1ae1c29f4d32
+    targetGuid: ba4f264c-da66-40cb-87b1-78f1d5416b72
+    portId: 340
+  - guid: ba4f264c-da66-40cb-87b1-78f1d5416b72
+    targetGuid: bb0e395b-0d9c-4940-b136-70e2478bf6b8
+    portId: 341
+  - guid: bb0e395b-0d9c-4940-b136-70e2478bf6b8
+    targetGuid: 0d48877e-a894-4a9d-a1cf-d9666a56a981
+    portId: 342
+  - guid: 0d48877e-a894-4a9d-a1cf-d9666a56a981
+    targetGuid: cc52a2ed-c93a-4c7f-8d2e-19e16d7dc62a
+    portId: 343
+  - guid: cc52a2ed-c93a-4c7f-8d2e-19e16d7dc62a
+    targetGuid: 1a6677e1-1b84-45f7-9380-faeb0c873cb9
+    portId: 344
+  - guid: 1a6677e1-1b84-45f7-9380-faeb0c873cb9
+    targetGuid: 27e93192-14f5-4037-973e-730665ff28d9
+    portId: 345
+  - guid: 27e93192-14f5-4037-973e-730665ff28d9
+    targetGuid: 77ce8a1c-39b2-45b6-8ec2-38afe73cac51
+    portId: 346
+  - guid: 77ce8a1c-39b2-45b6-8ec2-38afe73cac51
+    targetGuid: 77282a28-7d9a-4d96-926f-f4c61e989265
+    portId: 347
+  - guid: 77282a28-7d9a-4d96-926f-f4c61e989265
+    targetGuid: 87972e03-d495-4445-af1e-428a45613621
+    portId: 348
+  - guid: 87972e03-d495-4445-af1e-428a45613621
+    targetGuid: 8bd2148c-56f3-4773-ad6f-c037172ad738
+    portId: 349
+  - guid: 8bd2148c-56f3-4773-ad6f-c037172ad738
+    targetGuid: c5178b6e-459f-4cac-9985-317334ff6d84
+    portId: 350
+  - guid: c5178b6e-459f-4cac-9985-317334ff6d84
+    targetGuid: ef0dad4f-cd67-4841-a43d-f1a3d8baebcd
+    portId: 351
+  - guid: ef0dad4f-cd67-4841-a43d-f1a3d8baebcd
+    targetGuid: 292a18f5-9795-40fd-9861-2d7109fdb0ac
+    portId: 352
+  - guid: 292a18f5-9795-40fd-9861-2d7109fdb0ac
+    targetGuid: f7870977-3458-4a95-80c7-13c780df3304
+    portId: 353
+  - guid: f7870977-3458-4a95-80c7-13c780df3304
+    targetGuid: f56493b2-14fa-44d3-9ed4-ba2403481131
+    portId: 354
+  - guid: f56493b2-14fa-44d3-9ed4-ba2403481131
+    targetGuid: c61cdb93-b088-4bc4-8574-95d1cb758273
+    portId: 355
+  - guid: c61cdb93-b088-4bc4-8574-95d1cb758273
+    targetGuid: 93247379-c66d-4fad-9200-3dc8175e14c3
+    portId: 356
+  - guid: 93247379-c66d-4fad-9200-3dc8175e14c3
+    targetGuid: 1edd61b6-8871-4860-8ddf-c2921ef4ee50
+    portId: 357
+  - guid: 1edd61b6-8871-4860-8ddf-c2921ef4ee50
+    targetGuid: b415c85f-4dd1-4370-a26d-4613df873a3b
+    portId: 358
+  - guid: b415c85f-4dd1-4370-a26d-4613df873a3b
+    targetGuid: b4a87927-cd52-4621-bfab-86e4d5ac6c02
+    portId: 359
+  - guid: b4a87927-cd52-4621-bfab-86e4d5ac6c02
+    targetGuid: 82e0d02c-08d3-4df5-a47b-49d6c5c1f580
+    portId: 360
+  - guid: 82e0d02c-08d3-4df5-a47b-49d6c5c1f580
+    targetGuid: 30954ff4-dd97-426c-b4c6-62a59e67d667
+    portId: 361
+  - guid: 30954ff4-dd97-426c-b4c6-62a59e67d667
+    targetGuid: dba75242-f666-4758-9c6b-2a0e9510a17a
+    portId: 362
+  - guid: dba75242-f666-4758-9c6b-2a0e9510a17a
+    targetGuid: 78cbff4a-3d1a-42ea-a757-ac54f894e3b7
+    portId: 363
+  - guid: 78cbff4a-3d1a-42ea-a757-ac54f894e3b7
+    targetGuid: 5a7556f5-2aad-4ea3-a3e0-ca4871f8026e
+    portId: 364
+  - guid: 5a7556f5-2aad-4ea3-a3e0-ca4871f8026e
+    targetGuid: 17f10350-256d-4917-a727-210d3da58758
+    portId: 365
+  - guid: 17f10350-256d-4917-a727-210d3da58758
+    targetGuid: 95842ad2-ef98-4a9d-bdb2-b062a178baf7
+    portId: 366
+  - guid: 95842ad2-ef98-4a9d-bdb2-b062a178baf7
+    targetGuid: 490a50bc-c368-4276-bc05-0a20e359b831
+    portId: 367
+  - guid: 490a50bc-c368-4276-bc05-0a20e359b831
+    targetGuid: df6d9745-7741-49c8-967b-7b2f2251a43f
+    portId: 368
+  - guid: df6d9745-7741-49c8-967b-7b2f2251a43f
+    targetGuid: 1948dd66-0061-474e-bd90-f00601e84cd8
+    portId: 369
+  - guid: 1948dd66-0061-474e-bd90-f00601e84cd8
+    targetGuid: 7adc9af5-50ad-455a-9b90-511a0631f7ca
+    portId: 370
+  - guid: 7adc9af5-50ad-455a-9b90-511a0631f7ca
+    targetGuid: 335be951-643c-439b-b29c-4d9d0af595bc
+    portId: 371
+  - guid: 335be951-643c-439b-b29c-4d9d0af595bc
+    targetGuid: 4c021412-514a-463b-a9fc-2f982f9ac7c8
+    portId: 372
+  - guid: 4c021412-514a-463b-a9fc-2f982f9ac7c8
+    targetGuid: b46b5f87-0b13-4f53-a7f6-f85d923a1f81
+    portId: 373
+  - guid: b46b5f87-0b13-4f53-a7f6-f85d923a1f81
+    targetGuid: df2d7953-6f3b-42cb-ac50-c4156cf2069c
+    portId: 374
+  - guid: df2d7953-6f3b-42cb-ac50-c4156cf2069c
+    targetGuid: 4fa18c52-18ba-41bf-817e-93d7a99d62ad
+    portId: 375
+  - guid: 4fa18c52-18ba-41bf-817e-93d7a99d62ad
+    targetGuid: ada0d0eb-b6e0-4a3e-9c2d-fdd8b56fa002
+    portId: 376
+  - guid: ada0d0eb-b6e0-4a3e-9c2d-fdd8b56fa002
+    targetGuid: 52951a3a-9aff-4e4b-bd65-fb149499621a
+    portId: 377
+  - guid: 52951a3a-9aff-4e4b-bd65-fb149499621a
+    targetGuid: 00c1f2ee-b84b-4d57-8545-3b6d20defd81
+    portId: 378
+  - guid: 00c1f2ee-b84b-4d57-8545-3b6d20defd81
+    targetGuid: de96826f-80c3-4513-bceb-62821eaea094
+    portId: 379
+  - guid: 5ca4a398-c49f-48f0-978e-d252c7f163d8
+    targetGuid: 756d8901-69be-4935-ac3e-c2a2cd99696d
+    portId: 380
+  - guid: 756d8901-69be-4935-ac3e-c2a2cd99696d
+    targetGuid: 2c15eaca-ba48-4c48-801d-b9692f662cd8
+    portId: 381
+  - guid: 2c15eaca-ba48-4c48-801d-b9692f662cd8
+    targetGuid: ef1f3d38-bbdd-40eb-9b00-d466dff0ef48
+    portId: 382
+  - guid: ef1f3d38-bbdd-40eb-9b00-d466dff0ef48
+    targetGuid: 948ff434-eb3a-4ea4-9847-ac169b46c6b4
+    portId: 383
+  - guid: 948ff434-eb3a-4ea4-9847-ac169b46c6b4
+    targetGuid: cbc70a09-7fc7-4bf0-9214-074069b033d1
+    portId: 384
+  - guid: cbc70a09-7fc7-4bf0-9214-074069b033d1
+    targetGuid: e4a6cf76-7ad8-4d18-a67f-26853a8b014e
+    portId: 385
+  - guid: e4a6cf76-7ad8-4d18-a67f-26853a8b014e
+    targetGuid: 028dffe5-8d9c-4392-bb76-1806bce2b295
+    portId: 386
+  - guid: 028dffe5-8d9c-4392-bb76-1806bce2b295
+    targetGuid: 6982dd8e-180e-4e14-a23b-64a9fa1178ea
+    portId: 387
+  - guid: 6982dd8e-180e-4e14-a23b-64a9fa1178ea
+    targetGuid: 95a7e122-f7a0-43a8-bce1-a48e2dcf459a
+    portId: 388
+  - guid: de96826f-80c3-4513-bceb-62821eaea094
+    targetGuid: 5ca4a398-c49f-48f0-978e-d252c7f163d8
+    portId: 389
+  - guid: 95a7e122-f7a0-43a8-bce1-a48e2dcf459a
+    targetGuid: a8fe0921-cf62-4527-a7f5-abb6d82c7484
+    portId: 390
+  - guid: a8fe0921-cf62-4527-a7f5-abb6d82c7484
+    targetGuid: a44935eb-9f28-4054-b5a1-e40b6044665d
+    portId: 391
+  - guid: a44935eb-9f28-4054-b5a1-e40b6044665d
+    targetGuid: 72500509-a923-4d96-b0ec-140da183958a
+    portId: 392
+  - guid: 72500509-a923-4d96-b0ec-140da183958a
+    targetGuid: df2f6283-a5dd-407e-b879-ae718f0556ba
+    portId: 393
+  - guid: df2f6283-a5dd-407e-b879-ae718f0556ba
+    targetGuid: 3eca6b02-5d4a-4f8e-9872-5cf63710387e
+    portId: 394
+  - guid: 3eca6b02-5d4a-4f8e-9872-5cf63710387e
+    targetGuid: adc086d1-6970-4c84-9617-2ee42665eb44
+    portId: 395
+  - guid: adc086d1-6970-4c84-9617-2ee42665eb44
+    targetGuid: 78e9a3b4-4518-4294-9d34-e6f2ef4ba0b9
+    portId: 396
+  - guid: 78e9a3b4-4518-4294-9d34-e6f2ef4ba0b9
+    targetGuid: 2eae085b-5425-4cca-a720-feba040a083f
+    portId: 397
+  - guid: 2eae085b-5425-4cca-a720-feba040a083f
+    targetGuid: 4fd0d0f6-9618-4d6b-8765-d083020dcc81
+    portId: 398
+  - guid: 4fd0d0f6-9618-4d6b-8765-d083020dcc81
+    targetGuid: 6f105813-8f89-4f44-92de-0d84195afa9e
+    portId: 399
+  - guid: 6f105813-8f89-4f44-92de-0d84195afa9e
+    targetGuid: bebb25c3-bfa0-46c1-afed-b825b3f5d56a
+    portId: 400
+  - guid: bebb25c3-bfa0-46c1-afed-b825b3f5d56a
+    targetGuid: f2990c12-fb92-4f17-9ecb-15e2bab7d488
+    portId: 401
+  - guid: f2990c12-fb92-4f17-9ecb-15e2bab7d488
+    targetGuid: ac55fdd2-e1af-40cb-b49d-68b8c9361155
+    portId: 402
+  - guid: ac55fdd2-e1af-40cb-b49d-68b8c9361155
+    targetGuid: 6a0a08c7-c163-4af3-bd6f-c96e4a5b0fac
+    portId: 403
+  - guid: 6a0a08c7-c163-4af3-bd6f-c96e4a5b0fac
+    targetGuid: 363bf32c-3940-41ff-87df-a78fb18b7998
+    portId: 404
+  - guid: 363bf32c-3940-41ff-87df-a78fb18b7998
+    targetGuid: 6e45793f-306b-48e9-8720-d4e5cc54cfbb
+    portId: 405
+  - guid: 6e45793f-306b-48e9-8720-d4e5cc54cfbb
+    targetGuid: 5dd55df7-0aa3-4b4e-acc4-97599b540b07
+    portId: 406
+  - guid: 5dd55df7-0aa3-4b4e-acc4-97599b540b07
+    targetGuid: e10ece02-3d06-4d88-b6dc-ddc4cc5b9e03
+    portId: 407
+  - guid: e10ece02-3d06-4d88-b6dc-ddc4cc5b9e03
+    targetGuid: ddd19669-8d9e-444e-a8ee-d8e030574f9b
+    portId: 408
+  - guid: ddd19669-8d9e-444e-a8ee-d8e030574f9b
+    targetGuid: 9fb03c79-f1e3-4428-96bc-db5bd2069b64
+    portId: 409
+  - guid: 9fb03c79-f1e3-4428-96bc-db5bd2069b64
+    targetGuid: d351fb64-7cda-4629-9417-a3bff4620d8d
+    portId: 410
+  - guid: d351fb64-7cda-4629-9417-a3bff4620d8d
+    targetGuid: 43ce6dcd-2e8e-4097-a7e3-041e1c446332
+    portId: 411
+  - guid: 43ce6dcd-2e8e-4097-a7e3-041e1c446332
+    targetGuid: f084ea71-15f4-4bb9-8aab-0e463b7ca0d5
+    portId: 412
+  - guid: f084ea71-15f4-4bb9-8aab-0e463b7ca0d5
+    targetGuid: 9bd9782c-0ff3-4089-89dd-e09d6c9965f8
+    portId: 413
+  - guid: 9bd9782c-0ff3-4089-89dd-e09d6c9965f8
+    targetGuid: 5beebbb8-87a5-4df0-a554-22eb4d4c6ba8
+    portId: 414
+  - guid: 5beebbb8-87a5-4df0-a554-22eb4d4c6ba8
+    targetGuid: 2623e77e-6bd1-4c04-8cb0-51e5d0968b86
+    portId: 415
+  - guid: 2623e77e-6bd1-4c04-8cb0-51e5d0968b86
+    targetGuid: f8c6317b-de7e-4413-a23b-4966014a9b48
+    portId: 416
+  - guid: f8c6317b-de7e-4413-a23b-4966014a9b48
+    targetGuid: 8f07c6c1-838d-444d-9f98-04a9012c30b1
+    portId: 417
+  - guid: 8f07c6c1-838d-444d-9f98-04a9012c30b1
+    targetGuid: ca1c0068-18b1-4b80-af86-91ab86d743b5
+    portId: 418
+  - guid: ca1c0068-18b1-4b80-af86-91ab86d743b5
+    targetGuid: 9d8466df-c8db-4630-bba9-ae7ee8c61345
+    portId: 419
+  - guid: 9d8466df-c8db-4630-bba9-ae7ee8c61345
+    targetGuid: 50a2fe1c-924d-40b0-9e79-086cacc88cc3
+    portId: 420
+  - guid: 50a2fe1c-924d-40b0-9e79-086cacc88cc3
+    targetGuid: 6b3230c2-eefe-43ee-a65c-d1c39dae5dc1
+    portId: 421
   nodes:
   - guid: 22219cf1-5e1a-4195-9669-6f12963bbf0e
     characterSpr: {fileID: 0}
@@ -3409,25 +4120,6 @@ MonoBehaviour:
       height: 305
     soundEffect: {fileID: 0}
     backgroundMusic: {fileID: 0}
-  - guid: 45380da2-c9ab-4b5d-b2c5-08920ccb0746
-    characterSpr: {fileID: 0}
-    characterName: 
-    dialogueText: 
-    backgroundSpr: {fileID: 0}
-    startNode: 0
-    endNode: 0
-    choices: 2
-    choiceOptions:
-    - "Solo son dos a\xF1os mayores que nosotros."
-    - "M\xE1s problemas es lo que menos necesitamos."
-    nodePosition:
-      serializedVersion: 2
-      x: 3145
-      y: 5440
-      width: 499
-      height: 369
-    soundEffect: {fileID: 0}
-    backgroundMusic: {fileID: 0}
   - guid: cf41fbe1-4219-4794-a1ff-5577a147de25
     characterSpr: {fileID: 0}
     characterName: Santiago
@@ -4056,23 +4748,103 @@ MonoBehaviour:
       height: 305
     soundEffect: {fileID: 0}
     backgroundMusic: {fileID: 0}
-  - guid: 8cdd8d76-e1c0-4ecc-986d-76dd45b807fa
+  - guid: 45380da2-c9ab-4b5d-b2c5-08920ccb0746
     characterSpr: {fileID: 0}
-    characterName: Santiago
-    dialogueText: "Pregunt\xE9 qui\xE9n de los dos va a hacerlo primero."
+    characterName: 
+    dialogueText: 
     backgroundSpr: {fileID: 0}
     startNode: 0
     endNode: 0
     choices: 2
     choiceOptions:
-    - "Est\xE1 bien. Lo hago yo primero."
-    - Mejor vos que yo.
+    - "Solo son dos a\xF1os mayores que nosotros."
+    - "M\xE1s problemas es lo que menos necesitamos."
     nodePosition:
       serializedVersion: 2
-      x: 8800
-      y: 6264
+      x: 3151
+      y: 5530
       width: 499
       height: 369
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 42fcef41-d7ba-4bd7-b604-39333fc42972
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: 
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 2
+    choiceOptions:
+    - No voy a hacerlo
+    - Bueno. Solo una vez.
+    nodePosition:
+      serializedVersion: 2
+      x: 8846
+      y: 6352
+      width: 499
+      height: 369
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 03019563-02b9-49af-861f-8fecdbdf13be
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Si no lo hac\xE9s voy a encontrar a alguien m\xE1s. Alguien que
+      no conozca el m\xE9todo."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 9401
+      y: 6273
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: d6fabc81-5125-4de1-9e74-caf0801258a3
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Aquella era una de las armas m\xE1s letales de Santiago, la de
+      \u201Cdejarme solo\u201D, reemplazarme, apartarme. Como dije, aparentemente
+      tengo un serio miedo a quedarme solo y a\xFAn hoy, a\xF1os despu\xE9s de lo
+      ocurrido, no s\xE9 a qu\xE9 se debe."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 9900
+      y: 6273
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 2653b0f9-0b4f-418d-9308-dc760227467a
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Lo que s\xED sab\xEDa, era que Santiago empleaba ese recurso cada
+      vez que no lograba convencerme de algo. Lo hizo cuando probamos nuestro primer
+      cigarrillo, cuando encendimos nuestro primer petardo en el ba\xF1o del colegio
+      y cuando nos metimos de noche en casa de Fran para simular un robo a mano armada."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 10399
+      y: 6273
+      width: 499
+      height: 305
     soundEffect: {fileID: 0}
     backgroundMusic: {fileID: 0}
   - guid: 3b41a2ae-99fe-4b30-989d-29e7f2082a68
@@ -4087,13 +4859,163 @@ MonoBehaviour:
     - 
     nodePosition:
       serializedVersion: 2
-      x: 9367
-      y: 6145
+      x: 11724
+      y: 6301
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 8cdd8d76-e1c0-4ecc-986d-76dd45b807fa
+    characterSpr: {fileID: 0}
+    characterName: Santiago
+    dialogueText: "Pregunt\xE9 qui\xE9n de los dos va a hacerlo primero."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 2
+    choiceOptions:
+    - "Est\xE1 bien. Lo hago yo primero."
+    - Mejor vos que yo.
+    nodePosition:
+      serializedVersion: 2
+      x: 11157
+      y: 6453
+      width: 499
+      height: 369
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 809747a1-b625-46e2-adfe-b5bff915fd44
+    characterSpr: {fileID: 0}
+    characterName: Santiago
+    dialogueText: "\xA1Genial! \xBFQui\xE9n va primero?"
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 10399
+      y: 6670
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 42ed5ed4-4774-4ded-9775-d20e4029347f
+    characterSpr: {fileID: 0}
+    characterName: Santiago
+    dialogueText: No vas a sacarme la gloria. Yo voy a ir primero.
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 12223
+      y: 6301
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 8249930a-c1f3-4f59-8d78-4b78180b7539
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Est\xE1 bien, me da igual."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 12722
+      y: 6301
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 4a4ff8f3-0b21-4fff-8d44-3c8dfaf7fba5
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Claro que no me daba igual. Pero conoc\xEDa aquella actitud compulsiva
+      de Santiago. Sab\xEDa que, en ese estado, era un peligro para los dem\xE1s
+      como para s\xED mismo."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 13221
+      y: 6301
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 0b0fb5d5-a630-467c-9c3d-c07bab1b0043
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "No s\xE9 porqu\xE9 hab\xEDa decidido ir primero. Quiz\xE1 porque
+      sab\xEDa que desmayar a Santiago era una mala idea. Pero tambi\xE9n lo era
+      que yo me desmayara."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 13720
+      y: 6301
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: df4c3582-f7fa-4c50-a28e-7c675ecdd5e9
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Entonces dije que estaba bien. Que fuera primero. Yo solamente
+      quer\xEDa acabar con todo eso de una vez."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 14219
+      y: 6301
       width: 499
       height: 305
     soundEffect: {fileID: 0}
     backgroundMusic: {fileID: 0}
   - guid: e21fb4aa-fcb5-4fe7-8901-cb1c3a1827a0
+    characterSpr: {fileID: 0}
+    characterName: Santiago
+    dialogueText: Oh si, nena.
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 14922
+      y: 6521
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 3b94e7bd-6134-47c4-ba63-b0a0e9f63a70
     characterSpr: {fileID: 0}
     characterName: 
     dialogueText: 
@@ -4105,8 +5027,4365 @@ MonoBehaviour:
     - 
     nodePosition:
       serializedVersion: 2
-      x: 9367
-      y: 6481
+      x: 977
+      y: 7404
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 7ee79ee0-adb7-4c66-8da5-62548811212e
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Tomamos, entonces, un desv\xEDo y llegamos a la plaza de la cruz,
+      llamada as\xED por la gran cruz de metal que hay en su centro, rodeada por
+      flores y ofrendas que, con las lluvias, estaban cada vez m\xE1s mugrosas."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 1476
+      y: 7404
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 81f86a29-45e0-4fb0-882e-ba56a7d00a5b
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Las gotas eran grandes y mis zapatillas se estaban llenando de
+      barro y agua, pero estaba tan nervioso que no pod\xEDa preocuparme por eso."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 1975
+      y: 7404
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: e14f0565-ab92-481f-80ae-d06480c258a9
+    characterSpr: {fileID: 0}
+    characterName: Santiago
+    dialogueText: Bueno, cuando quieras.
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 2474
+      y: 7404
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: e6cd8c60-3bd4-4015-bad1-b91fa350a3f4
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Yo no pod\xEDa creer que hab\xEDa accedido a semejante pavada,
+      y as\xED y todo ah\xED estaba yo, parado frente a mi amigo todo mojado, a punto
+      de hacerlo desmayar siguiendo una serie de procedimientos que, en teor\xEDa,
+      lo har\xEDan ver 10 segundos del futuro."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 2973
+      y: 7404
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 3bbb7dcc-7648-4780-8983-66674396894a
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Dese\xE9 que Fran estuviera con nosotros. \xC9l siempre saltaba
+      con explicaciones t\xE9cnicas y cosas raras que eran m\xE1sque suficientes
+      para disuadirnos de hacer estupideces. Sin embargo, debe quedar meridianamente
+      claro que yo sab\xEDa que esto era una estupidez. Lo s\xE9 hoy, pero tambi\xE9n
+      lo sab\xEDa entonces."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 3472
+      y: 7404
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: f6dd4171-096b-4d2a-b1a2-5c99b469ba12
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Quiz\xE1 es por eso que me cuesta tanto dormir."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 3971
+      y: 7404
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 1a88820a-b3a3-4562-ba81-7940579ebfbd
+    characterSpr: {fileID: 0}
+    characterName: Santiago
+    dialogueText: "\xA1Cuan - do - quie - ras!"
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 4470
+      y: 7404
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: ee031c1c-d62b-4bae-a80d-0be750d74d10
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Entonces me acerqu\xE9 por detr\xE1s a Santiago y lo sujet\xE9.
+      Puse el pliegue del codo contra su nuez de Ad\xE1n."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 4969
+      y: 7404
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 9940ad57-8984-4ec5-8f96-9d28560746e2
+    characterSpr: {fileID: 0}
+    characterName: Santiago
+    dialogueText: "Estoy listo, dale, apret\xE1."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 5468
+      y: 7404
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 03353e06-c3a4-412c-bdc7-59ae0705e10b
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Con much\xEDsimo miedo, apret\xE9. Muy fuerte. Quer\xEDa que todo
+      esto se terminara de una vez."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 5967
+      y: 7404
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 0fa83e81-03da-4541-9798-29c0f2a044bf
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Santiago empez\xF3 a hacer ruidos extra\xF1os, pero seg\xFAn el
+      m\xE9todo de Carmen, aquello era signo de que se estaban haciendo bien las
+      cosas."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 6466
+      y: 7404
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 153e1ea6-a283-413a-9c7c-63305e9046bd
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Sent\xEDa la emoci\xF3n de Santiago y mi propio miedo traducido
+      en enormes gotas de sudor, que se mezclaban con las de la lluvia."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 6965
+      y: 7404
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 4fe85810-8fc7-4802-bacf-a2f859c1225b
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Entonces, sin que pudiera advertirlo, Santiago comenz\xF3 a moverse
+      con movimientos espasm\xF3dicos, como si convulsionara. En ese momento, \xE9l
+      estaba a muy poco de morirse. "
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 7464
+      y: 7404
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 998a05ce-a9dd-4191-ac5d-354a2967ab27
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Entonces el m\xE9todo Carmen dec\xEDa que era el instante preciso
+      para apretar su yugular como si \xE9sta fuera un grano y as\xED lo hice."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 7963
+      y: 7404
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 29982c90-8be8-4837-8375-34a732d09fd7
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Santiago dej\xF3 de moverse en ese preciso instante y cay\xF3
+      al suelo, como una bolsa de papas."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 8462
+      y: 7404
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: f470bc10-bd5d-4b7f-9141-515c1721bc91
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Me aterroric\xE9 tanto que comenc\xE9 a gritar en la lluvia. Lo
+      hab\xEDa matado. Finalmente lo hab\xEDa matado. Ten\xEDa tanto miedo de quedarme
+      solo que hab\xEDa matado a mi mejor amigo. Bien hecho, muy bien hecho\u2026"
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 8961
+      y: 7404
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 6a98ee9b-0975-4d0b-b0cb-2bb210e04e6e
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Sin embargo yo hab\xEDa seguido bien las instrucciones y me d\xED
+      cuenta porque Santiago a\xFAn respiraba."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 9460
+      y: 7404
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: f087b6fc-fefd-4db5-a982-89d21115abb1
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Su pecho sub\xEDa y bajaba con fuerza, como si estuviera profundamente
+      dormido. Vi su semblante p\xE1lido por la falta de ox\xEDgeno, con las gotas
+      de lluvia cayendo sobre \xE9l, perlando su frente, la cual recuperaba color
+      progresivamente."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 9959
+      y: 7404
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: af32ee6a-f22d-4a26-a673-b26fbba8ae84
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Suspir\xE9, un poco aliviado. Listo, ya estaba hecho. Ahora se
+      dejar\xEDa de joder con eso del m\xE9todo Carmen y podr\xEDamos pasar a otra
+      cosa. Todos vivitos y coleando."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 10458
+      y: 7404
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: c48381ed-559f-4213-94f9-43794071f99e
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Me agach\xE9 y le abr\xED los p\xE1rpados. No s\xE9 por qu\xE9
+      lo hice, fue un impulso. Vi algo que me arranc\xF3 un grito de terror."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 10957
+      y: 7404
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 468648bb-b4f1-4e88-bde9-0fa1054339af
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Sus pupilas describ\xEDan circunferencias muy violentas con much\xEDsima
+      velocidad. De repente, se pararon en las m\xEDas y sent\xED que sus ojos se
+      enrojec\xEDan y me miraban con ira."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 11456
+      y: 7404
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 5af3d658-c8f1-4076-835c-c857cb2d3f8b
+    characterSpr: {fileID: 0}
+    characterName: Santiago
+    dialogueText: "...\xA1Levantate idiota!"
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 19973
+      y: 7453
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: c25e404e-0c55-4c96-aa1f-9bd24870152a
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Abr\xED los ojos."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 20472
+      y: 7453
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 516f42cf-add6-4ccd-82dd-d03eb123eb8a
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Lo primero que hice fue buscar a Santiago y le encaj\xE9 un rev\xE9s
+      en el labio. Sent\xED su labio chocando con sus dientes y me qued\xF3 una marca
+      en los nudillos. Se me qued\xF3 mirando con ojos aterrados."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 20971
+      y: 7453
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: f0a3d1f0-7320-46f2-83fd-18356baa7f3a
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Lo vi mojado y me record\xF3 a un pobre perrito que espera que
+      lo dejen entrar en su casa porque no soporta m\xE1s la lluvia. Me miraba con
+      gestos asustados y se presionaba el labio como si la hemorragia pudiera matarlo."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 21470
+      y: 7453
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: d725d0de-c574-499a-b5a3-a999291aec27
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Me preocupaba m\xE1s por \xE9l que por mi, a pesar de que mi coraz\xF3n
+      lat\xEDa como si acabar\xE1 de correr un marat\xF3n y las manchas frente a
+      mis ojos a\xFAn no se iban."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 21969
+      y: 7453
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: c7340176-44bb-462d-b4f4-d393d94e638a
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "\u201CNo se acuerda porque fue muy duro para \xE9l\u2026\u201D"
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 22468
+      y: 7453
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 2e8e1633-c4e0-4809-967d-e75ad3e6a424
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Perd\xF3n San -dije con dificultad, carraspeando-. Es que\u2026
+      \xBFc\xF3mo vas a hacerme esto? Te dije que no quer\xEDa hacerlo."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 22967
+      y: 7453
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 58368955-dc2f-41a0-b151-ac232b671312
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Reflexion\xE9 unos pocos segundos sobre lo que acababa de hacer.
+      Me sent\xEDa muy culpable por haberle pegado, sobre todo porque en cuanto levant\xE9
+      el pu\xF1o para darle, vi como \xE9l se qued\xF3 quieto."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 23466
+      y: 7453
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: bebbd5b8-03e0-4b52-b7f4-c2c33293b542
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "No intent\xF3 cubrirse, ni esquivar el golpe... En realidad, me
+      hab\xEDa dado la impresi\xF3n de que acomod\xF3 la cara para ser golpeado m\xE1s
+      f\xE1cilmente. Record\xE9 que \xE9l hab\xEDa actuado de una forma muy similar
+      cuando su padre le cort\xF3 la cara con una botella. Probablemente actuaba
+      as\xED siempre que lo golpeaban. Casi como si \xE9l mismo sintiera que se lo
+      merec\xEDa."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 23965
+      y: 7453
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 65705230-b3b4-471c-a87a-15b7560df5c5
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "\u201C...fue muy duro\u2026\u201D"
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 24464
+      y: 7453
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 5cec9b16-2647-4ce2-af1d-44595afe2318
+    characterSpr: {fileID: 0}
+    characterName: Santiago
+    dialogueText: "Est\xE1 bien, no hay problema\u2026 -se quit\xF3 la mano del labio
+      y volvi\xF3 en s\xED- \xBFpudiste verlo?"
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 24963
+      y: 7453
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 3c49ae6b-ef79-47bc-a44c-c0857b6ff6e2
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "\"...para \xE9l.\""
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 25462
+      y: 7453
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 50263e05-c492-4968-830e-e8e4413d13ec
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Le dije la verdad: que s\xED. Que lo hab\xEDa visto y que simplemente
+      no pod\xEDa creerlo."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 25961
+      y: 7453
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 37865cf1-11f1-41d6-ace5-7e993949b220
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: 
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 11989
+      y: 7453
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 41908b0c-4c62-42b9-8788-4b979760d82a
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Estaba a punto de correr a llamar a la polic\xEDa cuando Santiago
+      se incorpor\xF3."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 12488
+      y: 7453
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 479d3463-8c3c-4623-9620-7a1fcabc1979
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Lo hizo muy r\xE1pido y respiraba con fuerza. Yo le preguntaba
+      si estaba bien y \xE9l no me respond\xEDa. Se me cruzaron por la cabeza mil
+      y un escenarios posibles. Le hab\xEDa causado un aneurisma, le hab\xEDa causado
+      un derrame cerebral, le hab\xEDa hecho esto y lo otro."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 12987
+      y: 7453
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 0a1054e4-188d-4470-b720-4533032d9581
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Su cuerpo pareci\xF3 comenzar a calmarse y la mirada que manten\xEDa
+      fija en alg\xFAn punto detr\xE1s m\xEDo recobr\xF3 vida. La deposit\xF3 en
+      m\xED y se ech\xF3 a re\xEDr. "
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 13486
+      y: 7453
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 90121962-7e81-49cb-9170-a608a5d844db
+    characterSpr: {fileID: 0}
+    characterName: Santiago
+    dialogueText: "\xA1Es espectacular! \xA1Lo vi!"
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 13985
+      y: 7453
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 01e467a6-3a3e-4e16-8a86-7107d936422f
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "\xBFAh s\xED?"
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 14484
+      y: 7453
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 891d589f-04c6-4860-a062-d1a7467bc91d
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "\xA1Si! \xA1Vi unos caballos, con muchas patas\u2026! Fue como
+      so\xF1ar, pero de una forma mucho m\xE1s real. \xA1Ten\xE9s que probarlo!\r"
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 14983
+      y: 7453
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 041c67b2-5b86-47fd-8419-010d2b7caef4
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Me ech\xE9 a re\xEDr."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 15482
+      y: 7453
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 55fde3cb-8ff9-4b6e-8e01-914293c8609e
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: Ni loco, San.
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 15981
+      y: 7453
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 4c600bac-6d0b-4f55-8d46-57e0e825d999
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Se incorpor\xF3 del todo y me agarr\xF3 de los hombros."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 16480
+      y: 7453
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: f20bc17b-00f0-4928-affe-3e3ae2292169
+    characterSpr: {fileID: 0}
+    characterName: Santiago
+    dialogueText: "\xA1No te resistas, solo lo vas a hacer peor!"
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 16979
+      y: 7453
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 6f0a04d8-fdbf-4deb-8c19-d8bb5404eafa
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "\xA1No, Santiago, no quiero, por favor\u2026!"
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 17478
+      y: 7453
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: c97e8c3f-dac1-4eef-9358-bac7e1f48649
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Otra de los tantos atributos de Santiago era su fuerza, su fuerza
+      casi animal. Me agarr\xF3 de los hombros, me dio vuelta y me invadi\xF3 un
+      terror infernal."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 17977
+      y: 7453
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 65deb227-a958-400e-88ca-bdc5ecba1b2e
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Comenc\xE9 a intentar zafarme, intent\xE9 morderlo, intent\xE9
+      pegarle, pero parec\xEDa que \xE9l se adelantaba a todos mis movimientos y
+      no consegu\xEDa liberarme."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 18476
+      y: 7453
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 7bddde77-84e5-4a9c-9321-7b362cea26fe
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Sent\xED unas pulsaciones muy fuertes en la cabeza, luego vi unas
+      manchas oscuras frente a mis ojos y, finalmente, sent\xED un punzante dolor
+      en el costado izquierdo del cuello\u2026"
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 18975
+      y: 7453
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: d8182428-31e5-4163-a298-743f90ab34d4
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: 
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 19474
+      y: 7453
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: d1b60525-965f-457d-afb0-087a588c442b
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Durante los d\xEDas siguientes nos hab\xEDamos convertido en unos
+      eruditos del m\xE9todo Carmen."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 1015
+      y: 7792
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 3ad19c73-fc26-40a1-9ffb-63e4d57f9367
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Lo hac\xEDamos siempre que pod\xEDamos. Durante los recreos, despu\xE9s
+      de clase, si nos junt\xE1bamos a comer juntos e incluso durante las clases
+      de nataci\xF3n, a las que nunca \xEDbamos porque hab\xEDamos falsificado una
+      nota de nuestros padres que dec\xEDa que ten\xEDamos ladillas."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 1514
+      y: 7792
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: b96e8357-a811-404f-9bee-0b6f5dd1e060
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Intercambiabamos nuestras visiones y trat\xE1bamos de armar una
+      l\xEDnea de tiempo con los eventos que alucinaba cada uno para intentar descifrar
+      el futuro."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 2013
+      y: 7792
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 8581e30a-f8ad-4434-a0ed-f9795c61f6f1
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Claro que lo hac\xEDamos siempre en privado, asegur\xE1ndonos
+      de que nadie nos viera. A la \xFAnica persona que se lo contamos fue a Fran."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 2512
+      y: 7792
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: ef405152-a449-4849-ad50-3f25c996d6ac
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: Grave error.
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 3011
+      y: 7792
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: e9e662b9-e185-456e-8032-862be6c67584
+    characterSpr: {fileID: 0}
+    characterName: Fran
+    dialogueText: "\xBFPero ustedes son idiotas? \xA1No est\xE1n viendo el futuro
+      ni nada parecido! -nos gritaba de tal manera que era sorprendente que no fuera
+      un pap\xE1-, lo que est\xE1n haciendo es privar al cerebro de ox\xEDgeno, entonces
+      se desmayan, pero la mente sigue trabajando y los hace ver cosas."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 3510
+      y: 7792
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 0b7174b1-03ef-45f4-9839-b707bf585f9b
+    characterSpr: {fileID: 0}
+    characterName: Santiago
+    dialogueText: "\xBFEntonces c\xF3mo explicas que vi\xE9ramos el mundo en llamas,
+      gordito?"
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 4009
+      y: 7792
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 4ff00cbc-28d7-454b-82a7-5798b5a3560c
+    characterSpr: {fileID: 0}
+    characterName: Fran
+    dialogueText: "\xA1Es una alucinaci\xF3n, Santiago! Es lo mismo que pasa cuando
+      se tiene mucha fiebre. Se llama delirio, idiota. Y no me vuelvas a decir gordito."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 4508
+      y: 7792
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 24616f34-185d-4c61-9d7c-36b6d7287f9c
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Tiene raz\xF3n, Santiago -me apresur\xE9 a decir en cuanto vi
+      que se acercaban mucho el uno al otro-. Es l\xF3gico. Adem\xE1s, las visiones
+      no tienen sentido. Una vez alucin\xE9 con el demonio de Tasmania."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 5007
+      y: 7792
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: c1a813f2-78d4-4c23-9ec5-c7a47542e6c5
+    characterSpr: {fileID: 0}
+    characterName: Santiago
+    dialogueText: "\xBFQu\xE9\u2026?"
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 5506
+      y: 7792
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: eefaf0ea-0242-48fe-8ee4-e159952b5382
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "\xBFTe acord\xE1s que vos ten\xEDas una remera del demonio de
+      Tasmania?"
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 6005
+      y: 7792
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: dbe68388-8cc9-4602-952f-da053399305a
+    characterSpr: {fileID: 0}
+    characterName: Fran
+    dialogueText: "Exacto -concluy\xF3 Fran-. Alucinan con cosas que se almacenan
+      en el inconsciente -se qued\xF3 unos segundos en silencio mir\xE1ndonos, como
+      si fu\xE9ramos unos bichos extra\xF1os-. \xBFCarmen Mart\xEDnez les ense\xF1o
+      \xE9sta estupidez? Que piba pelotuda\u2026"
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 6504
+      y: 7792
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: a99ab23e-ac55-4f9d-8835-df3a1db4fcb2
+    characterSpr: {fileID: 0}
+    characterName: Santiago
+    dialogueText: No le digas pelotuda
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 7003
+      y: 7792
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 980ebe5a-ccee-4564-b8a6-d0c23b02b431
+    characterSpr: {fileID: 0}
+    characterName: Fran
+    dialogueText: Es lo que es
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 7502
+      y: 7792
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 79966de4-d94e-430b-9ee4-b99518d55f95
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "En ese momento Santiago lo empuj\xF3 y Fran cay\xF3 de culo. Luego
+      me mir\xF3 a m\xED."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 8001
+      y: 7792
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: d5ae9d7a-80d7-4821-8a41-720ac785a6d6
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "\xBFY vos no vas a decir nada?"
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 8500
+      y: 7792
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: f1a77d4e-2f28-4466-9238-954683374a08
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: 
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 2
+    choiceOptions:
+    - No insultes a Carmen.
+    - Basta, dejen de pelear.
+    nodePosition:
+      serializedVersion: 2
+      x: 9096
+      y: 8097
+      width: 499
+      height: 369
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: f3100e50-7ae6-43ed-940e-28ac15f34298
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Ya fue, d\xE9jenlo. No vamos a pelearnos por esta estupidez -Fran
+      se levant\xF3 y se limpi\xF3 el pantal\xF3n-. Fran, vamos a irnos de campamento
+      esta noche, al bosque. Quer\xEDamos saber si quer\xEDas venir. Nos mir\xF3
+      un tanto sorprendido, pero luego sus rasgos se relajaron. Fran no pod\xEDa
+      resistirse a una noche en aquel descampado al que nosotros llam\xE1bamos \u201Cel
+      bosque\u201D."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 9685
+      y: 8259
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: b1006c50-3fd2-4837-879f-0f5369ea06d2
+    characterSpr: {fileID: 0}
+    characterName: Fran
+    dialogueText: "Supongo que podr\xEDa ir\u2026 -su mirada se ensombreci\xF3-.
+      Solo para evitar que se maten."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 10184
+      y: 8259
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: fd349c62-670d-4371-bd62-c06b62e8a5ca
+    characterSpr: {fileID: 0}
+    characterName: Santiago
+    dialogueText: "Pero si intentas arruinarnos la diversi\xF3n, te vamos a matar
+      nosotros -le aclar\xF3 Santiago agitando un dedo acusador. "
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 10683
+      y: 8259
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: c702338e-72a7-4fec-9313-7abb3ee89d3d
+    characterSpr: {fileID: 0}
+    characterName: Fran
+    dialogueText: No te preocupes, voy a llevarme algo para leer
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 11182
+      y: 8259
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 75ade45c-69ef-4135-8b96-7e1382b8e36d
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Nos dimos la mano y quedamos en encontrarnos en la helader\xEDa
+      a eso de las 18."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 11681
+      y: 8259
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 46105de6-81cf-463b-a2f6-7e14e103f8c2
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: 
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 12342
+      y: 7954
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: c09416d0-4f69-4839-8690-e85b293b0344
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Claro que no le hab\xEDamos dicho a Fran cu\xE1l era el verdadero
+      motivo de la reuni\xF3n en los bosques."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 12841
+      y: 7954
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 3b9fd6d7-f010-4d65-b61d-dde0c7591d94
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Necesit\xE1bamos saber m\xE1s sobre aquel futuro ominoso que est\xE1bamos
+      armando y hab\xEDamos decidido que nuestro culto e inteligente amigo era una
+      pieza clave para la construcci\xF3n del mismo."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 13340
+      y: 7954
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: ea9bce87-89e1-4b4e-af18-889c2ecbd8ab
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Sab\xEDamos perfectamente que \xE9l no iba a estar de acuerdo
+      con desmayarse, \xE9l no va a creer en eso, le dec\xEDa a Santiago. Pero \xE9l
+      me dijo que iba a encargarse, y yo sab\xEDa muy bien a qu\xE9 se refer\xEDa:
+      se iba a encargar de \xE9l de la misma manera que lo hab\xEDa hecho conmigo."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 13839
+      y: 7954
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 473dc06e-96a6-42c0-b344-79aa17f3720e
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Sin embargo le dije a Santiago -a quien logr\xE9 interceptar antes
+      de que llegara a su casa- que cre\xEDa que Fran ten\xEDa raz\xF3n despu\xE9s
+      de todo. Que lo que est\xE1bamos haciendo era una estupidez, y qu\xE9 hacer
+      desmayar a un amigo no estaba para nada bien. Vi c\xF3mo su coraz\xF3n se romp\xEDa
+      frente a mis ojos, pero me felicit\xE9 por poder mantenerme firme con una opini\xF3n
+      propia, en la que cre\xEDa absolutamente."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 14338
+      y: 7954
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: db82f2cb-934c-42a9-af05-63f0c14e3321
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "La siguiente gran lecci\xF3n de vida la aprender\xEDa esa misma
+      noche. Por m\xE1s buenas intenciones que tengamos, simplemente no podemos controlarlo
+      todo."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 14837
+      y: 7954
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 85f7a1e8-cd52-4dc1-ac6c-edc0673eb3c5
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: 
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 1102
+      y: 8207
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: e08ecebb-dc6f-4610-a2f7-9077a4735c7d
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Ir a acampar \u201Cal bosque\u201D era una de nuestras actividades
+      preferidas y m\xE1s frecuentes. Viv\xEDamos en la ciudad de (...), cuyo per\xEDmetro
+      era una gran arboleda que desembocaba en un lago donde se juntaban muchos pesqueros
+      con grandes camionetas y, un poco m\xE1s all\xE1 -a pesar de que ya dejaba
+      de ser terreno p\xFAblico, me hab\xEDa contado mi padre-, hab\xEDa una gran
+      zona de parrillas disponibles en las que se sol\xEDa cocinar la pesca del d\xEDa."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 1601
+      y: 8207
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 35811d0c-4c56-4329-93d2-4ee9f6d13beb
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Nosotros nos met\xEDamos dentro de la arboleda hasta llegar a
+      un claro que parec\xEDa hecho especialmente para que nosotros nos sentaramos
+      all\xED, lejos de nuestros padres, de los chicos grandes, de las mujeres como
+      Julieta Vanegas, completamente fuera de nuestro alcance."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 2100
+      y: 8207
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 3645f165-01f7-4136-9a27-46791a819a07
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Nos sent\xE1bamos all\xED y d\xE1bamos comienzo a la reuni\xF3n
+      con unos cigarrillos, luego a veces abr\xEDamos alguna botella de alg\xFAn
+      licor que alguno lograba robar y Fran sol\xEDa contarnos diferentes historias
+      que le\xEDa en alg\xFAn lado y \xE9l dec\xEDa que eran suyas.\r"
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 2599
+      y: 8207
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 218cfbbf-268d-4a36-bfe3-9b99a1aa5a0d
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Nos confes\xE1bamos nuestros m\xE1s grandes sue\xF1os. Fran dec\xEDa
+      que le encantar\xEDa ser escritor, aunque luego de lo que suceder\xEDa esa
+      noche, se cambiar\xEDa de colegio y s\xE9 gracias a las redes sociales que
+      hoy est\xE1 en Brasil, que se ha hecho due\xF1o de un cuerpo escultural, que
+      tiene una hermosa mujer a su lado y hace surf. Est\xE1 esperando un hijo. Se
+      lo ve feliz."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 3098
+      y: 8207
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 497b0b2a-abb3-46d7-9376-08c14887f184
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Yo coment\xE9 que me encantar\xEDa ser director de cine, pero
+      la vida no fue particularmente amable conmigo y me dediqu\xE9 a todo tipo de
+      trabajos sin futuro hasta que finalmente me hice colega de un hombre llamado
+      Samuel, a quien yo le llevaba el caf\xE9 en moto desde el bar en el que trabajaba,
+      y \xE9l me encontr\xF3 espacio en una vendedora de seguros."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 3597
+      y: 8207
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 5062dd9e-4497-49c8-8aca-84da11bcd092
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "All\xED comenc\xE9 a escalar de puesto muy r\xE1pidamente y a
+      ganar muy buen dinero. Pero nunca form\xE9 una familia y mi \xFAnica relaci\xF3n
+      con el cine termin\xF3 siendo sentarme los domingos a la tarde con Kayac, mi
+      labrador, a ver pel\xEDculas."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 4096
+      y: 8207
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 441980dc-a48f-48a2-b04b-e729934b8ae4
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: 
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 4595
+      y: 8207
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: a1f84436-fc22-4876-9191-f5e5d3f92964
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "\xBFQui\xE9n dir\xEDa que, a\xF1os m\xE1s tarde, ser\xEDa yo quien
+      perseguir\xEDa una carrera como escritor y que \xE9sta ser\xEDa mi primera
+      historia, basada en hechos absolutamente reales?"
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 5094
+      y: 8207
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: cd0d3181-0fd8-4736-8963-eb7889e82970
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Aquella vez, salvo por su fat\xEDdico final, no fue muy distinta
+      a todas las noches que sol\xEDamos pasar en \u201Cel bosque\u201D."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 1193
+      y: 8576
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 3a740320-b8e8-4b4e-a5c8-e3f69b284e06
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: 
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 5633
+      y: 8260
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 8ab0b688-9b53-459c-98d1-8c7ddc077649
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Nos reunimos en la helader\xEDa a eso de las 18 como hab\xEDamos
+      pactado. Yo llevaba puesta una remera de Metallica, Santiago hab\xEDa llegado
+      con una musculosa y Fran ten\xEDa puesto un buzo."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 1692
+      y: 8576
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: fcbd838d-847d-40c1-8e2b-c2e2c3bbf446
+    characterSpr: {fileID: 0}
+    characterName: Santiago
+    dialogueText: "\xBFPor qu\xE9 los gordos siempre tienen puestos buzos a\xFAn
+      cuando hace calor?"
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 2191
+      y: 8576
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 262abaeb-3078-4e04-a9ed-901e8eeeb155
+    characterSpr: {fileID: 0}
+    characterName: Fran
+    dialogueText: "\xBFPor qu\xE9 los retrasados se desmayan?"
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 2690
+      y: 8576
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 082dd7e8-9a39-449b-9e9c-9851550b9f21
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: Echamos a caminar.
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 3189
+      y: 8576
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: ed22c02e-e5c0-4560-b728-b0f62c0cdc38
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Cruzamos las calles hasta que llegamos a una gran avenida que
+      era famosa porque siempre hab\xEDa perros destrozados por autos que pasaban
+      a toda velocidad. Aquella tarde no hab\xEDa ninguno, pero los autos iban y
+      ven\xEDan como r\xE1fagas."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 3688
+      y: 8576
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 87f5ba9b-25c5-4bfa-8549-564bba2715ab
+    characterSpr: {fileID: 0}
+    characterName: Santiago
+    dialogueText: "\xA1Ahora, crucen!"
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 4187
+      y: 8576
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 6ec50491-4c8c-4b66-9c1e-bc5a02d156e2
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Yo corr\xED detr\xE1s de \xE9l y en cuanto me di cuenta de que
+      Fran no nos segu\xEDa, me detuve. Un gran cami\xF3n ven\xEDa en mi direcci\xF3n.
+      Si bien era cierto que en cuanto Santiago ech\xF3 a correr el cami\xF3n se
+      hallaba lejos, definitivamente cuando yo me detuve a ver a Fran, estaba m\xE1s
+      cerca."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 4686
+      y: 8576
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 8e87b807-20eb-4545-a98f-127d912a5899
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Mucho m\xE1s cerca."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 5185
+      y: 8576
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: aec426ac-e719-4f0d-8444-f8df51b61c31
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Se escuch\xF3 la bocina, violenta, y yo ech\xE9 a correr en direcci\xF3n
+      a Santiago. Casi salt\xE9 a la vereda y escuch\xE9 al camionero que me grit\xF3
+      pendejo de mierda mir\xE1 cuando cruzas."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 5684
+      y: 8576
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: c6337c4e-805f-41d6-89e7-d6bf6e0c6cb4
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Santiago le mostr\xF3 el dedo del medio y despu\xE9s se baj\xF3
+      los pantalones y le agit\xF3 el culo. Se escucharon m\xE1s bocinas. Si el camionero
+      hubiera bajado para golpearlo, no lo habr\xEDa defendido. \xC9l tampoco se
+      habr\xEDa defendido probablemente. Sab\xEDa que se lo merec\xEDa."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 6183
+      y: 8576
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: a854ebb7-7040-4ea3-b924-71986a6cd440
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "\u201C...fue muy duro para \xE9l.\u201D"
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 6682
+      y: 8576
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 8b512c15-970a-46de-9a5c-805f5d6afe5f
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "A m\xED el coraz\xF3n me lat\xEDa con fuerza. Fran tard\xF3 un
+      poco m\xE1s en cruzar. Lo esperamos."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 7181
+      y: 8576
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: a4ce02dd-30bd-4a66-b7e4-676f746db432
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: 
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 7680
+      y: 8576
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: cb4f4c17-947a-4c04-a4d6-f17259cd7890
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Pasada la avenida, llegamos a la arboleda. Nos metimos por uno
+      de los tantos huecos y bajamos el terrapl\xE9n, dejando atr\xE1s el sonido
+      de los autos y de la ciudad."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 1228
+      y: 8961
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: bfb42e5a-4afe-4df2-8918-bdfa26bf0d99
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Santiago le pregunt\xF3 a Fran que qu\xE9 era esa foto que hab\xEDa
+      llevado para la clase de arte y el otro le explic\xF3 que era una foto de la
+      pintura de El Angel Ca\xEDdo, de Cabanel."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 1727
+      y: 8961
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 0cfa35ea-29a3-4278-8b41-9eb432a9d2d7
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Y de qu\xE9 se trata le pregunt\xF3 el otro y Fran explic\xF3
+      que el \xE1ngel ca\xEDdo era Lucifer, el diablo. \xBFEl diablo era un \xE1ngel?
+      Claro -nada le gustaba m\xE1s a Fran que explicar aquellas cosas que le interesaban.
+      Pod\xEDa pasarse horas hablando-, Lucifer era un \xE1ngel que enfureci\xF3
+      a Dios."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 2226
+      y: 8961
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: ec8dce38-e67b-4990-a2da-df85e1ed29a4
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Dios se cans\xF3 de tenerlo bajo su protecci\xF3n y lo ech\xF3
+      al infierno. Santiago le respondi\xF3 que no sab\xEDa aquello, que era muy
+      interesante. Fran se sinti\xF3 orgulloso. El otro le pidi\xF3 que se inventara
+      otra de esas historias para la noche. Fran no intent\xF3 convencerlo de que
+      no se la hab\xEDa inventado \xE9l."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 2725
+      y: 8961
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: dca6ebcf-1c0c-4767-96ec-1e523ce821e0
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Llegamos al claro, nos convidamos unos cigarrillos, pero yo no
+      acept\xE9. Me sent\xEDa muy nervioso. Los otros se quedaron charlando de no
+      s\xE9 qu\xE9 y yo ech\xE9 a andar solo. Cuando volv\xED, me sent\xEDa m\xE1s
+      despejado, pero no demasiado."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 3224
+      y: 8961
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 7cf21b43-daf6-4cfe-a255-c349da9be5e1
+    characterSpr: {fileID: 0}
+    characterName: conver sobre si me gusta carmen o no
+    dialogueText: 
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 3723
+      y: 8961
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: b8176503-3e72-417c-b162-84044ee2cbe8
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Decidimos tirarnos a descansar un poco, pero sin dormirnos. Yo
+      igualmente me dorm\xED y tuve una pesadilla."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 4222
+      y: 8961
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 93fc646d-12d0-4fec-8574-dc7a70d25df2
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Me imaginaba aferrado al borde de un abismo, y algo me sosten\xEDa
+      el tobillo. Me di vuelta a ver y vi la cara del \xE1ngel ca\xEDdo, a pesar
+      de que yo no hab\xEDa prestado atenci\xF3n a la clase de arte y no ten\xEDa
+      ni idea de c\xF3mo luc\xEDa la pintura que Fran hab\xEDa llevado."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 4721
+      y: 8961
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: b44fa859-220c-4a81-b6ab-812e086c47e7
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Me angustiaba mucho, pues sab\xEDa que si no lo soltaba, yo iba
+      a caerme. Me iba a morir. Lo mir\xE9 a los ojos y eran unos ojos hermosos,
+      azules como el cielo. Sus rasgos eran perfectos y sus m\xFAsculos eran enormes."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 5220
+      y: 8961
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 86379344-e71c-4a96-8c9f-288426fe5f9f
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Me miraba, llorando y me gritaba: por favor, levantate, por favor\u2026"
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 5719
+      y: 8961
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 3fac09f5-11b3-47e9-a512-ed089e64edb3
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Pero no pod\xEDa. Los dedos se me soltaban uno a uno. No quer\xEDa
+      dejarlo caer, porque sin \xE9l yo iba a quedarme completamente solo en el mundo."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 6218
+      y: 8961
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: d69d9b57-37c5-4b11-a9b4-f4e9b67b7139
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Por favor\u2026 "
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 6717
+      y: 8961
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: e90a1e7f-e5ba-4278-8bce-a20a6adbd768
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "No pod\xEDa."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 7216
+      y: 8961
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 63376365-42f9-475a-abd6-c69012d8fda8
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Solt\xE9 un dedo. Solt\xE9 otro."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 7715
+      y: 8961
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 2339ce96-6a0d-41e6-a955-642e7f9fcde2
+    characterSpr: {fileID: 0}
+    characterName: Santiago
+    dialogueText: Levantate.
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 8214
+      y: 8961
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 9797f8ec-d40a-4b0d-b6dc-6fb53be5bea1
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: 
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 8713
+      y: 8961
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: df7f6fce-5937-425d-b4d4-3f1948711660
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Abr\xED los ojos"
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 1298
+      y: 9336
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 836c1b21-5b16-41c5-9935-3852e16f5c64
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: Era de noche y Santiago me zarandeaba.
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 1797
+      y: 9336
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 0fdaee07-fab8-4ac7-bc25-674907e61962
+    characterSpr: {fileID: 0}
+    characterName: Santiago
+    dialogueText: "Levantate, es la hora de aplicar el m\xE9todo en Fran."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 2296
+      y: 9336
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 1c5a70fb-745f-4e09-83da-10bf1375b9a7
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Yo a\xFAn estaba sumido en esa confusi\xF3n que sigue a los sue\xF1os
+      muy profundos. Sent\xEDa la cabeza embotada y mi brazo izquierdo estaba dormido.
+      Apenas lo sent\xEDa."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 2795
+      y: 9336
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 645f04d9-403b-487a-b90e-5245b623aba7
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Me levant\xE9 y me saqu\xE9 las ramitas y la tierra de los pantalones.
+      Fran estaba sacando unas fotos a la distancia. Era completamente de noche. "
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 3294
+      y: 9336
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 0d1997c8-79cd-4779-baa1-34e7f46a4d17
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Santiago iba corriendo detr\xE1s de \xE9l."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 3793
+      y: 9336
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 777da39a-bafd-46c3-bf81-81e95c648781
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "\xA1Santiago, no! -grit\xE9."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 4292
+      y: 9336
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 1e471c70-363b-4660-bfea-8ebdacf6b317
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: 
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 4791
+      y: 9336
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 740a65c8-f5e4-49b3-97d8-d7044ff020a5
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Pero era tarde. Lo tom\xF3 del cuello igual que como hab\xEDa
+      hecho conmigo y comenz\xF3 a quitarle el aire."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 5290
+      y: 9336
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 46a97cef-26b7-49a1-a56a-21082bc6d4b4
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "El otro comenz\xF3 a gritar y a intentar zafarse. Intent\xF3 morderle
+      el brazo, exactamente como hab\xEDa intentado hacer yo. No tuvo mejor suerte."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 5789
+      y: 9336
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: b1317e62-43c7-47b2-ac6f-bd5109202dc5
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Me acerqu\xE9, pues vi la mirada suplicante de Fran, que me ped\xEDa
+      que lo liberara de las garras de ese demente que dec\xEDa ser nuestro amigo,
+      de aquel caso perdido que solamente pod\xEDa arruinarnos la vida."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 6288
+      y: 9336
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 4eee8f45-d189-4651-9dce-33df1a5f4ec8
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Pero no hice nada. Nuevamente, me qued\xE9 a mitad de camino."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 6787
+      y: 9336
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 7a0fc978-6968-4647-910f-a4fc5e60391e
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Fran cay\xF3 al suelo."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 7286
+      y: 9336
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 48f313cf-2179-451d-9d00-e7c19c748435
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Yo miraba a Santiago con rabia, pero tambi\xE9n con miedo. Sent\xEDa
+      escalofr\xEDos en el cuerpo y pensaba que en cualquier momento vendr\xEDa por
+      mi. Pero esta vez no habr\xEDa visiones."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 7785
+      y: 9336
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: afc3f86c-25b1-40d1-8bae-5d83cbbc9900
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Esta vez \xE9l llegar\xEDa al fondo del asunto y presionar\xEDa
+      hasta\u2026 hasta hacerme caer de verdad."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 8284
+      y: 9336
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 1c718bce-e592-49fe-9fce-77a53578c075
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: Hasta matarme.
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 8783
+      y: 9336
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 247d9871-1e23-42df-88b0-6c64f095d692
+    characterSpr: {fileID: 0}
+    characterName: Santiago
+    dialogueText: Me toca, hacelo
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 9282
+      y: 9336
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 429afca4-adb6-43ca-9cc5-1e33f662409d
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "No, San -yo retroced\xEDa lentamente."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 9781
+      y: 9336
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 162fc857-2d56-46d5-8f22-0a8c9736a14e
+    characterSpr: {fileID: 0}
+    characterName: Santiago
+    dialogueText: "\xBFPor qu\xE9? \xBFQu\xE9 te pasa?"
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 10280
+      y: 9336
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 819711eb-b02a-4345-84e4-df3cdfc9a4c7
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "No contest\xE9."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 10779
+      y: 9336
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 5668c42e-0917-4352-bec2-74e265c50d00
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Fran se levant\xF3, muy confundido, con los ojos estallados en
+      sangre. Tosi\xF3 un poco -un efecto nunca antes visto en la aplicaci\xF3n del
+      m\xE9todo Carmen-, y finalmente se larg\xF3 a llorar."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 11278
+      y: 9336
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 54ba2bb0-a97d-4848-b4c5-4cfa8d0a2d92
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Corr\xED hacia \xE9l e intent\xE9 consolarlo, pero solo consegu\xED
+      un pu\xF1etazo de su parte y tuve que retenerlo, porque si atrapaba a Santiago,
+      a quien sali\xF3 a correr, lo habr\xEDa matado a golpes."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 11777
+      y: 9336
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 9359ac54-9f25-43c7-a425-d4ccaa3b0ce1
+    characterSpr: {fileID: 0}
+    characterName: Santiago
+    dialogueText: "\xBFA qui\xE9n le quer\xE9s pegar, gordo asqueroso?"
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 12276
+      y: 9336
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 3eccd1e4-bbad-4571-bd96-e0f5d3ba831a
+    characterSpr: {fileID: 0}
+    characterName: Fran
+    dialogueText: Te voy a matar idiota.
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 12775
+      y: 9336
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 90358a0f-5d29-4a9a-85be-d44a92a3ce1e
+    characterSpr: {fileID: 0}
+    characterName: Santiago
+    dialogueText: "Soltalo maric\xF3n -me dec\xEDa a m\xED-, que venga a pelear."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 13274
+      y: 9336
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 6d478af8-40d5-46c1-97af-1ae1c29f4d32
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "\xA1No, Santiago, por el amor de Dios, callate la boca de una
+      vez!"
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 13773
+      y: 9336
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: ba4f264c-da66-40cb-87b1-78f1d5416b72
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Mi labio sangraba, Fran me hab\xEDa dado con fuerza e intentaba
+      zafarse de mis brazos. Le ped\xED que por favor se calmara y asinti\xF3. "
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 14272
+      y: 9336
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: bb0e395b-0d9c-4940-b136-70e2478bf6b8
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Lo solt\xE9. "
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 14771
+      y: 9336
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 0d48877e-a894-4a9d-a1cf-d9666a56a981
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: 
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 1478
+      y: 9721
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: cc52a2ed-c93a-4c7f-8d2e-19e16d7dc62a
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Las cosas tardaron un buen rato en volver a la normalidad. La
+      amistad entre esos dos parec\xEDa estar rota para siempre, pero al menos ya
+      no se miraban con ganas de matarse."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 1977
+      y: 9721
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 1a6677e1-1b84-45f7-9380-faeb0c873cb9
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: Les dije que nos sentemos unos minutos, que fumemos unos cigarrillos
+      y nos calmemos.
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 2476
+      y: 9721
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 27e93192-14f5-4037-973e-730665ff28d9
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "A Santiago le parec\xEDa bien. El otro no dijo que s\xED, pero
+      tampoco que no. Los \xE1rboles, en la noche, no se mov\xEDan. Fuera nuestro,
+      hab\xEDa una gran sensaci\xF3n de calma. Era una pena que no pudi\xE9ramos
+      disfrutarla."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 2975
+      y: 9721
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 77ce8a1c-39b2-45b6-8ec2-38afe73cac51
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Yo hab\xEDa aprendido a fumar hac\xEDa poco tiempo. Por supuesto
+      que la lecci\xF3n me la hab\xEDa dado Santiago, quien hab\xEDa fumado incluso
+      con su padre. A Fran le ense\xF1\xE9 yo, y \xE9l dec\xEDa que todos los escritores
+      respetables, como Bukowski, fumaban y que por eso \xE9l lo hac\xEDa. Ninguno
+      de los dos, por suerte, se pegar\xEDa realmente el vicio."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 3474
+      y: 9721
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 77282a28-7d9a-4d96-926f-f4c61e989265
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Yo dejar\xEDa de fumar esa misma noche."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 3973
+      y: 9721
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 87972e03-d495-4445-af1e-428a45613621
+    characterSpr: {fileID: 0}
+    characterName: Santiago
+    dialogueText: "\xBFY entonces?"
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 4472
+      y: 9721
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 8bd2148c-56f3-4773-ad6f-c037172ad738
+    characterSpr: {fileID: 0}
+    characterName: Fran
+    dialogueText: "\xBFQu\xE9?"
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 4971
+      y: 9721
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: c5178b6e-459f-4cac-9985-317334ff6d84
+    characterSpr: {fileID: 0}
+    characterName: Santiago
+    dialogueText: "\xBFQu\xE9 viste?"
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 5470
+      y: 9721
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: ef0dad4f-cd67-4841-a43d-f1a3d8baebcd
+    characterSpr: {fileID: 0}
+    characterName: Fran
+    dialogueText: ...
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 5969
+      y: 9721
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 292a18f5-9795-40fd-9861-2d7109fdb0ac
+    characterSpr: {fileID: 0}
+    characterName: Fran
+    dialogueText: "No voy a contarte nada imb\xE9cil."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 6468
+      y: 9721
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: f7870977-3458-4a95-80c7-13c780df3304
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Santiago levant\xF3 las manos en se\xF1al de rendici\xF3n y continu\xF3
+      su cigarrillo. En ese momento, yo advert\xED dos cosas: la primera, era que
+      Fran estaba aterrado de lo que sea que hab\xEDa visto."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 6967
+      y: 9721
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: f56493b2-14fa-44d3-9ed4-ba2403481131
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "La segunda, era que \xE9l no pod\xEDa quitarle los ojos de encima
+      a Santiago. Lo vigilaba y segu\xEDa con una mirada casi paternal. Lo miraba
+      como se mira a un nene chiquito que camina entre una multitud para que no se
+      lo pierda de vista. Yo arrugu\xE9 el ce\xF1o. Me resultaba muy extra\xF1o."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 7466
+      y: 9721
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: c61cdb93-b088-4bc4-8574-95d1cb758273
+    characterSpr: {fileID: 0}
+    characterName: Fran
+    dialogueText: "Pero deber\xEDamos irnos"
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 7965
+      y: 9721
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 93247379-c66d-4fad-9200-3dc8175e14c3
+    characterSpr: {fileID: 0}
+    characterName: Santiago
+    dialogueText: "Tengo una mala sensaci\xF3n"
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 8464
+      y: 9721
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 1edd61b6-8871-4860-8ddf-c2921ef4ee50
+    characterSpr: {fileID: 0}
+    characterName: Fran
+    dialogueText: ...
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 8963
+      y: 9721
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: b415c85f-4dd1-4370-a26d-4613df873a3b
+    characterSpr: {fileID: 0}
+    characterName: Fran
+    dialogueText: "De verdad, vay\xE1monos."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 9462
+      y: 9721
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: b4a87927-cd52-4621-bfab-86e4d5ac6c02
+    characterSpr: {fileID: 0}
+    characterName: Santiago
+    dialogueText: "Bueno, vos podes irte solo gordito. Pero \xE9l y yo nos quedamos."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 9961
+      y: 9721
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 82e0d02c-08d3-4df5-a47b-49d6c5c1f580
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: Fran me miraba.
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 10460
+      y: 9721
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 30954ff4-dd97-426c-b4c6-62a59e67d667
+    characterSpr: {fileID: 0}
+    characterName: Fran
+    dialogueText: "Ven\xED conmigo. Lo digo en serio."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 10959
+      y: 9721
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: dba75242-f666-4758-9c6b-2a0e9510a17a
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Advert\xED, en su mirada, un brillo de terror que me hel\xF3 la
+      sangre. Definitivamente no ment\xEDa, definitivamente ten\xEDa un mal presentimiento,
+      y yo tambi\xE9n empezaba a tenerlo."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 11458
+      y: 9721
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 78cbff4a-3d1a-42ea-a757-ac54f894e3b7
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Y sin embargo negu\xE9 con la cabeza. No podemos dejarlo solo,
+      dije mientras se\xF1alaba a Santiago."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 11956
+      y: 9723
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 5a7556f5-2aad-4ea3-a3e0-ca4871f8026e
+    characterSpr: {fileID: 0}
+    characterName: Santiago
+    dialogueText: "\xBFQu\xE9? \xBFSe piensan que no puedo cuidarme solo, manga de
+      idiotas? \xBFPor qu\xE9 no se van los dos?"
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 12455
+      y: 9723
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 17f10350-256d-4917-a727-210d3da58758
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Fran no le prest\xF3 mucha atenci\xF3n. Haceme caso. Tenemos que
+      irnos, me dijo."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 12963
+      y: 9723
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 95842ad2-ef98-4a9d-bdb2-b062a178baf7
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Yo iba a pararme y se ve que Santiago adivin\xF3 aquello, pues
+      lo hizo tambi\xE9n."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 13462
+      y: 9723
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 490a50bc-c368-4276-bc05-0a20e359b831
+    characterSpr: {fileID: 0}
+    characterName: Santiago
+    dialogueText: "\xBFVos qui\xE9n te crees que sos para darle \xF3rdenes a la gente,
+      gordo?"
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 13961
+      y: 9723
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: df6d9745-7741-49c8-967b-7b2f2251a43f
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Fran cerr\xF3 los ojos, como quien acaba de darse cuenta de que
+      cometi\xF3 un terrible error y se dirigi\xF3 a Santiago y lo golpe\xF3 en la
+      sien, tan fuerte, que el otro se cay\xF3 al suelo y no se levant\xF3."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 14460
+      y: 9723
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 1948dd66-0061-474e-bd90-f00601e84cd8
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "A\xFAn hoy recuerdo perfectamente el sonido de ese golpe. Ahogu\xE9
+      un grito de horror. No sab\xEDa qu\xE9 decir, pero vi que respiraba, y en cuanto
+      estaba por preguntarle a Fran qu\xE9 mierda hab\xEDa hecho, el otro me contuvo.
+      Me puso las manos en los hombros y me clav\xF3 la mirada. Transpiraba. Jurar\xEDa
+      que escuchaba su coraz\xF3n retumbar desaforado."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 14959
+      y: 9723
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 7adc9af5-50ad-455a-9b90-511a0631f7ca
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Tenemos que irnos. Esto no es joda. Va a pasar algo muy malo\u2026"
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 15466
+      y: 9723
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 335be951-643c-439b-b29c-4d9d0af595bc
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Iba a contestarle, decirle que se hab\xEDa vuelto loco. Pero entonces
+      lo v\xED: unos ojos amarillos, espantosos, me miraban desde detr\xE1s de la
+      cabeza de Fran, en la oscuridad del bosque, entre los espesos \xE1rboles."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 15965
+      y: 9723
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 4c021412-514a-463b-a9fc-2f982f9ac7c8
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "No puedo explicar con palabras el terror que sent\xED en ese momento,
+      sobre todo cuando vi que los ojos se hac\xEDan m\xE1s grandes."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 16464
+      y: 9723
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: b46b5f87-0b13-4f53-a7f6-f85d923a1f81
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: Aquello se estaba acercando.
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 16963
+      y: 9711
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: df2d7953-6f3b-42cb-ac50-c4156cf2069c
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: Fran se dio vuelta.
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 17454
+      y: 9711
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 4fa18c52-18ba-41bf-817e-93d7a99d62ad
+    characterSpr: {fileID: 0}
+    characterName: Fran
+    dialogueText: "Dios santo\u2026 "
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 17953
+      y: 9711
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: ada0d0eb-b6e0-4a3e-9c2d-fdd8b56fa002
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Sin quitarle los ojos de encima a aquella cosa, fuera lo que fuera,
+      record\xE9 a mi otro amigo, tendido en la grava."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 18452
+      y: 9711
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 52951a3a-9aff-4e4b-bd65-fb149499621a
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: Fran... Santiago...
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 18951
+      y: 9697
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 00c1f2ee-b84b-4d57-8545-3b6d20defd81
+    characterSpr: {fileID: 0}
+    characterName: Fran
+    dialogueText: Hay que levantarlo, dale.
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 19450
+      y: 9697
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: de96826f-80c3-4513-bceb-62821eaea094
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Yo intentaba gritar. Intentaba gritar su nombre, pero no me sal\xEDa.
+      \xBFAlguna vez intentaste gritar y el sonido simplemente no sal\xEDa, por m\xE1s
+      grande que abrieras la boca?"
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 19949
+      y: 9697
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 5ca4a398-c49f-48f0-978e-d252c7f163d8
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Corrimos hacia nuestro amigo, pero de repente un puma salt\xF3
+      hacia nosotros y lo ten\xEDamos a no m\xE1s de unos dos o tres metros cuando
+      abortamos el plan y echamos a correr en direcci\xF3n contraria."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 20448
+      y: 9697
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 756d8901-69be-4935-ac3e-c2a2cd99696d
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Corr\xEDamos, pero tambi\xE9n grit\xE1bamos. Grit\xE1bamos sin
+      sonido. Sent\xEDamos los pasos del animal sobre el pasto y escuch\xE1bamos
+      sus rugidos. Aquel infernal due\xF1o de esos ojos amarillos. A m\xED se me
+      perdi\xF3 la voz y comenc\xE9 a sentir que la vida se me escapaba del cuerpo."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 20947
+      y: 9697
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 2c15eaca-ba48-4c48-801d-b9692f662cd8
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Estaba corriendo en piloto autom\xE1tico, una sensaci\xF3n producida
+      por un extremo estado de p\xE1nico. Apenas era consciente de que una meada
+      me mojaba las piernas. Pero s\xED estaba siendo consciente de otra cosa: hab\xEDamos
+      dejado atr\xE1s a Santiago. Me detuve, Fran me arrebas\xF3 y con el impulso
+      de su corpulento cuerpo corriendo, me hizo caer al suelo. No sent\xED el impacto."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 21446
+      y: 9697
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: ef1f3d38-bbdd-40eb-9b00-d466dff0ef48
+    characterSpr: {fileID: 0}
+    characterName: Fran
+    dialogueText: "\xA1No pares! \xA1Hay que correr!"
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 21945
+      y: 9697
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 948ff434-eb3a-4ea4-9847-ac169b46c6b4
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "-Pero Santiago\u2026"
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 22444
+      y: 9697
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: cbc70a09-7fc7-4bf0-9214-074069b033d1
+    characterSpr: {fileID: 0}
+    characterName: Fran
+    dialogueText: "\xA1Es tarde, mir\xE1!"
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 22943
+      y: 9697
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: e4a6cf76-7ad8-4d18-a67f-26853a8b014e
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Y yo mir\xE9."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 23442
+      y: 9697
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 028dffe5-8d9c-4392-bb76-1806bce2b295
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "A pocos metros, el puma estaba d\xE1ndose un fest\xEDn con el
+      cuerpo desmayado de mi mejor amigo."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 23941
+      y: 9697
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 6982dd8e-180e-4e14-a23b-64a9fa1178ea
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Su cad\xE1ver yac\xEDa sobre un charco de sangre muy grande y
+      v\xED como el animal le arrancaba un pedazo de carne directamente de la garganta.
+      Vi c\xF3mo le quitaba la carne al hueso, como yo habr\xEDa hecho con una pata
+      de pollo, y con ese pensamiento, vomit\xE9."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 24440
+      y: 9697
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 95a7e122-f7a0-43a8-bce1-a48e2dcf459a
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Fran me agarr\xF3 de la camiseta y me empuj\xF3. Corr\xE9, idiota,
+      corr\xE9, me dec\xEDa. Menos mal, porque yo estaba absolutamente paralizado.
+      Entonces segu\xED corriendo, p\xE1lido, vomitando, aterrado. Llegamos al terrapl\xE9n
+      y subimos. El sonido de la carne siendo masticada me retumbaba en las orejas."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 24939
+      y: 9697
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: a8fe0921-cf62-4527-a7f5-abb6d82c7484
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "\u201CEs normal que no se acuerde\u2026\u201D"
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 25438
+      y: 9708
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: a44935eb-9f28-4054-b5a1-e40b6044665d
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: Llegamos a la avenida. Cruzamos casi sin mirar.
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 25937
+      y: 9693
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 72500509-a923-4d96-b0ec-140da183958a
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "\u201C...fue muy duro para \xE9l.\u201D"
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 26436
+      y: 9693
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: df2f6283-a5dd-407e-b879-ae718f0556ba
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "El resto de la noche sigue difuso en mi memoria, a\xFAn tantos
+      a\xF1os despu\xE9s, pero s\xE9 que llegamos a la comisar\xEDa y s\xE9 que le
+      contamos todo a un polic\xEDa rubio."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 26935
+      y: 9693
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 3eca6b02-5d4a-4f8e-9872-5cf63710387e
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Recuerdo su cara incr\xE9dula mientras nos tomaba declaraci\xF3n
+      y la cantidad de minutos que se tomaba para escribir, como si nos quisiera
+      sacar de quicio, o asegurarse de tener la mejor caligraf\xEDa posible. Le dije
+      que se apurara, que mi amigo estaba siendo devorado mientras usted, hijo de
+      puta -agregu\xE9-, escribe y escribe."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 27434
+      y: 9693
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: adc086d1-6970-4c84-9617-2ee42665eb44
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: " El polic\xEDa me mir\xF3 con una cara que no olvidar\xE9 jam\xE1s
+      y fue ah\xED que llam\xF3 a nuestros padres, y el cuerpo de Santiago pas\xF3
+      a un segundo plano."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 27945
+      y: 9693
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 78e9a3b4-4518-4294-9d34-e6f2ef4ba0b9
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "No tuve que mirar a Fran para saber que deb\xED haberme callado
+      la boca."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 28444
+      y: 9706
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 2eae085b-5425-4cca-a720-feba040a083f
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: 
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 1580
+      y: 10114
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 4fd0d0f6-9618-4d6b-8765-d083020dcc81
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "La noticia sali\xF3 en los diarios locales y en los noticieros
+      que miraba mi familia. Recuerdo perfectamente que censuraban la imagen del
+      cuerpo. Me daba igual. En mi memoria la im\xE1gen estaba intacta. Yo no ve\xEDa
+      los programas igualmente. Me la pas\xE9 en mi cuarto los primeros d\xEDas,
+      encerrado. Mi madre me dejaba los platos de comida en la puerta."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 2079
+      y: 10114
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 6f105813-8f89-4f44-92de-0d84195afa9e
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Fu\xED castigado -aunque sin gritos ni trompadas-, sin posibilidad
+      de salir, excepto para ir al colegio."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 2578
+      y: 10114
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: bebb25c3-bfa0-46c1-afed-b825b3f5d56a
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Mi madre me llevaba y me tra\xEDa y no perd\xEDa oportunidad de
+      recordarme en la cantidad de problemas que la hab\xEDa metido con esta estupidez
+      que hab\xEDamos hecho. Que ella me hab\xEDa dicho que esos chicos eran mala
+      junta. Te dije, te dije\u2026 Me lo hab\xEDa dicho, en efecto."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 3077
+      y: 10114
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: f2990c12-fb92-4f17-9ecb-15e2bab7d488
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Luego se largaba a llorar y yo no sab\xEDa si era por todos esos
+      problemas que yo le hab\xEDa causado o por el cuerpo de mi amigo desmembrado,
+      que ya nunca vendr\xEDa a merendar ni a cenar a casa, que ya nunca ser\xEDa
+      golpeado por un padre, que ya nunca ir\xEDa al colegio, que hab\xEDa muerto
+      sin compartir un cigarrillo en la cama con una mujer."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 3569
+      y: 10121
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: ac55fdd2-e1af-40cb-b49d-68b8c9361155
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: En el colegio todos me miraban raro.
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 4083
+      y: 10109
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 6a0a08c7-c163-4af3-bd6f-c96e4a5b0fac
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Si antes hab\xEDa sido \u201Cel rarito\u201D al que nadie le hablaba
+      nunca, ahora era \u201Cel rarito al que todos miraban y del que hablaban en
+      voz baja\u201D. "
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 4617
+      y: 10184
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 363bf32c-3940-41ff-87df-a78fb18b7998
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Pero a\xFAn peor que todo eso, era que me hab\xEDa convertido
+      tambi\xE9n \u201Cen un rarito que se la pasa solo\u201D. Yo no lo soportaba.
+      Me mandaron a una psic\xF3loga y \xE9sta a un psiquiatra que me di\xF3 unas
+      pastillas."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 5213
+      y: 10200
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 6e45793f-306b-48e9-8720-d4e5cc54cfbb
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "No entend\xED por qu\xE9, pero tampoco protest\xE9. Hab\xEDa perdido
+      las ganas de protestar, las ganas de salir, las ganas de todo."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 5798
+      y: 10219
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 5dd55df7-0aa3-4b4e-acc4-97599b540b07
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "No me pod\xEDa quitar de la cabeza la im\xE1gen del cad\xE1ver,
+      el cual hab\xEDa visto perfectamente, y el cual me persegu\xEDa todas las noches,
+      las de insomnio y en las que ten\xEDa pesadillas. Era insoportable."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 6320
+      y: 10219
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: e10ece02-3d06-4d88-b6dc-ddc4cc5b9e03
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Comenc\xE9 a comer much\xEDsimo. Hoy mir\xE1ndolo en retrospectiva
+      quiz\xE1 sent\xEDa que deb\xEDa llenar el vac\xEDo que hab\xEDa dejado la muerte
+      de mi mejor amigo, pero no puedo estar seguro. Lo que s\xED es seguro es que
+      gan\xE9 mucho peso y mi acn\xE9 empeor\xF3. La comida chatarra y grasosa era
+      lo \xFAnico que me pon\xEDa a dormir."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 6867
+      y: 10237
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: ddd19669-8d9e-444e-a8ee-d8e030574f9b
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Fran no volvi\xF3 al colegio. Lo cambiaron a otro provisoriamente
+      y luego se mud\xF3 a Brasil. Fue lo mejor que pudo hacer."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 7420
+      y: 10304
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 9fb03c79-f1e3-4428-96bc-db5bd2069b64
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "ntes de que se fuera me encontr\xE9 con \xE9l en el patio del
+      colegio, el mismo donde Carmen nos hab\xEDa contado su m\xE9todo. Me dijo que
+      se hab\xEDa escapado de su casa, que sus padres no lo dejaban acercarse al
+      colegio y mucho menos a m\xED, pero que necesitaba hablar conmigo, que no podr\xEDa
+      volver a estar en paz hasta que no lo hiciera."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 7992
+      y: 10338
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: d351fb64-7cda-4629-9417-a3bff4620d8d
+    characterSpr: {fileID: 0}
+    characterName: Fran
+    dialogueText: "Era cierto. Cuando me desmay\xE9 v\xED como algo\u2026 algo extra\xF1o\u2026
+      se com\xEDa a Santiago. Lo vi todo, con claridad -dec\xEDa y rompi\xF3 a llorar.
+      Nunca olvidar\xE9 ese labio tembloroso-. Parece que es cierto. Puede verse
+      el futuro. Eso o\u2026"
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 8491
+      y: 10319
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 43ce6dcd-2e8e-4097-a7e3-041e1c446332
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "No termin\xF3 la frase. Yo no s\xE9 lo ped\xED tampoco. Nos dimos
+      un abrazo t\xEDmido y lo vi irse."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 9080
+      y: 10424
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: f084ea71-15f4-4bb9-8aab-0e463b7ca0d5
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "En contraparte a m\xED, \xE9l en ese momento estaba muy flaco,
+      no estaba comiendo. Probablemente por la profunda depresi\xF3n, o la culpa
+      de haber golpeado a aquel chico que, a pesar de ser un idiota, era un idiota
+      indefenso, que acomodaba la mejilla para ser golpeado, porque incluso \xE9l
+      cre\xEDa que se merec\xEDa esos golpes. Un chico que no recordaba muy bien
+      el d\xEDa que su padre le hab\xEDa cortado la cara, pues hab\xEDa sido muy
+      duro para \xE9l."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 9725
+      y: 10506
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 9bd9782c-0ff3-4089-89dd-e09d6c9965f8
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Yo a Fran le cre\xED. Cr\xE9anme que cuando alguien te mira a
+      los ojos de esa forma, es imposible mentir."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 10293
+      y: 10527
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 5beebbb8-87a5-4df0-a554-22eb4d4c6ba8
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: 
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 10792
+      y: 10527
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 2623e77e-6bd1-4c04-8cb0-51e5d0968b86
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Esa fue la \xFAltima vez que vi a mi otro mejor amigo y fue el
+      \xFAltimo amigo que tuve."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 11331
+      y: 10556
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: f8c6317b-de7e-4413-a23b-4966014a9b48
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Bueno, quiz\xE1 podr\xEDa contar a Samuel, \xBFse acuerdan, el
+      que me dio el trabajo en la aseguradora? Pero no es lo mismo."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 11936
+      y: 10572
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 8f07c6c1-838d-444d-9f98-04a9012c30b1
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Nunca volv\xED a tener amigos que le dieran sentido a mi vida
+      como lo hab\xEDan hecho ellos. Quiz\xE1 tenga mucho miedo. Tampoco volv\xED
+      a hablar con nadie m\xE1s de lo sucedido y si bien hice un esfuerzo diario
+      por olvidar a Santiago, siento que intentar olvidar a aquellos que ya no est\xE1n
+      es un insulto a sus memorias."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 12482
+      y: 10646
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: ca1c0068-18b1-4b80-af86-91ab86d743b5
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "La \xFAnica raz\xF3n por la que escribo esto entonces, es  porque
+      pienso que ya he honrado m\xE1s que suficiente esa memoria y ahora quisiera
+      descansar un poco."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 13029
+      y: 10696
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 9d8466df-c8db-4630-bba9-ae7ee8c61345
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "uelo so\xF1ar que cuelgo de un precipicio y algo me tira para
+      abajo. Trato de no mirar qu\xE9 es e intento subir con todas mis fuerzas. A
+      veces lo consigo. Otras no."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 13636
+      y: 10728
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 50a2fe1c-924d-40b0-9e79-086cacc88cc3
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: Pero nunca voy a dejar de intentarlo.
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 14225
+      y: 10733
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 6b3230c2-eefe-43ee-a65c-d1c39dae5dc1
+    characterSpr: {fileID: 0}
+    characterName: Fin.
+    dialogueText: 
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 14827
+      y: 10818
       width: 499
       height: 305
     soundEffect: {fileID: 0}
