@@ -36,6 +36,7 @@ namespace VNCreator
         [Header("My settings")]
         [SerializeField] private GameObject nameTextPannel;
         [SerializeField] private GameObject dialogueTextPannel;
+        [SerializeField] private int nodesIn = 0;
 
         void Start()
         {
@@ -74,6 +75,8 @@ namespace VNCreator
                 dialogueTextPannel.SetActive(true);
             }
             else dialogueTextPannel.SetActive(false);
+
+            if (nodesIn == 5) print("la reputa que te parió");
         }
 
         protected override void NextNode(int _choiceId)
@@ -86,6 +89,8 @@ namespace VNCreator
 
             base.NextNode(_choiceId);
             StartCoroutine(DisplayCurrentNode());
+
+            nodesIn++;
         }
 
         IEnumerator DisplayCurrentNode()
