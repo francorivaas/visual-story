@@ -3,12 +3,23 @@ using UnityEngine.UI;
 
 public class FadeIn : MonoBehaviour
 {
-    private Animator animator;
+    [SerializeField] private GameObject nameTextPannel;
+    [SerializeField] private GameObject dialogueTextPannel;
+    [SerializeField] private GameObject text;
 
     void Start()
     {
-        animator = GetComponent<Animator>();
-        animator.SetTrigger("FadeIn");
-        Destroy(gameObject, 3.6f);
+        nameTextPannel.SetActive(false);
+        dialogueTextPannel.SetActive(false);
+    }
+
+    private void Update()
+    {
+        if (Input.GetMouseButtonDown(0))
+        {
+            nameTextPannel.SetActive(true);
+            dialogueTextPannel.SetActive(true);
+            Destroy(text);
+        }
     }
 }
