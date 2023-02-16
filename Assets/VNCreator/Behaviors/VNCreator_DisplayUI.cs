@@ -35,6 +35,7 @@ namespace VNCreator
 
         [Header("My settings")]
         [SerializeField] private GameObject nameTextPannel;
+        [SerializeField] private GameObject dialogueTextPannel;
 
         void Start()
         {
@@ -67,6 +68,12 @@ namespace VNCreator
                 nameTextPannel.SetActive(true);
             }
             else nameTextPannel.SetActive(false);
+
+            if (currentNode.dialogueText != string.Empty)
+            {
+                dialogueTextPannel.SetActive(true);
+            }
+            else dialogueTextPannel.SetActive(false);
         }
 
         protected override void NextNode(int _choiceId)
