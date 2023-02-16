@@ -33,6 +33,9 @@ namespace VNCreator
         [Scene]
         public string mainMenu;
 
+        [Header("My settings")]
+        [SerializeField] private GameObject nameTextPannel;
+
         void Start()
         {
             nextBtn.onClick.AddListener(delegate { NextNode(0); });
@@ -57,6 +60,15 @@ namespace VNCreator
             StartCoroutine(DisplayCurrentNode());
         }
 
+        private void Update()
+        {
+            if (currentNode.characterName != string.Empty)
+            {
+                nameTextPannel.SetActive(true);
+            }
+            else nameTextPannel.SetActive(false);
+        }
+
         protected override void NextNode(int _choiceId)
         {
             if (lastNode)
@@ -74,13 +86,16 @@ namespace VNCreator
             characterNameTxt.text = currentNode.characterName;
             if (currentNode.characterSpr != null)
             {
+                
                 characterImg.sprite = currentNode.characterSpr;
                 characterImg.color = Color.white;
             }
             else
             {
                 characterImg.color = new Color(1, 1, 1, 0);
+                
             }
+
             if(currentNode.backgroundSpr != null)
                 backgroundImg.sprite = currentNode.backgroundSpr;
 

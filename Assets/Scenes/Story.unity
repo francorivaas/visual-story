@@ -3482,6 +3482,7 @@ MonoBehaviour:
   choiceBtn4: {fileID: 0}
   endScreen: {fileID: 475204577}
   mainMenu: Assets/Scenes/Main Menu.unity
+  nameTextPannel: {fileID: 1433284196}
 --- !u!4 &1466996396
 Transform:
   m_ObjectHideFlags: 0
