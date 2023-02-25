@@ -49,44 +49,44 @@ MonoBehaviour:
   - guid: 16ba4c2e-85f1-41e9-9377-496fc902b6b4
     targetGuid: 0278411e-b88a-4ccd-a16f-a2653d0bd84b
     portId: 11
+  - guid: 0278411e-b88a-4ccd-a16f-a2653d0bd84b
+    targetGuid: 81bcafd9-8c23-49f1-ba23-496bd26ca348
+    portId: 12
   - guid: d64012ba-66f3-4b40-a89e-624d5a718169
     targetGuid: 6c5506c5-6967-420f-b71a-115ea2aa2401
-    portId: 12
+    portId: 13
   - guid: e3a4aeed-bce6-40b1-9086-7b8edac1384d
     targetGuid: d64012ba-66f3-4b40-a89e-624d5a718169
-    portId: 13
+    portId: 14
   - guid: 6c5506c5-6967-420f-b71a-115ea2aa2401
     targetGuid: 7ead771b-d82d-480c-ac46-fa4d01e768e2
-    portId: 14
+    portId: 15
   - guid: 7ead771b-d82d-480c-ac46-fa4d01e768e2
     targetGuid: 1834e475-3fcc-4fcc-bfd8-1c06e65f8308
-    portId: 15
+    portId: 16
   - guid: 1834e475-3fcc-4fcc-bfd8-1c06e65f8308
     targetGuid: 7c39d35b-e160-4913-b745-a4f13992e3a6
-    portId: 16
+    portId: 17
   - guid: 7c39d35b-e160-4913-b745-a4f13992e3a6
     targetGuid: 0fac2333-a1ef-4f43-827c-e66e51a27319
-    portId: 17
-  - guid: 37f82c64-3756-494d-9193-cee1f357f95c
-    targetGuid: e3a4aeed-bce6-40b1-9086-7b8edac1384d
     portId: 18
   - guid: 37f82c64-3756-494d-9193-cee1f357f95c
     targetGuid: e3a4aeed-bce6-40b1-9086-7b8edac1384d
     portId: 19
+  - guid: 37f82c64-3756-494d-9193-cee1f357f95c
+    targetGuid: e3a4aeed-bce6-40b1-9086-7b8edac1384d
+    portId: 20
   - guid: 0fac2333-a1ef-4f43-827c-e66e51a27319
     targetGuid: 597b4a05-e8ff-48a3-8753-10a41e22470b
-    portId: 20
+    portId: 21
   - guid: 597b4a05-e8ff-48a3-8753-10a41e22470b
     targetGuid: 9e21e597-a142-46ea-9117-47420169f18b
-    portId: 21
+    portId: 22
   - guid: 9e21e597-a142-46ea-9117-47420169f18b
     targetGuid: bcd2872b-2964-46c1-af33-4cf8793b835c
-    portId: 22
+    portId: 23
   - guid: bcd2872b-2964-46c1-af33-4cf8793b835c
     targetGuid: 1d58aa0b-884e-45ed-b79f-87044560ba5a
-    portId: 23
-  - guid: 0278411e-b88a-4ccd-a16f-a2653d0bd84b
-    targetGuid: 81bcafd9-8c23-49f1-ba23-496bd26ca348
     portId: 24
   - guid: 81bcafd9-8c23-49f1-ba23-496bd26ca348
     targetGuid: e540404a-4265-44a0-a570-d558f0696971
@@ -528,7 +528,7 @@ MonoBehaviour:
   - guid: 81bcafd9-8c23-49f1-ba23-496bd26ca348
     characterSpr: {fileID: 0}
     characterName: 
-    dialogueText: pura mierda
+    dialogueText: "Las drogas hab\xEDan hecho efecto ya."
     backgroundSpr: {fileID: 0}
     startNode: 0
     endNode: 0
@@ -546,7 +546,7 @@ MonoBehaviour:
   - guid: e540404a-4265-44a0-a570-d558f0696971
     characterSpr: {fileID: 0}
     characterName: 
-    dialogueText: sisi basuyra
+    dialogueText: "\xBFlo recuerdas?"
     backgroundSpr: {fileID: 0}
     startNode: 0
     endNode: 0
@@ -555,8 +555,8 @@ MonoBehaviour:
     - 
     nodePosition:
       serializedVersion: 2
-      x: 1910
-      y: 1402
+      x: 1746
+      y: 1330
       width: 499
       height: 305
     soundEffect: {fileID: 0}

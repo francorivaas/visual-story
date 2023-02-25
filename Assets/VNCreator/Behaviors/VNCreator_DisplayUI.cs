@@ -67,6 +67,10 @@ namespace VNCreator
 
         private void Update()
         {
+            if (nodesIn == 6)
+            {
+                choiceBtn2.enabled = false;
+            }
 
             if (nodesIn == 16 && titleImage != null)
             {
@@ -83,11 +87,11 @@ namespace VNCreator
             {
                 handAnimator.SetBool("Shake", true);
             }
-            else if (nodesIn == 23)
+            else if (nodesIn == 25 && tongue != null)
             {
                 tongue.SetActive(true);
                 tongue.GetComponent<Animator>().SetTrigger("Activate");
-                Destroy(tongue, 5.0f);
+                Destroy(tongue, 2.0f);
             }
         }
 
