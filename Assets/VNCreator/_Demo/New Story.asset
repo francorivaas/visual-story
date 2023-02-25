@@ -8721,24 +8721,6 @@ MonoBehaviour:
       height: 369
     soundEffect: {fileID: 0}
     backgroundMusic: {fileID: 0}
-  - guid: 675ee850-7a1a-4d23-b3f2-a34644ef08f1
-    characterSpr: {fileID: 0}
-    characterName: 
-    dialogueText: 
-    backgroundSpr: {fileID: 21300000, guid: 056d957606065a943947d0220c92a1e3, type: 3}
-    startNode: 1
-    endNode: 0
-    choices: 1
-    choiceOptions:
-    - 
-    nodePosition:
-      serializedVersion: 2
-      x: -952
-      y: -98
-      width: 499
-      height: 305
-    soundEffect: {fileID: 0}
-    backgroundMusic: {fileID: 0}
   - guid: 2e56e537-9980-4b44-a48c-5062bcb3cbfb
     characterSpr: {fileID: 0}
     characterName: 
@@ -8938,7 +8920,7 @@ MonoBehaviour:
     dialogueText: "Est\xE1bamos almorzando en el buffet del colegio. Sanguches de
       milanesa porque era viernes y Santi hab\xEDa logrado meter unas coca-colas
       frente a las narices de Celina, la encargada del buffet."
-    backgroundSpr: {fileID: 21300000, guid: 48b16bb6c2ec65643be08bbcd02d5b3c, type: 3}
+    backgroundSpr: {fileID: 0}
     startNode: 0
     endNode: 0
     choices: 1
@@ -8948,6 +8930,24 @@ MonoBehaviour:
       serializedVersion: 2
       x: -300
       y: 283
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 675ee850-7a1a-4d23-b3f2-a34644ef08f1
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: 
+    backgroundSpr: {fileID: 21300000, guid: 7c4b78b31566c5f4bba8eb87eff04aea, type: 3}
+    startNode: 1
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: -952
+      y: -98
       width: 499
       height: 305
     soundEffect: {fileID: 0}
