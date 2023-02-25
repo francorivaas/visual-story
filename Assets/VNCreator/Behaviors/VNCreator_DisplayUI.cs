@@ -34,9 +34,12 @@ namespace VNCreator
         public string mainMenu;
 
         [Header("My settings")]
+        [SerializeField] private GameObject titleImage;
+        [SerializeField] private GameObject tongue;
         [SerializeField] private GameObject nameTextPannel;
         [SerializeField] private GameObject dialogueTextPannel;
         [SerializeField] private int nodesIn = 0;
+        [SerializeField] private Animator handAnimator;
 
         void Start()
         {
@@ -64,20 +67,28 @@ namespace VNCreator
 
         private void Update()
         {
-            if (currentNode.characterName != string.Empty)
-            {
-                nameTextPannel.SetActive(true);
-            }
-            else
-            {
-                nameTextPannel.SetActive(false);
-            }
 
-            if (currentNode.dialogueText != string.Empty)
+            if (nodesIn == 16 && titleImage != null)
             {
-                dialogueTextPannel.SetActive(true);
+                titleImage.SetActive(true);
+                Destroy(titleImage, 5.0f);
+                
             }
-            else dialogueTextPannel.SetActive(false);
+            else if (nodesIn == 21)
+            {
+                handAnimator.SetTrigger("Appear");
+                
+            }
+            else if (nodesIn == 22)
+            {
+                handAnimator.SetBool("Shake", true);
+            }
+            else if (nodesIn == 23)
+            {
+                tongue.SetActive(true);
+                tongue.GetComponent<Animator>().SetTrigger("Activate");
+                Destroy(tongue, 5.0f);
+            }
         }
 
         protected override void NextNode(int _choiceId)
@@ -114,6 +125,7 @@ namespace VNCreator
 
             if (currentNode.choices <= 1) 
             {
+                
                 nextBtn.gameObject.SetActive(true);
 
                 choiceBtn1.gameObject.SetActive(false);
@@ -124,6 +136,7 @@ namespace VNCreator
             }
             else
             {
+
                 nextBtn.gameObject.SetActive(false);
 
                 choiceBtn1.gameObject.SetActive(true);

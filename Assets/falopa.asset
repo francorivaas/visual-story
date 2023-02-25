@@ -1,0 +1,563 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 80d55d090c78b6240aa6dccd6042a022, type: 3}
+  m_Name: falopa
+  m_EditorClassIdentifier: 
+  links:
+  - guid: 47278b30-779b-42b5-a520-0cc3e03a8a2e
+    targetGuid: 783da081-fadb-4b65-b316-17ffa60f4c9b
+    portId: 0
+  - guid: 783da081-fadb-4b65-b316-17ffa60f4c9b
+    targetGuid: 10e56a7f-94a4-48eb-8dd2-97af42a2db50
+    portId: 1
+  - guid: 10e56a7f-94a4-48eb-8dd2-97af42a2db50
+    targetGuid: b80a412b-02db-4226-b1ad-38963c72697f
+    portId: 2
+  - guid: b80a412b-02db-4226-b1ad-38963c72697f
+    targetGuid: 642e8e22-27bc-4867-8e10-547551bd5e84
+    portId: 3
+  - guid: 642e8e22-27bc-4867-8e10-547551bd5e84
+    targetGuid: 2e178f53-37af-4c73-84ba-fa5eb2e2d35e
+    portId: 4
+  - guid: 1d58aa0b-884e-45ed-b79f-87044560ba5a
+    targetGuid: 47961444-642b-4f2c-89a4-78b7f2fbc8d0
+    portId: 5
+  - guid: 47961444-642b-4f2c-89a4-78b7f2fbc8d0
+    targetGuid: 90dd1e1b-dadf-44ff-a68b-5582d4e1fe64
+    portId: 6
+  - guid: 90dd1e1b-dadf-44ff-a68b-5582d4e1fe64
+    targetGuid: 4db78b11-6dda-47d8-b4af-5a695f202faf
+    portId: 7
+  - guid: c3080dc5-d003-4150-b0c2-87f678d5be88
+    targetGuid: 16ba4c2e-85f1-41e9-9377-496fc902b6b4
+    portId: 8
+  - guid: 4db78b11-6dda-47d8-b4af-5a695f202faf
+    targetGuid: c3080dc5-d003-4150-b0c2-87f678d5be88
+    portId: 9
+  - guid: 2e178f53-37af-4c73-84ba-fa5eb2e2d35e
+    targetGuid: 37f82c64-3756-494d-9193-cee1f357f95c
+    portId: 10
+  - guid: 16ba4c2e-85f1-41e9-9377-496fc902b6b4
+    targetGuid: 0278411e-b88a-4ccd-a16f-a2653d0bd84b
+    portId: 11
+  - guid: d64012ba-66f3-4b40-a89e-624d5a718169
+    targetGuid: 6c5506c5-6967-420f-b71a-115ea2aa2401
+    portId: 12
+  - guid: e3a4aeed-bce6-40b1-9086-7b8edac1384d
+    targetGuid: d64012ba-66f3-4b40-a89e-624d5a718169
+    portId: 13
+  - guid: 6c5506c5-6967-420f-b71a-115ea2aa2401
+    targetGuid: 7ead771b-d82d-480c-ac46-fa4d01e768e2
+    portId: 14
+  - guid: 7ead771b-d82d-480c-ac46-fa4d01e768e2
+    targetGuid: 1834e475-3fcc-4fcc-bfd8-1c06e65f8308
+    portId: 15
+  - guid: 1834e475-3fcc-4fcc-bfd8-1c06e65f8308
+    targetGuid: 7c39d35b-e160-4913-b745-a4f13992e3a6
+    portId: 16
+  - guid: 7c39d35b-e160-4913-b745-a4f13992e3a6
+    targetGuid: 0fac2333-a1ef-4f43-827c-e66e51a27319
+    portId: 17
+  - guid: 37f82c64-3756-494d-9193-cee1f357f95c
+    targetGuid: e3a4aeed-bce6-40b1-9086-7b8edac1384d
+    portId: 18
+  - guid: 37f82c64-3756-494d-9193-cee1f357f95c
+    targetGuid: e3a4aeed-bce6-40b1-9086-7b8edac1384d
+    portId: 19
+  - guid: 0fac2333-a1ef-4f43-827c-e66e51a27319
+    targetGuid: 597b4a05-e8ff-48a3-8753-10a41e22470b
+    portId: 20
+  - guid: 597b4a05-e8ff-48a3-8753-10a41e22470b
+    targetGuid: 9e21e597-a142-46ea-9117-47420169f18b
+    portId: 21
+  - guid: 9e21e597-a142-46ea-9117-47420169f18b
+    targetGuid: bcd2872b-2964-46c1-af33-4cf8793b835c
+    portId: 22
+  - guid: bcd2872b-2964-46c1-af33-4cf8793b835c
+    targetGuid: 1d58aa0b-884e-45ed-b79f-87044560ba5a
+    portId: 23
+  - guid: 0278411e-b88a-4ccd-a16f-a2653d0bd84b
+    targetGuid: 81bcafd9-8c23-49f1-ba23-496bd26ca348
+    portId: 24
+  - guid: 81bcafd9-8c23-49f1-ba23-496bd26ca348
+    targetGuid: e540404a-4265-44a0-a570-d558f0696971
+    portId: 25
+  nodes:
+  - guid: 47278b30-779b-42b5-a520-0cc3e03a8a2e
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: 
+    backgroundSpr: {fileID: 0}
+    startNode: 1
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: -680
+      y: -113
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 8300000, guid: 790728afa91e40749a69aa969dd036f9, type: 3}
+  - guid: 783da081-fadb-4b65-b316-17ffa60f4c9b
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: No recuerdo nada.
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: -181
+      y: -113
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 8300000, guid: 790728afa91e40749a69aa969dd036f9, type: 3}
+  - guid: 10e56a7f-94a4-48eb-8dd2-97af42a2db50
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: Absolutamente nada.
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 318
+      y: -113
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: b80a412b-02db-4226-b1ad-38963c72697f
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: Excepto la puerta.
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: -680
+      y: 211
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 642e8e22-27bc-4867-8e10-547551bd5e84
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: Y la musica, por supuesto.
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: -181
+      y: 211
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 1d58aa0b-884e-45ed-b79f-87044560ba5a
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Puede que si, \xBFque importa?"
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 318
+      y: 516
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 47961444-642b-4f2c-89a4-78b7f2fbc8d0
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "\xBFAcaso no recuerdas las luces?"
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: -680
+      y: 821
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 90dd1e1b-dadf-44ff-a68b-5582d4e1fe64
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: Ah si, luces.
+    backgroundSpr: {fileID: 21300000, guid: 7b00c190c42cd5148a5aebe2924588ba, type: 3}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: -181
+      y: 821
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: c3080dc5-d003-4150-b0c2-87f678d5be88
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "\xBFRecuerdas tus manos?"
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: -680
+      y: 1126
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 4db78b11-6dda-47d8-b4af-5a695f202faf
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: Empecemos con tu puto cuerpo.
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 318
+      y: 821
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 2e178f53-37af-4c73-84ba-fa5eb2e2d35e
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: ...
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 318
+      y: 192
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 16ba4c2e-85f1-41e9-9377-496fc902b6b4
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: Claro que recuerdo mis putas manos.
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: -82
+      y: 1191
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 0278411e-b88a-4ccd-a16f-a2653d0bd84b
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: Recuerdas lo espantosas que se veian?
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 651
+      y: 1237
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: d64012ba-66f3-4b40-a89e-624d5a718169
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: No te preocupes querido.
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 1914
+      y: 254
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: e3a4aeed-bce6-40b1-9086-7b8edac1384d
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "\xBFEh? \xBFy tu quien mierda eres?"
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 1377
+      y: 211
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 6c5506c5-6967-420f-b71a-115ea2aa2401
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: Pero es necesario que comiences a hacer las preguntas correctas.
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 2413
+      y: 254
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 7ead771b-d82d-480c-ac46-fa4d01e768e2
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: Y que no mientas, claro.
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 2912
+      y: 254
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 1834e475-3fcc-4fcc-bfd8-1c06e65f8308
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: ...
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 3456
+      y: 312
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 7c39d35b-e160-4913-b745-a4f13992e3a6
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: Bueno... quiza si recuerde algo.
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 4028
+      y: 370
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 37f82c64-3756-494d-9193-cee1f357f95c
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: 
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 2
+    choiceOptions:
+    - "\xBFSeguro?"
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 855
+      y: 211
+      width: 499
+      height: 369
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 0fac2333-a1ef-4f43-827c-e66e51a27319
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: Bien dicho querido.
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 4527
+      y: 370
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 597b4a05-e8ff-48a3-8753-10a41e22470b
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: Vamos progresando.
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 5026
+      y: 380
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 9e21e597-a142-46ea-9117-47420169f18b
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: Ahora veamos como fue que moriste.
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 5525
+      y: 380
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: bcd2872b-2964-46c1-af33-4cf8793b835c
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "\xBFHabia decorados?"
+    backgroundSpr: {fileID: 21300000, guid: 4c20527c990797944a38c6fcfccbebef, type: 3}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: -181
+      y: 516
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 8300000, guid: 8feb83380bc34254fb7a45cd1dace7db, type: 3}
+  - guid: 81bcafd9-8c23-49f1-ba23-496bd26ca348
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: pura mierda
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 1247
+      y: 1330
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: e540404a-4265-44a0-a570-d558f0696971
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: sisi basuyra
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 1910
+      y: 1402
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
