@@ -68,15 +68,16 @@ namespace VNCreator
             {
                 nameTextPannel.SetActive(true);
             }
-            else nameTextPannel.SetActive(false);
+            else
+            {
+                nameTextPannel.SetActive(false);
+            }
 
             if (currentNode.dialogueText != string.Empty)
             {
                 dialogueTextPannel.SetActive(true);
             }
             else dialogueTextPannel.SetActive(false);
-
-            if (nodesIn == 5) print("la reputa que te parió");
         }
 
         protected override void NextNode(int _choiceId)
