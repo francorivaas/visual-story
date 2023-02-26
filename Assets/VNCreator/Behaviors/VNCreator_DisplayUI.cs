@@ -116,6 +116,10 @@ namespace VNCreator
                 misteryGuys.SetActive(true);
                 Destroy(misteryGuys, 3f);
             }
+            else if (nodesIn == 58)
+            {
+                SceneManager.LoadScene(2);
+            }
         }
 
         protected override void NextNode(int _choiceId)
