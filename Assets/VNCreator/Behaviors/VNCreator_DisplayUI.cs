@@ -65,14 +65,22 @@ namespace VNCreator
             StartCoroutine(DisplayCurrentNode());
         }
 
+        private void DisableButtonTwo()
+        {
+            print("pija");
+            choiceBtn2.enabled = false;
+            choiceBtn2.gameObject.SetActive(false);
+        }
+
         private void Update()
         {
             if (nodesIn == 6)
             {
-                choiceBtn2.enabled = false;
+                DisableButtonTwo();
+
             }
 
-            if (nodesIn == 16 && titleImage != null)
+            else if (nodesIn == 16 && titleImage != null)
             {
                 titleImage.SetActive(true);
                 Destroy(titleImage, 5.0f);
@@ -129,7 +137,6 @@ namespace VNCreator
 
             if (currentNode.choices <= 1) 
             {
-                print("hola");
                 nextBtn.gameObject.SetActive(true);
 
                 choiceBtn1.gameObject.SetActive(false);
@@ -138,6 +145,7 @@ namespace VNCreator
 
                 previousBtn.gameObject.SetActive(loadList.Count != 1);
             }
+
             else
             {
 

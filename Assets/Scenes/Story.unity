@@ -3631,9 +3631,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 916d63508c79e514f85dca2e8909bf11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  nameTextPannel: {fileID: 0}
   dialogueTextPannel: {fileID: 1207470966}
-  text: {fileID: 0}
 --- !u!1 &1466996394
 GameObject:
   m_ObjectHideFlags: 0
@@ -3682,7 +3680,6 @@ MonoBehaviour:
   mainMenu: Assets/Scenes/Main Menu.unity
   titleImage: {fileID: 1826245281}
   tongue: {fileID: 814738021}
-  nameTextPannel: {fileID: 0}
   dialogueTextPannel: {fileID: 1207470966}
   nodesIn: 0
   handAnimator: {fileID: 347791253}
