@@ -19,6 +19,7 @@ namespace VNCreator
 
         void Start()
         {
+
             GameOptions.InitilizeOptions();
 
             if(musicVolumeSlider != null)
