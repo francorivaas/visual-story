@@ -28,69 +28,72 @@ MonoBehaviour:
   - guid: 642e8e22-27bc-4867-8e10-547551bd5e84
     targetGuid: 2e178f53-37af-4c73-84ba-fa5eb2e2d35e
     portId: 4
-  - guid: 1d58aa0b-884e-45ed-b79f-87044560ba5a
-    targetGuid: 47961444-642b-4f2c-89a4-78b7f2fbc8d0
-    portId: 5
-  - guid: 47961444-642b-4f2c-89a4-78b7f2fbc8d0
-    targetGuid: 90dd1e1b-dadf-44ff-a68b-5582d4e1fe64
-    portId: 6
-  - guid: 90dd1e1b-dadf-44ff-a68b-5582d4e1fe64
-    targetGuid: 4db78b11-6dda-47d8-b4af-5a695f202faf
-    portId: 7
-  - guid: c3080dc5-d003-4150-b0c2-87f678d5be88
-    targetGuid: 16ba4c2e-85f1-41e9-9377-496fc902b6b4
-    portId: 8
-  - guid: 4db78b11-6dda-47d8-b4af-5a695f202faf
-    targetGuid: c3080dc5-d003-4150-b0c2-87f678d5be88
-    portId: 9
   - guid: 2e178f53-37af-4c73-84ba-fa5eb2e2d35e
     targetGuid: 37f82c64-3756-494d-9193-cee1f357f95c
-    portId: 10
-  - guid: 16ba4c2e-85f1-41e9-9377-496fc902b6b4
-    targetGuid: 0278411e-b88a-4ccd-a16f-a2653d0bd84b
-    portId: 11
-  - guid: 0278411e-b88a-4ccd-a16f-a2653d0bd84b
-    targetGuid: 81bcafd9-8c23-49f1-ba23-496bd26ca348
-    portId: 12
-  - guid: d64012ba-66f3-4b40-a89e-624d5a718169
-    targetGuid: 6c5506c5-6967-420f-b71a-115ea2aa2401
-    portId: 13
+    portId: 5
+  - guid: 37f82c64-3756-494d-9193-cee1f357f95c
+    targetGuid: e3a4aeed-bce6-40b1-9086-7b8edac1384d
+    portId: 6
+  - guid: 37f82c64-3756-494d-9193-cee1f357f95c
+    targetGuid: e3a4aeed-bce6-40b1-9086-7b8edac1384d
+    portId: 7
   - guid: e3a4aeed-bce6-40b1-9086-7b8edac1384d
     targetGuid: d64012ba-66f3-4b40-a89e-624d5a718169
-    portId: 14
-  - guid: 6c5506c5-6967-420f-b71a-115ea2aa2401
-    targetGuid: 7ead771b-d82d-480c-ac46-fa4d01e768e2
-    portId: 15
-  - guid: 7ead771b-d82d-480c-ac46-fa4d01e768e2
-    targetGuid: 1834e475-3fcc-4fcc-bfd8-1c06e65f8308
-    portId: 16
+    portId: 8
   - guid: 1834e475-3fcc-4fcc-bfd8-1c06e65f8308
     targetGuid: 7c39d35b-e160-4913-b745-a4f13992e3a6
-    portId: 17
+    portId: 9
   - guid: 7c39d35b-e160-4913-b745-a4f13992e3a6
     targetGuid: 0fac2333-a1ef-4f43-827c-e66e51a27319
-    portId: 18
-  - guid: 37f82c64-3756-494d-9193-cee1f357f95c
-    targetGuid: e3a4aeed-bce6-40b1-9086-7b8edac1384d
-    portId: 19
-  - guid: 37f82c64-3756-494d-9193-cee1f357f95c
-    targetGuid: e3a4aeed-bce6-40b1-9086-7b8edac1384d
-    portId: 20
+    portId: 10
   - guid: 0fac2333-a1ef-4f43-827c-e66e51a27319
     targetGuid: 597b4a05-e8ff-48a3-8753-10a41e22470b
-    portId: 21
+    portId: 11
   - guid: 597b4a05-e8ff-48a3-8753-10a41e22470b
     targetGuid: 9e21e597-a142-46ea-9117-47420169f18b
-    portId: 22
-  - guid: 9e21e597-a142-46ea-9117-47420169f18b
-    targetGuid: bcd2872b-2964-46c1-af33-4cf8793b835c
-    portId: 23
+    portId: 12
   - guid: bcd2872b-2964-46c1-af33-4cf8793b835c
     targetGuid: 1d58aa0b-884e-45ed-b79f-87044560ba5a
-    portId: 24
+    portId: 13
+  - guid: 1d58aa0b-884e-45ed-b79f-87044560ba5a
+    targetGuid: 47961444-642b-4f2c-89a4-78b7f2fbc8d0
+    portId: 14
+  - guid: 9e21e597-a142-46ea-9117-47420169f18b
+    targetGuid: bcd2872b-2964-46c1-af33-4cf8793b835c
+    portId: 15
+  - guid: 47961444-642b-4f2c-89a4-78b7f2fbc8d0
+    targetGuid: 90dd1e1b-dadf-44ff-a68b-5582d4e1fe64
+    portId: 16
+  - guid: 90dd1e1b-dadf-44ff-a68b-5582d4e1fe64
+    targetGuid: 4db78b11-6dda-47d8-b4af-5a695f202faf
+    portId: 17
+  - guid: 4db78b11-6dda-47d8-b4af-5a695f202faf
+    targetGuid: c3080dc5-d003-4150-b0c2-87f678d5be88
+    portId: 18
+  - guid: c3080dc5-d003-4150-b0c2-87f678d5be88
+    targetGuid: 16ba4c2e-85f1-41e9-9377-496fc902b6b4
+    portId: 19
+  - guid: 16ba4c2e-85f1-41e9-9377-496fc902b6b4
+    targetGuid: 0278411e-b88a-4ccd-a16f-a2653d0bd84b
+    portId: 20
+  - guid: 0278411e-b88a-4ccd-a16f-a2653d0bd84b
+    targetGuid: 81bcafd9-8c23-49f1-ba23-496bd26ca348
+    portId: 21
   - guid: 81bcafd9-8c23-49f1-ba23-496bd26ca348
     targetGuid: e540404a-4265-44a0-a570-d558f0696971
+    portId: 22
+  - guid: d64012ba-66f3-4b40-a89e-624d5a718169
+    targetGuid: fd5f3d37-341f-489e-8e73-1acd6857445b
+    portId: 23
+  - guid: fd5f3d37-341f-489e-8e73-1acd6857445b
+    targetGuid: 6c5506c5-6967-420f-b71a-115ea2aa2401
+    portId: 24
+  - guid: 6c5506c5-6967-420f-b71a-115ea2aa2401
+    targetGuid: 7ead771b-d82d-480c-ac46-fa4d01e768e2
     portId: 25
+  - guid: 7ead771b-d82d-480c-ac46-fa4d01e768e2
+    targetGuid: 1834e475-3fcc-4fcc-bfd8-1c06e65f8308
+    portId: 26
   nodes:
   - guid: 47278b30-779b-42b5-a520-0cc3e03a8a2e
     characterSpr: {fileID: 0}
@@ -237,60 +240,6 @@ MonoBehaviour:
       height: 305
     soundEffect: {fileID: 0}
     backgroundMusic: {fileID: 0}
-  - guid: d64012ba-66f3-4b40-a89e-624d5a718169
-    characterSpr: {fileID: 0}
-    characterName: 
-    dialogueText: No te preocupes querido.
-    backgroundSpr: {fileID: 0}
-    startNode: 0
-    endNode: 0
-    choices: 1
-    choiceOptions:
-    - 
-    nodePosition:
-      serializedVersion: 2
-      x: 318
-      y: 516
-      width: 499
-      height: 305
-    soundEffect: {fileID: 0}
-    backgroundMusic: {fileID: 0}
-  - guid: 6c5506c5-6967-420f-b71a-115ea2aa2401
-    characterSpr: {fileID: 0}
-    characterName: 
-    dialogueText: Pero es necesario que comiences a hacer las preguntas correctas.
-    backgroundSpr: {fileID: 0}
-    startNode: 0
-    endNode: 0
-    choices: 1
-    choiceOptions:
-    - 
-    nodePosition:
-      serializedVersion: 2
-      x: -680
-      y: 885
-      width: 499
-      height: 305
-    soundEffect: {fileID: 0}
-    backgroundMusic: {fileID: 0}
-  - guid: 7ead771b-d82d-480c-ac46-fa4d01e768e2
-    characterSpr: {fileID: 0}
-    characterName: 
-    dialogueText: Y que no mientas, claro.
-    backgroundSpr: {fileID: 0}
-    startNode: 0
-    endNode: 0
-    choices: 1
-    choiceOptions:
-    - 
-    nodePosition:
-      serializedVersion: 2
-      x: -181
-      y: 821
-      width: 499
-      height: 305
-    soundEffect: {fileID: 0}
-    backgroundMusic: {fileID: 0}
   - guid: 1834e475-3fcc-4fcc-bfd8-1c06e65f8308
     characterSpr: {fileID: 0}
     characterName: 
@@ -327,10 +276,136 @@ MonoBehaviour:
       height: 305
     soundEffect: {fileID: 0}
     backgroundMusic: {fileID: 0}
-  - guid: 0fac2333-a1ef-4f43-827c-e66e51a27319
+  - guid: 90dd1e1b-dadf-44ff-a68b-5582d4e1fe64
     characterSpr: {fileID: 0}
     characterName: 
-    dialogueText: Bien dicho querido.
+    dialogueText: Ah si, luces.
+    backgroundSpr: {fileID: 21300000, guid: 7b00c190c42cd5148a5aebe2924588ba, type: 3}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: -181
+      y: 1810
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 16ba4c2e-85f1-41e9-9377-496fc902b6b4
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: Claro que recuerdo mis putas manos.
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: -181
+      y: 2115
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: e540404a-4265-44a0-a570-d558f0696971
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "\xBFlo recuerdas?"
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: -181
+      y: 2420
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: d64012ba-66f3-4b40-a89e-624d5a718169
+    characterSpr: {fileID: 0}
+    characterName: No te preocupes querido.
+    dialogueText: 
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 318
+      y: 516
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: fd5f3d37-341f-489e-8e73-1acd6857445b
+    characterSpr: {fileID: 0}
+    characterName: No te asustes.
+    dialogueText: 
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 817
+      y: 516
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 6c5506c5-6967-420f-b71a-115ea2aa2401
+    characterSpr: {fileID: 0}
+    characterName: Pero es necesario que comiences a hacer las preguntas correctas.
+    dialogueText: 
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: -680
+      y: 885
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 7ead771b-d82d-480c-ac46-fa4d01e768e2
+    characterSpr: {fileID: 0}
+    characterName: Y que no mientas, claro.
+    dialogueText: 
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: -181
+      y: 821
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 0fac2333-a1ef-4f43-827c-e66e51a27319
+    characterSpr: {fileID: 0}
+    characterName: Bien dicho querido.
+    dialogueText: 
     backgroundSpr: {fileID: 0}
     startNode: 0
     endNode: 0
@@ -347,8 +422,8 @@ MonoBehaviour:
     backgroundMusic: {fileID: 0}
   - guid: 597b4a05-e8ff-48a3-8753-10a41e22470b
     characterSpr: {fileID: 0}
-    characterName: 
-    dialogueText: Vamos progresando.
+    characterName: Vamos progresando.
+    dialogueText: 
     backgroundSpr: {fileID: 0}
     startNode: 0
     endNode: 0
@@ -363,10 +438,28 @@ MonoBehaviour:
       height: 305
     soundEffect: {fileID: 0}
     backgroundMusic: {fileID: 0}
+  - guid: 9e21e597-a142-46ea-9117-47420169f18b
+    characterSpr: {fileID: 0}
+    characterName: Ahora veamos como fue que moriste.
+    dialogueText: 
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: -680
+      y: 1505
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
   - guid: bcd2872b-2964-46c1-af33-4cf8793b835c
     characterSpr: {fileID: 0}
-    characterName: 
-    dialogueText: "\xBFHabia decorados?"
+    characterName: "\xBFHabia decorados?"
+    dialogueText: 
     backgroundSpr: {fileID: 21300000, guid: 4c20527c990797944a38c6fcfccbebef, type: 3}
     startNode: 0
     endNode: 0
@@ -399,28 +492,10 @@ MonoBehaviour:
       height: 305
     soundEffect: {fileID: 0}
     backgroundMusic: {fileID: 0}
-  - guid: 9e21e597-a142-46ea-9117-47420169f18b
-    characterSpr: {fileID: 0}
-    characterName: 
-    dialogueText: Ahora veamos como fue que moriste.
-    backgroundSpr: {fileID: 0}
-    startNode: 0
-    endNode: 0
-    choices: 1
-    choiceOptions:
-    - 
-    nodePosition:
-      serializedVersion: 2
-      x: -680
-      y: 1505
-      width: 499
-      height: 305
-    soundEffect: {fileID: 0}
-    backgroundMusic: {fileID: 0}
   - guid: 47961444-642b-4f2c-89a4-78b7f2fbc8d0
     characterSpr: {fileID: 0}
-    characterName: 
-    dialogueText: "\xBFAcaso no recuerdas las luces?"
+    characterName: "\xBFAcaso no recuerdas las luces?"
+    dialogueText: 
     backgroundSpr: {fileID: 0}
     startNode: 0
     endNode: 0
@@ -430,24 +505,6 @@ MonoBehaviour:
     nodePosition:
       serializedVersion: 2
       x: -680
-      y: 1810
-      width: 499
-      height: 305
-    soundEffect: {fileID: 0}
-    backgroundMusic: {fileID: 0}
-  - guid: 90dd1e1b-dadf-44ff-a68b-5582d4e1fe64
-    characterSpr: {fileID: 0}
-    characterName: 
-    dialogueText: Ah si, luces.
-    backgroundSpr: {fileID: 21300000, guid: 7b00c190c42cd5148a5aebe2924588ba, type: 3}
-    startNode: 0
-    endNode: 0
-    choices: 1
-    choiceOptions:
-    - 
-    nodePosition:
-      serializedVersion: 2
-      x: -181
       y: 1810
       width: 499
       height: 305
@@ -455,8 +512,8 @@ MonoBehaviour:
     backgroundMusic: {fileID: 0}
   - guid: 4db78b11-6dda-47d8-b4af-5a695f202faf
     characterSpr: {fileID: 0}
-    characterName: 
-    dialogueText: Empecemos con tu puto cuerpo.
+    characterName: Empecemos con tu puto cuerpo.
+    dialogueText: 
     backgroundSpr: {fileID: 0}
     startNode: 0
     endNode: 0
@@ -473,8 +530,8 @@ MonoBehaviour:
     backgroundMusic: {fileID: 0}
   - guid: c3080dc5-d003-4150-b0c2-87f678d5be88
     characterSpr: {fileID: 0}
-    characterName: 
-    dialogueText: "\xBFRecuerdas tus manos?"
+    characterName: "\xBFRecuerdas tus manos?"
+    dialogueText: 
     backgroundSpr: {fileID: 0}
     startNode: 0
     endNode: 0
@@ -489,28 +546,10 @@ MonoBehaviour:
       height: 305
     soundEffect: {fileID: 0}
     backgroundMusic: {fileID: 0}
-  - guid: 16ba4c2e-85f1-41e9-9377-496fc902b6b4
-    characterSpr: {fileID: 0}
-    characterName: 
-    dialogueText: Claro que recuerdo mis putas manos.
-    backgroundSpr: {fileID: 0}
-    startNode: 0
-    endNode: 0
-    choices: 1
-    choiceOptions:
-    - 
-    nodePosition:
-      serializedVersion: 2
-      x: -181
-      y: 2115
-      width: 499
-      height: 305
-    soundEffect: {fileID: 0}
-    backgroundMusic: {fileID: 0}
   - guid: 0278411e-b88a-4ccd-a16f-a2653d0bd84b
     characterSpr: {fileID: 0}
-    characterName: 
-    dialogueText: Recuerdas lo espantosas que se veian?
+    characterName: "\xBFRecuerdas lo espantosas que se veian?"
+    dialogueText: 
     backgroundSpr: {fileID: 0}
     startNode: 0
     endNode: 0
@@ -528,7 +567,7 @@ MonoBehaviour:
   - guid: 81bcafd9-8c23-49f1-ba23-496bd26ca348
     characterSpr: {fileID: 0}
     characterName: 
-    dialogueText: "Las drogas hab\xEDan hecho efecto ya."
+    dialogueText: Las drogas habian hecho efecto ya.
     backgroundSpr: {fileID: 0}
     startNode: 0
     endNode: 0
@@ -538,24 +577,6 @@ MonoBehaviour:
     nodePosition:
       serializedVersion: 2
       x: -680
-      y: 2420
-      width: 499
-      height: 305
-    soundEffect: {fileID: 0}
-    backgroundMusic: {fileID: 0}
-  - guid: e540404a-4265-44a0-a570-d558f0696971
-    characterSpr: {fileID: 0}
-    characterName: 
-    dialogueText: "\xBFlo recuerdas?"
-    backgroundSpr: {fileID: 0}
-    startNode: 0
-    endNode: 0
-    choices: 1
-    choiceOptions:
-    - 
-    nodePosition:
-      serializedVersion: 2
-      x: -181
       y: 2420
       width: 499
       height: 305

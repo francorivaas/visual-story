@@ -36,7 +36,7 @@ namespace VNCreator
         [Header("My settings")]
         [SerializeField] private GameObject titleImage;
         [SerializeField] private GameObject tongue;
-        [SerializeField] private GameObject nameTextPannel;
+
         [SerializeField] private GameObject dialogueTextPannel;
         [SerializeField] private int nodesIn = 0;
         [SerializeField] private Animator handAnimator;
@@ -129,7 +129,7 @@ namespace VNCreator
 
             if (currentNode.choices <= 1) 
             {
-                
+                print("hola");
                 nextBtn.gameObject.SetActive(true);
 
                 choiceBtn1.gameObject.SetActive(false);
