@@ -80,18 +80,18 @@ namespace VNCreator
 
             }
 
-            else if (nodesIn == 16 && titleImage != null)
+            else if (nodesIn == 17 && titleImage != null)
             {
                 titleImage.SetActive(true);
                 Destroy(titleImage, 5.0f);
                 
             }
-            else if (nodesIn == 21)
+            else if (nodesIn == 23)
             {
                 handAnimator.SetTrigger("Appear");
                 
             }
-            else if (nodesIn == 22)
+            else if (nodesIn == 24)
             {
                 handAnimator.SetBool("Shake", true);
             }
