@@ -13,184 +13,187 @@ MonoBehaviour:
   m_Name: falopa
   m_EditorClassIdentifier: 
   links:
-  - guid: 47278b30-779b-42b5-a520-0cc3e03a8a2e
-    targetGuid: 783da081-fadb-4b65-b316-17ffa60f4c9b
-    portId: 0
-  - guid: 783da081-fadb-4b65-b316-17ffa60f4c9b
-    targetGuid: 10e56a7f-94a4-48eb-8dd2-97af42a2db50
-    portId: 1
-  - guid: 10e56a7f-94a4-48eb-8dd2-97af42a2db50
-    targetGuid: b80a412b-02db-4226-b1ad-38963c72697f
-    portId: 2
   - guid: b80a412b-02db-4226-b1ad-38963c72697f
     targetGuid: 642e8e22-27bc-4867-8e10-547551bd5e84
-    portId: 3
+    portId: 0
   - guid: 642e8e22-27bc-4867-8e10-547551bd5e84
     targetGuid: 2e178f53-37af-4c73-84ba-fa5eb2e2d35e
-    portId: 4
+    portId: 1
   - guid: 2e178f53-37af-4c73-84ba-fa5eb2e2d35e
     targetGuid: 37f82c64-3756-494d-9193-cee1f357f95c
-    portId: 5
+    portId: 2
   - guid: 37f82c64-3756-494d-9193-cee1f357f95c
     targetGuid: e3a4aeed-bce6-40b1-9086-7b8edac1384d
-    portId: 6
+    portId: 3
   - guid: 37f82c64-3756-494d-9193-cee1f357f95c
     targetGuid: e3a4aeed-bce6-40b1-9086-7b8edac1384d
-    portId: 7
+    portId: 4
   - guid: e3a4aeed-bce6-40b1-9086-7b8edac1384d
     targetGuid: d64012ba-66f3-4b40-a89e-624d5a718169
-    portId: 8
+    portId: 5
   - guid: d64012ba-66f3-4b40-a89e-624d5a718169
     targetGuid: fd5f3d37-341f-489e-8e73-1acd6857445b
-    portId: 9
+    portId: 6
   - guid: fd5f3d37-341f-489e-8e73-1acd6857445b
     targetGuid: 6c5506c5-6967-420f-b71a-115ea2aa2401
-    portId: 10
+    portId: 7
   - guid: 6c5506c5-6967-420f-b71a-115ea2aa2401
     targetGuid: 7ead771b-d82d-480c-ac46-fa4d01e768e2
-    portId: 11
+    portId: 8
   - guid: 7ead771b-d82d-480c-ac46-fa4d01e768e2
     targetGuid: 1834e475-3fcc-4fcc-bfd8-1c06e65f8308
-    portId: 12
+    portId: 9
   - guid: 1834e475-3fcc-4fcc-bfd8-1c06e65f8308
     targetGuid: 7c39d35b-e160-4913-b745-a4f13992e3a6
-    portId: 13
+    portId: 10
   - guid: 7c39d35b-e160-4913-b745-a4f13992e3a6
     targetGuid: 0fac2333-a1ef-4f43-827c-e66e51a27319
-    portId: 14
+    portId: 11
   - guid: 0fac2333-a1ef-4f43-827c-e66e51a27319
     targetGuid: 597b4a05-e8ff-48a3-8753-10a41e22470b
-    portId: 15
+    portId: 12
   - guid: 597b4a05-e8ff-48a3-8753-10a41e22470b
     targetGuid: 9e21e597-a142-46ea-9117-47420169f18b
-    portId: 16
+    portId: 13
   - guid: 9e21e597-a142-46ea-9117-47420169f18b
     targetGuid: bcd2872b-2964-46c1-af33-4cf8793b835c
-    portId: 17
+    portId: 14
   - guid: bcd2872b-2964-46c1-af33-4cf8793b835c
     targetGuid: 1d58aa0b-884e-45ed-b79f-87044560ba5a
-    portId: 18
+    portId: 15
   - guid: 1d58aa0b-884e-45ed-b79f-87044560ba5a
     targetGuid: 47961444-642b-4f2c-89a4-78b7f2fbc8d0
-    portId: 19
+    portId: 16
   - guid: 47961444-642b-4f2c-89a4-78b7f2fbc8d0
     targetGuid: 90dd1e1b-dadf-44ff-a68b-5582d4e1fe64
-    portId: 20
+    portId: 17
   - guid: 90dd1e1b-dadf-44ff-a68b-5582d4e1fe64
     targetGuid: 4db78b11-6dda-47d8-b4af-5a695f202faf
-    portId: 21
+    portId: 18
   - guid: 4db78b11-6dda-47d8-b4af-5a695f202faf
     targetGuid: c3080dc5-d003-4150-b0c2-87f678d5be88
-    portId: 22
+    portId: 19
   - guid: c3080dc5-d003-4150-b0c2-87f678d5be88
     targetGuid: 16ba4c2e-85f1-41e9-9377-496fc902b6b4
-    portId: 23
+    portId: 20
   - guid: 16ba4c2e-85f1-41e9-9377-496fc902b6b4
     targetGuid: 0278411e-b88a-4ccd-a16f-a2653d0bd84b
-    portId: 24
+    portId: 21
   - guid: 0278411e-b88a-4ccd-a16f-a2653d0bd84b
     targetGuid: 81bcafd9-8c23-49f1-ba23-496bd26ca348
-    portId: 25
+    portId: 22
   - guid: 81bcafd9-8c23-49f1-ba23-496bd26ca348
     targetGuid: 6573fbea-7db9-4f1c-ad93-a0d3572e712f
-    portId: 26
+    portId: 23
   - guid: 6573fbea-7db9-4f1c-ad93-a0d3572e712f
     targetGuid: b139ab96-e8b3-421d-a774-4b6378707b7f
-    portId: 27
+    portId: 24
   - guid: b139ab96-e8b3-421d-a774-4b6378707b7f
     targetGuid: 9110f99a-7c43-4fa8-bd1f-79389149b235
-    portId: 28
+    portId: 25
   - guid: 9110f99a-7c43-4fa8-bd1f-79389149b235
     targetGuid: 975a4d19-13eb-4fab-ba9e-5de51949adc2
-    portId: 29
+    portId: 26
   - guid: 975a4d19-13eb-4fab-ba9e-5de51949adc2
     targetGuid: 5abbc995-aa75-47cb-ac35-02247364ed9b
-    portId: 30
+    portId: 27
   - guid: 5abbc995-aa75-47cb-ac35-02247364ed9b
     targetGuid: 90cf171e-cc80-42b7-80f5-3fac6c27ecdf
-    portId: 31
+    portId: 28
   - guid: 90cf171e-cc80-42b7-80f5-3fac6c27ecdf
     targetGuid: 1c632cdb-b49a-41ee-a31e-606dbb56ae44
-    portId: 32
+    portId: 29
   - guid: 1c632cdb-b49a-41ee-a31e-606dbb56ae44
-    targetGuid: 6f3b488c-be4a-47c1-818d-829dc26005a2
-    portId: 33
-  - guid: 6f3b488c-be4a-47c1-818d-829dc26005a2
     targetGuid: 0b0bbc4d-af22-4957-b787-73229ecb86b9
-    portId: 34
-  - guid: 0b0bbc4d-af22-4957-b787-73229ecb86b9
-    targetGuid: 26dadf20-6e97-488a-b9ee-7f8e0e2c1d72
-    portId: 35
+    portId: 30
   - guid: 26dadf20-6e97-488a-b9ee-7f8e0e2c1d72
     targetGuid: b4b8adc5-9826-4a71-9c64-a80a91e7c18a
-    portId: 36
+    portId: 31
   - guid: b4b8adc5-9826-4a71-9c64-a80a91e7c18a
     targetGuid: 8f76c8c7-0fda-4a4d-8f84-2ecbe8962533
-    portId: 37
+    portId: 32
   - guid: 8f76c8c7-0fda-4a4d-8f84-2ecbe8962533
     targetGuid: 998f9fb1-a6ac-4b50-b6df-e773b5106f14
-    portId: 38
+    portId: 33
   - guid: 998f9fb1-a6ac-4b50-b6df-e773b5106f14
     targetGuid: 5a899bba-209f-476a-834b-489c476c1a10
-    portId: 39
+    portId: 34
   - guid: 5a899bba-209f-476a-834b-489c476c1a10
     targetGuid: e6848b45-07f6-407f-9b44-7864c5a6109e
-    portId: 40
-  nodes:
+    portId: 35
   - guid: 47278b30-779b-42b5-a520-0cc3e03a8a2e
-    characterSpr: {fileID: 0}
-    characterName: 
-    dialogueText: 
-    backgroundSpr: {fileID: 0}
-    startNode: 1
-    endNode: 0
-    choices: 1
-    choiceOptions:
-    - 
-    nodePosition:
-      serializedVersion: 2
-      x: -1453
-      y: -1148
-      width: 499
-      height: 305
-    soundEffect: {fileID: 0}
-    backgroundMusic: {fileID: 8300000, guid: 790728afa91e40749a69aa969dd036f9, type: 3}
+    targetGuid: 783da081-fadb-4b65-b316-17ffa60f4c9b
+    portId: 36
   - guid: 783da081-fadb-4b65-b316-17ffa60f4c9b
-    characterSpr: {fileID: 0}
-    characterName: 
-    dialogueText: No recuerdo nada.
-    backgroundSpr: {fileID: 0}
-    startNode: 0
-    endNode: 0
-    choices: 1
-    choiceOptions:
-    - 
-    nodePosition:
-      serializedVersion: 2
-      x: -920
-      y: -1148
-      width: 499
-      height: 305
-    soundEffect: {fileID: 0}
-    backgroundMusic: {fileID: 8300000, guid: 790728afa91e40749a69aa969dd036f9, type: 3}
+    targetGuid: 10e56a7f-94a4-48eb-8dd2-97af42a2db50
+    portId: 37
   - guid: 10e56a7f-94a4-48eb-8dd2-97af42a2db50
-    characterSpr: {fileID: 0}
-    characterName: 
-    dialogueText: Absolutamente nada.
-    backgroundSpr: {fileID: 0}
-    startNode: 0
-    endNode: 0
-    choices: 1
-    choiceOptions:
-    - 
-    nodePosition:
-      serializedVersion: 2
-      x: -421
-      y: -1148
-      width: 499
-      height: 305
-    soundEffect: {fileID: 0}
-    backgroundMusic: {fileID: 0}
+    targetGuid: b80a412b-02db-4226-b1ad-38963c72697f
+    portId: 38
+  - guid: 6bc5a152-b617-47ca-90ee-306bde12f734
+    targetGuid: 93c4e1d7-d359-4a90-a0da-0a3c8cd007d7
+    portId: 39
+  - guid: 6bc5a152-b617-47ca-90ee-306bde12f734
+    targetGuid: 93c4e1d7-d359-4a90-a0da-0a3c8cd007d7
+    portId: 40
+  - guid: 93c4e1d7-d359-4a90-a0da-0a3c8cd007d7
+    targetGuid: f18e2171-a103-4f85-95ab-56e6d392caad
+    portId: 41
+  - guid: e6848b45-07f6-407f-9b44-7864c5a6109e
+    targetGuid: 6bc5a152-b617-47ca-90ee-306bde12f734
+    portId: 42
+  - guid: f18e2171-a103-4f85-95ab-56e6d392caad
+    targetGuid: 81a74105-74e5-4613-a68b-d1fc7477b047
+    portId: 43
+  - guid: 0b0bbc4d-af22-4957-b787-73229ecb86b9
+    targetGuid: 26dadf20-6e97-488a-b9ee-7f8e0e2c1d72
+    portId: 44
+  - guid: 81a74105-74e5-4613-a68b-d1fc7477b047
+    targetGuid: 38ab0e15-0104-4600-ba10-914fc70e6935
+    portId: 45
+  - guid: 38ab0e15-0104-4600-ba10-914fc70e6935
+    targetGuid: 4e79d3a5-ae15-42e0-82b8-9114a6d71c8c
+    portId: 46
+  - guid: 4e79d3a5-ae15-42e0-82b8-9114a6d71c8c
+    targetGuid: 6eed8c5b-8958-42ee-bbd2-4716c308af73
+    portId: 47
+  - guid: 6eed8c5b-8958-42ee-bbd2-4716c308af73
+    targetGuid: 0b6bbbae-5c4c-4678-a84f-931ccb6adf6f
+    portId: 48
+  - guid: 0b6bbbae-5c4c-4678-a84f-931ccb6adf6f
+    targetGuid: 9e6b9be6-2df5-435e-9bef-1dfaca325fa2
+    portId: 49
+  - guid: 9e6b9be6-2df5-435e-9bef-1dfaca325fa2
+    targetGuid: f68c551b-579d-4f9d-ac25-81f27d657334
+    portId: 50
+  - guid: f68c551b-579d-4f9d-ac25-81f27d657334
+    targetGuid: eb328d2b-58c9-42ad-b31b-e599e844b780
+    portId: 51
+  - guid: eb328d2b-58c9-42ad-b31b-e599e844b780
+    targetGuid: d1a8002e-9dfd-489b-af4b-db0cd4893924
+    portId: 52
+  - guid: d1a8002e-9dfd-489b-af4b-db0cd4893924
+    targetGuid: 2668bb07-b198-4421-b7ce-e8d1d16b85a8
+    portId: 53
+  - guid: 2668bb07-b198-4421-b7ce-e8d1d16b85a8
+    targetGuid: 6e68225e-31df-4a2b-981e-05efd5435646
+    portId: 54
+  - guid: 6e68225e-31df-4a2b-981e-05efd5435646
+    targetGuid: 4816b0c9-5d75-4cf7-a9bd-c2175568b737
+    portId: 55
+  - guid: a2e3b926-0e86-4de6-bfb2-d952c9fb84d7
+    targetGuid: f7c84c8b-5a26-446a-8174-a69afcf0a0b6
+    portId: 56
+  - guid: f7c84c8b-5a26-446a-8174-a69afcf0a0b6
+    targetGuid: 0013afa0-3a2f-455e-af77-9a6a33680f03
+    portId: 57
+  - guid: 0013afa0-3a2f-455e-af77-9a6a33680f03
+    targetGuid: 12047d1a-be50-4845-8a94-ca390fb6fc0f
+    portId: 58
+  - guid: 4816b0c9-5d75-4cf7-a9bd-c2175568b737
+    targetGuid: a2e3b926-0e86-4de6-bfb2-d952c9fb84d7
+    portId: 59
+  nodes:
   - guid: b80a412b-02db-4226-b1ad-38963c72697f
     characterSpr: {fileID: 0}
     characterName: 
@@ -732,42 +735,6 @@ MonoBehaviour:
       height: 305
     soundEffect: {fileID: 0}
     backgroundMusic: {fileID: 0}
-  - guid: 6f3b488c-be4a-47c1-818d-829dc26005a2
-    characterSpr: {fileID: 0}
-    characterName: 
-    dialogueText: 
-    backgroundSpr: {fileID: 0}
-    startNode: 0
-    endNode: 0
-    choices: 1
-    choiceOptions:
-    - 
-    nodePosition:
-      serializedVersion: 2
-      x: -1193
-      y: 2529
-      width: 499
-      height: 305
-    soundEffect: {fileID: 0}
-    backgroundMusic: {fileID: 0}
-  - guid: 0b0bbc4d-af22-4957-b787-73229ecb86b9
-    characterSpr: {fileID: 0}
-    characterName: Ya estabas dentro
-    dialogueText: 
-    backgroundSpr: {fileID: 21300000, guid: 7b32e3ad3b8fd4f40bc3826b4bf8eed4, type: 3}
-    startNode: 0
-    endNode: 0
-    choices: 1
-    choiceOptions:
-    - 
-    nodePosition:
-      serializedVersion: 2
-      x: -694
-      y: 2529
-      width: 499
-      height: 305
-    soundEffect: {fileID: 0}
-    backgroundMusic: {fileID: 0}
   - guid: 26dadf20-6e97-488a-b9ee-7f8e0e2c1d72
     characterSpr: {fileID: 0}
     characterName: 
@@ -840,11 +807,390 @@ MonoBehaviour:
       height: 305
     soundEffect: {fileID: 0}
     backgroundMusic: {fileID: 0}
+  - guid: 47278b30-779b-42b5-a520-0cc3e03a8a2e
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: 
+    backgroundSpr: {fileID: 0}
+    startNode: 1
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: -1453
+      y: -1148
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 8300000, guid: 790728afa91e40749a69aa969dd036f9, type: 3}
+  - guid: 783da081-fadb-4b65-b316-17ffa60f4c9b
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: No recuerdo nada.
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: -920
+      y: -1148
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 8300000, guid: 790728afa91e40749a69aa969dd036f9, type: 3}
+  - guid: 10e56a7f-94a4-48eb-8dd2-97af42a2db50
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: Absolutamente nada.
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: -421
+      y: -1148
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 6bc5a152-b617-47ca-90ee-306bde12f734
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: 
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 2
+    choiceOptions:
+    - "\xBFD%$o78ne3de esto54edyw?wf"
+    - "\xBFQscuweicse2nae1s s133on?"
+    nodePosition:
+      serializedVersion: 2
+      x: -101
+      y: 3198
+      width: 499
+      height: 369
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 93c4e1d7-d359-4a90-a0da-0a3c8cd007d7
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: 
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: -1140
+      y: 3567
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: e6848b45-07f6-407f-9b44-7864c5a6109e
+    characterSpr: {fileID: 0}
+    characterName: "\xBFQue quieres que les pregunte?"
+    dialogueText: 
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: -627
+      y: 3211
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 0b0bbc4d-af22-4957-b787-73229ecb86b9
+    characterSpr: {fileID: 0}
+    characterName: Ya estabas dentro
+    dialogueText: 
+    backgroundSpr: {fileID: 21300000, guid: 7b32e3ad3b8fd4f40bc3826b4bf8eed4, type: 3}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: -694
+      y: 2529
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 38ab0e15-0104-4600-ba10-914fc70e6935
+    characterSpr: {fileID: 0}
+    characterName: No parecen entenderte.
+    dialogueText: 
+    backgroundSpr: {fileID: 21300000, guid: 545a78430e2fbeb4995538e91d0fb1cf, type: 3}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: -1126
+      y: 3872
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 4e79d3a5-ae15-42e0-82b8-9114a6d71c8c
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "\xBFeso es un problema?"
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: -627
+      y: 3872
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 6eed8c5b-8958-42ee-bbd2-4716c308af73
+    characterSpr: {fileID: 0}
+    characterName: eso depende.
+    dialogueText: 
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: -128
+      y: 3872
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 0b6bbbae-5c4c-4678-a84f-931ccb6adf6f
+    characterSpr: {fileID: 0}
+    characterName: tu percepcion ya estaba algo arruinada
+    dialogueText: 
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: -1094
+      y: 4211
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 9e6b9be6-2df5-435e-9bef-1dfaca325fa2
+    characterSpr: {fileID: 0}
+    characterName: tu memoria no es confiable.
+    dialogueText: 
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: -595
+      y: 4211
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: f68c551b-579d-4f9d-ac25-81f27d657334
+    characterSpr: {fileID: 0}
+    characterName: "\xBFque sucede cuando se pierde la memoria?"
+    dialogueText: 
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: -96
+      y: 4211
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: eb328d2b-58c9-42ad-b31b-e599e844b780
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "\xBFsignifica que fue una noche divertida?"
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: -1034
+      y: 4555
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: d1a8002e-9dfd-489b-af4b-db0cd4893924
+    characterSpr: {fileID: 0}
+    characterName: esto no se ve divertido.
+    dialogueText: 
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: -535
+      y: 4555
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 2668bb07-b198-4421-b7ce-e8d1d16b85a8
+    characterSpr: {fileID: 0}
+    characterName: es hora de que hagas una pregunta.
+    dialogueText: 
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: -36
+      y: 4555
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 6e68225e-31df-4a2b-981e-05efd5435646
+    characterSpr: {fileID: 0}
+    characterName: o que al menos contestes una de ellas
+    dialogueText: 
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: -990
+      y: 4887
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: a2e3b926-0e86-4de6-bfb2-d952c9fb84d7
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: ...
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 8
+      y: 4887
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: f7c84c8b-5a26-446a-8174-a69afcf0a0b6
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: aun no estoy seguro
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: -957
+      y: 5222
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 0013afa0-3a2f-455e-af77-9a6a33680f03
+    characterSpr: {fileID: 0}
+    characterName: entonces debemos irnos de aqui
+    dialogueText: 
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: -458
+      y: 5222
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 4816b0c9-5d75-4cf7-a9bd-c2175568b737
+    characterSpr: {fileID: 0}
+    characterName: "\xBFque pasa cuando se pierde la memoria?"
+    dialogueText: 
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: -491
+      y: 4887
+      width: 499
+      height: 305
+    soundEffect: {fileID: 8300000, guid: 6dcb0772d16a0f44c8f9517f519a1b5a, type: 3}
+    backgroundMusic: {fileID: 0}
   - guid: 5a899bba-209f-476a-834b-489c476c1a10
     characterSpr: {fileID: 0}
     characterName: 
     dialogueText: 
-    backgroundSpr: {fileID: 21300000, guid: ea9ba2a9286b8a147967f63d5af0c6b9, type: 3}
+    backgroundSpr: {fileID: 21300000, guid: 37b06ef0af9c7a74f83083a5743c0f2e, type: 3}
     startNode: 0
     endNode: 0
     choices: 1
@@ -858,11 +1204,11 @@ MonoBehaviour:
       height: 305
     soundEffect: {fileID: 8300000, guid: fd1c407327739da4bbf517ef6645f5c9, type: 3}
     backgroundMusic: {fileID: 8300000, guid: f667060fa7629724485b47da5089373f, type: 3}
-  - guid: e6848b45-07f6-407f-9b44-7864c5a6109e
+  - guid: f18e2171-a103-4f85-95ab-56e6d392caad
     characterSpr: {fileID: 0}
-    characterName: "\xBFQue quieres preguntarles?"
+    characterName: 
     dialogueText: 
-    backgroundSpr: {fileID: 0}
+    backgroundSpr: {fileID: 21300000, guid: 535e67e7f15ba7447b2a743e9ac93c27, type: 3}
     startNode: 0
     endNode: 0
     choices: 1
@@ -870,9 +1216,45 @@ MonoBehaviour:
     - 
     nodePosition:
       serializedVersion: 2
-      x: -641
-      y: 3197
+      x: -627
+      y: 3567
       width: 499
       height: 305
     soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 81a74105-74e5-4613-a68b-d1fc7477b047
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: 
+    backgroundSpr: {fileID: 21300000, guid: 37b06ef0af9c7a74f83083a5743c0f2e, type: 3}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: -128
+      y: 3567
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 12047d1a-be50-4845-8a94-ca390fb6fc0f
+    characterSpr: {fileID: 0}
+    characterName: a estos caballeros no les gusta como los miras.
+    dialogueText: 
+    backgroundSpr: {fileID: 21300000, guid: e648588540931df46aae53b5bd65946e, type: 3}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 41
+      y: 5222
+      width: 499
+      height: 305
+    soundEffect: {fileID: 8300000, guid: 466429ddc945d6b44acc91cd8bf86fd3, type: 3}
     backgroundMusic: {fileID: 0}

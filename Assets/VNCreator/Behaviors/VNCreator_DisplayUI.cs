@@ -78,7 +78,6 @@ namespace VNCreator
             if (nodesIn == 6)
             {
                 DisableButtonTwo();
-
             }
 
             else if (nodesIn == 17 && titleImage != null)
@@ -87,15 +86,20 @@ namespace VNCreator
                 Destroy(titleImage, 5.0f);
                 
             }
-            else if (nodesIn == 23)
+            else if (nodesIn == 22)
             {
                 handAnimator.SetTrigger("Appear");
                 
             }
-            else if (nodesIn == 24)
+            else if (nodesIn == 23)
             {
                 handAnimator.SetBool("Shake", true);
             }
+            else if (nodesIn == 26)
+            {
+                handAnimator.SetBool("Shake", false);
+            }
+
             else if (nodesIn == 30 && tongue != null)
             {
                 tongue.SetActive(true);
@@ -107,7 +111,7 @@ namespace VNCreator
                 enterRoom.SetActive(true);
                 Destroy(enterRoom, 2.5f);
             }
-            else if (nodesIn == 43 && misteryGuys != null)
+            else if (nodesIn == 40 && misteryGuys != null)
             {
                 misteryGuys.SetActive(true);
                 Destroy(misteryGuys, 3f);

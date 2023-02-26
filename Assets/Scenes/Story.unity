@@ -1143,7 +1143,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 802.77, y: -1155}
+  m_AnchoredPosition: {x: 900.16, y: -1302}
   m_SizeDelta: {x: 360.3127, y: 501.1013}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &347791251
@@ -3924,6 +3924,7 @@ MonoBehaviour:
   titleImage: {fileID: 1826245281}
   tongue: {fileID: 814738021}
   enterRoom: {fileID: 1130306376}
+  misteryGuys: {fileID: 706982839}
   dialogueTextPannel: {fileID: 1207470966}
   nodesIn: 0
   handAnimator: {fileID: 347791253}
