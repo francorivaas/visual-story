@@ -40,60 +40,87 @@ MonoBehaviour:
   - guid: e3a4aeed-bce6-40b1-9086-7b8edac1384d
     targetGuid: d64012ba-66f3-4b40-a89e-624d5a718169
     portId: 8
-  - guid: 1834e475-3fcc-4fcc-bfd8-1c06e65f8308
-    targetGuid: 7c39d35b-e160-4913-b745-a4f13992e3a6
-    portId: 9
-  - guid: 7c39d35b-e160-4913-b745-a4f13992e3a6
-    targetGuid: 0fac2333-a1ef-4f43-827c-e66e51a27319
-    portId: 10
-  - guid: 90dd1e1b-dadf-44ff-a68b-5582d4e1fe64
-    targetGuid: 4db78b11-6dda-47d8-b4af-5a695f202faf
-    portId: 11
-  - guid: 16ba4c2e-85f1-41e9-9377-496fc902b6b4
-    targetGuid: 0278411e-b88a-4ccd-a16f-a2653d0bd84b
-    portId: 12
   - guid: d64012ba-66f3-4b40-a89e-624d5a718169
     targetGuid: fd5f3d37-341f-489e-8e73-1acd6857445b
-    portId: 13
+    portId: 9
   - guid: fd5f3d37-341f-489e-8e73-1acd6857445b
     targetGuid: 6c5506c5-6967-420f-b71a-115ea2aa2401
-    portId: 14
+    portId: 10
   - guid: 6c5506c5-6967-420f-b71a-115ea2aa2401
     targetGuid: 7ead771b-d82d-480c-ac46-fa4d01e768e2
-    portId: 15
+    portId: 11
   - guid: 7ead771b-d82d-480c-ac46-fa4d01e768e2
     targetGuid: 1834e475-3fcc-4fcc-bfd8-1c06e65f8308
-    portId: 16
+    portId: 12
+  - guid: 1834e475-3fcc-4fcc-bfd8-1c06e65f8308
+    targetGuid: 7c39d35b-e160-4913-b745-a4f13992e3a6
+    portId: 13
+  - guid: 7c39d35b-e160-4913-b745-a4f13992e3a6
+    targetGuid: 0fac2333-a1ef-4f43-827c-e66e51a27319
+    portId: 14
   - guid: 0fac2333-a1ef-4f43-827c-e66e51a27319
     targetGuid: 597b4a05-e8ff-48a3-8753-10a41e22470b
-    portId: 17
+    portId: 15
   - guid: 597b4a05-e8ff-48a3-8753-10a41e22470b
     targetGuid: 9e21e597-a142-46ea-9117-47420169f18b
-    portId: 18
+    portId: 16
   - guid: 9e21e597-a142-46ea-9117-47420169f18b
     targetGuid: bcd2872b-2964-46c1-af33-4cf8793b835c
-    portId: 19
+    portId: 17
   - guid: bcd2872b-2964-46c1-af33-4cf8793b835c
     targetGuid: 1d58aa0b-884e-45ed-b79f-87044560ba5a
-    portId: 20
+    portId: 18
   - guid: 1d58aa0b-884e-45ed-b79f-87044560ba5a
     targetGuid: 47961444-642b-4f2c-89a4-78b7f2fbc8d0
-    portId: 21
+    portId: 19
   - guid: 47961444-642b-4f2c-89a4-78b7f2fbc8d0
     targetGuid: 90dd1e1b-dadf-44ff-a68b-5582d4e1fe64
-    portId: 22
+    portId: 20
+  - guid: 90dd1e1b-dadf-44ff-a68b-5582d4e1fe64
+    targetGuid: 4db78b11-6dda-47d8-b4af-5a695f202faf
+    portId: 21
   - guid: 4db78b11-6dda-47d8-b4af-5a695f202faf
     targetGuid: c3080dc5-d003-4150-b0c2-87f678d5be88
-    portId: 23
+    portId: 22
   - guid: c3080dc5-d003-4150-b0c2-87f678d5be88
     targetGuid: 16ba4c2e-85f1-41e9-9377-496fc902b6b4
+    portId: 23
+  - guid: 16ba4c2e-85f1-41e9-9377-496fc902b6b4
+    targetGuid: 0278411e-b88a-4ccd-a16f-a2653d0bd84b
     portId: 24
   - guid: 0278411e-b88a-4ccd-a16f-a2653d0bd84b
     targetGuid: 81bcafd9-8c23-49f1-ba23-496bd26ca348
     portId: 25
   - guid: 81bcafd9-8c23-49f1-ba23-496bd26ca348
-    targetGuid: e540404a-4265-44a0-a570-d558f0696971
+    targetGuid: 6573fbea-7db9-4f1c-ad93-a0d3572e712f
     portId: 26
+  - guid: 6573fbea-7db9-4f1c-ad93-a0d3572e712f
+    targetGuid: b139ab96-e8b3-421d-a774-4b6378707b7f
+    portId: 27
+  - guid: b139ab96-e8b3-421d-a774-4b6378707b7f
+    targetGuid: 9110f99a-7c43-4fa8-bd1f-79389149b235
+    portId: 28
+  - guid: 9110f99a-7c43-4fa8-bd1f-79389149b235
+    targetGuid: 975a4d19-13eb-4fab-ba9e-5de51949adc2
+    portId: 29
+  - guid: 975a4d19-13eb-4fab-ba9e-5de51949adc2
+    targetGuid: 5abbc995-aa75-47cb-ac35-02247364ed9b
+    portId: 30
+  - guid: 5abbc995-aa75-47cb-ac35-02247364ed9b
+    targetGuid: 90cf171e-cc80-42b7-80f5-3fac6c27ecdf
+    portId: 31
+  - guid: 90cf171e-cc80-42b7-80f5-3fac6c27ecdf
+    targetGuid: 1c632cdb-b49a-41ee-a31e-606dbb56ae44
+    portId: 32
+  - guid: 1c632cdb-b49a-41ee-a31e-606dbb56ae44
+    targetGuid: 6f3b488c-be4a-47c1-818d-829dc26005a2
+    portId: 33
+  - guid: 6f3b488c-be4a-47c1-818d-829dc26005a2
+    targetGuid: 0b0bbc4d-af22-4957-b787-73229ecb86b9
+    portId: 34
+  - guid: 0b0bbc4d-af22-4957-b787-73229ecb86b9
+    targetGuid: 26dadf20-6e97-488a-b9ee-7f8e0e2c1d72
+    portId: 35
   nodes:
   - guid: 47278b30-779b-42b5-a520-0cc3e03a8a2e
     characterSpr: {fileID: 0}
@@ -548,8 +575,8 @@ MonoBehaviour:
     backgroundMusic: {fileID: 0}
   - guid: 81bcafd9-8c23-49f1-ba23-496bd26ca348
     characterSpr: {fileID: 0}
-    characterName: 
-    dialogueText: Las drogas habian hecho efecto ya.
+    characterName: Las drogas habian hecho efecto ya.
+    dialogueText: 
     backgroundSpr: {fileID: 0}
     startNode: 0
     endNode: 0
@@ -564,10 +591,10 @@ MonoBehaviour:
       height: 305
     soundEffect: {fileID: 0}
     backgroundMusic: {fileID: 0}
-  - guid: e540404a-4265-44a0-a570-d558f0696971
+  - guid: 6573fbea-7db9-4f1c-ad93-a0d3572e712f
     characterSpr: {fileID: 0}
-    characterName: 
-    dialogueText: "\xBFlo recuerdas?"
+    characterName: Vibraban.
+    dialogueText: 
     backgroundSpr: {fileID: 0}
     startNode: 0
     endNode: 0
@@ -578,6 +605,168 @@ MonoBehaviour:
       serializedVersion: 2
       x: -254
       y: 1533
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: b139ab96-e8b3-421d-a774-4b6378707b7f
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "\xBFAsi que eso fue? una sobredosis."
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: -1252
+      y: 1874
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 9110f99a-7c43-4fa8-bd1f-79389149b235
+    characterSpr: {fileID: 0}
+    characterName: No. No fueron las drogas.
+    dialogueText: 
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: -744
+      y: 1874
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 975a4d19-13eb-4fab-ba9e-5de51949adc2
+    characterSpr: {fileID: 0}
+    characterName: Las pastillas sabian a oro, si.
+    dialogueText: 
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: -245
+      y: 1874
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 5abbc995-aa75-47cb-ac35-02247364ed9b
+    characterSpr: {fileID: 0}
+    characterName: Pero sucedieron mas cosas
+    dialogueText: 
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: -1214
+      y: 2196
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 90cf171e-cc80-42b7-80f5-3fac6c27ecdf
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "\xBFLogre cruzar la puerta?"
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: -715
+      y: 2196
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 1c632cdb-b49a-41ee-a31e-606dbb56ae44
+    characterSpr: {fileID: 0}
+    characterName: Bien. Esa es una de las preguntas correctas.
+    dialogueText: 
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: -216
+      y: 2196
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 6f3b488c-be4a-47c1-818d-829dc26005a2
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: 
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: -1193
+      y: 2529
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 0b0bbc4d-af22-4957-b787-73229ecb86b9
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: 
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: -694
+      y: 2529
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 26dadf20-6e97-488a-b9ee-7f8e0e2c1d72
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: 
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: -195
+      y: 2529
       width: 499
       height: 305
     soundEffect: {fileID: 0}

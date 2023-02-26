@@ -36,6 +36,7 @@ namespace VNCreator
         [Header("My settings")]
         [SerializeField] private GameObject titleImage;
         [SerializeField] private GameObject tongue;
+        [SerializeField] private GameObject enterRoom;
 
         [SerializeField] private GameObject dialogueTextPannel;
         [SerializeField] private int nodesIn = 0;
@@ -67,7 +68,6 @@ namespace VNCreator
 
         private void DisableButtonTwo()
         {
-            print("pija");
             choiceBtn2.enabled = false;
             choiceBtn2.gameObject.SetActive(false);
         }
@@ -95,11 +95,16 @@ namespace VNCreator
             {
                 handAnimator.SetBool("Shake", true);
             }
-            else if (nodesIn == 25 && tongue != null)
+            else if (nodesIn == 30 && tongue != null)
             {
                 tongue.SetActive(true);
-                tongue.GetComponent<Animator>().SetTrigger("Activate");
                 Destroy(tongue, 2.0f);
+            }
+
+            else if (nodesIn == 33 && enterRoom != null)
+            {
+                enterRoom.SetActive(true);
+                Destroy(enterRoom, 2.5f);
             }
         }
 
