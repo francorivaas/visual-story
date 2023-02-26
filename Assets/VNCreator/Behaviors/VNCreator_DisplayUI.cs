@@ -37,6 +37,7 @@ namespace VNCreator
         [SerializeField] private GameObject titleImage;
         [SerializeField] private GameObject tongue;
         [SerializeField] private GameObject enterRoom;
+        [SerializeField] private GameObject misteryGuys;
 
         [SerializeField] private GameObject dialogueTextPannel;
         [SerializeField] private int nodesIn = 0;
@@ -105,6 +106,11 @@ namespace VNCreator
             {
                 enterRoom.SetActive(true);
                 Destroy(enterRoom, 2.5f);
+            }
+            else if (nodesIn == 43 && misteryGuys != null)
+            {
+                misteryGuys.SetActive(true);
+                Destroy(misteryGuys, 3f);
             }
         }
 
