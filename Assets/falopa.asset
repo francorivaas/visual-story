@@ -182,96 +182,6 @@ MonoBehaviour:
       height: 305
     soundEffect: {fileID: 0}
     backgroundMusic: {fileID: 0}
-  - guid: 1d58aa0b-884e-45ed-b79f-87044560ba5a
-    characterSpr: {fileID: 0}
-    characterName: 
-    dialogueText: "Puede que si, \xBFque importa?"
-    backgroundSpr: {fileID: 0}
-    startNode: 0
-    endNode: 0
-    choices: 1
-    choiceOptions:
-    - 
-    nodePosition:
-      serializedVersion: 2
-      x: 318
-      y: 516
-      width: 499
-      height: 305
-    soundEffect: {fileID: 0}
-    backgroundMusic: {fileID: 0}
-  - guid: 47961444-642b-4f2c-89a4-78b7f2fbc8d0
-    characterSpr: {fileID: 0}
-    characterName: 
-    dialogueText: "\xBFAcaso no recuerdas las luces?"
-    backgroundSpr: {fileID: 0}
-    startNode: 0
-    endNode: 0
-    choices: 1
-    choiceOptions:
-    - 
-    nodePosition:
-      serializedVersion: 2
-      x: -680
-      y: 821
-      width: 499
-      height: 305
-    soundEffect: {fileID: 0}
-    backgroundMusic: {fileID: 0}
-  - guid: 90dd1e1b-dadf-44ff-a68b-5582d4e1fe64
-    characterSpr: {fileID: 0}
-    characterName: 
-    dialogueText: Ah si, luces.
-    backgroundSpr: {fileID: 21300000, guid: 7b00c190c42cd5148a5aebe2924588ba, type: 3}
-    startNode: 0
-    endNode: 0
-    choices: 1
-    choiceOptions:
-    - 
-    nodePosition:
-      serializedVersion: 2
-      x: -181
-      y: 821
-      width: 499
-      height: 305
-    soundEffect: {fileID: 0}
-    backgroundMusic: {fileID: 0}
-  - guid: c3080dc5-d003-4150-b0c2-87f678d5be88
-    characterSpr: {fileID: 0}
-    characterName: 
-    dialogueText: "\xBFRecuerdas tus manos?"
-    backgroundSpr: {fileID: 0}
-    startNode: 0
-    endNode: 0
-    choices: 1
-    choiceOptions:
-    - 
-    nodePosition:
-      serializedVersion: 2
-      x: -680
-      y: 1126
-      width: 499
-      height: 305
-    soundEffect: {fileID: 0}
-    backgroundMusic: {fileID: 0}
-  - guid: 4db78b11-6dda-47d8-b4af-5a695f202faf
-    characterSpr: {fileID: 0}
-    characterName: 
-    dialogueText: Empecemos con tu puto cuerpo.
-    backgroundSpr: {fileID: 0}
-    startNode: 0
-    endNode: 0
-    choices: 1
-    choiceOptions:
-    - 
-    nodePosition:
-      serializedVersion: 2
-      x: 318
-      y: 821
-      width: 499
-      height: 305
-    soundEffect: {fileID: 0}
-    backgroundMusic: {fileID: 0}
   - guid: 2e178f53-37af-4c73-84ba-fa5eb2e2d35e
     characterSpr: {fileID: 0}
     characterName: 
@@ -290,28 +200,29 @@ MonoBehaviour:
       height: 305
     soundEffect: {fileID: 0}
     backgroundMusic: {fileID: 0}
-  - guid: 16ba4c2e-85f1-41e9-9377-496fc902b6b4
+  - guid: 37f82c64-3756-494d-9193-cee1f357f95c
     characterSpr: {fileID: 0}
     characterName: 
-    dialogueText: Claro que recuerdo mis putas manos.
+    dialogueText: 
     backgroundSpr: {fileID: 0}
     startNode: 0
     endNode: 0
-    choices: 1
+    choices: 2
     choiceOptions:
+    - "\xBFSeguro?"
     - 
     nodePosition:
       serializedVersion: 2
-      x: -82
-      y: 1191
+      x: -680
+      y: 516
       width: 499
-      height: 305
+      height: 369
     soundEffect: {fileID: 0}
     backgroundMusic: {fileID: 0}
-  - guid: 0278411e-b88a-4ccd-a16f-a2653d0bd84b
+  - guid: e3a4aeed-bce6-40b1-9086-7b8edac1384d
     characterSpr: {fileID: 0}
     characterName: 
-    dialogueText: Recuerdas lo espantosas que se veian?
+    dialogueText: "\xBFEh? \xBFy tu quien mierda eres?"
     backgroundSpr: {fileID: 0}
     startNode: 0
     endNode: 0
@@ -320,8 +231,8 @@ MonoBehaviour:
     - 
     nodePosition:
       serializedVersion: 2
-      x: 651
-      y: 1237
+      x: -181
+      y: 516
       width: 499
       height: 305
     soundEffect: {fileID: 0}
@@ -338,26 +249,8 @@ MonoBehaviour:
     - 
     nodePosition:
       serializedVersion: 2
-      x: 1914
-      y: 254
-      width: 499
-      height: 305
-    soundEffect: {fileID: 0}
-    backgroundMusic: {fileID: 0}
-  - guid: e3a4aeed-bce6-40b1-9086-7b8edac1384d
-    characterSpr: {fileID: 0}
-    characterName: 
-    dialogueText: "\xBFEh? \xBFy tu quien mierda eres?"
-    backgroundSpr: {fileID: 0}
-    startNode: 0
-    endNode: 0
-    choices: 1
-    choiceOptions:
-    - 
-    nodePosition:
-      serializedVersion: 2
-      x: 1377
-      y: 211
+      x: 318
+      y: 516
       width: 499
       height: 305
     soundEffect: {fileID: 0}
@@ -374,8 +267,8 @@ MonoBehaviour:
     - 
     nodePosition:
       serializedVersion: 2
-      x: 2413
-      y: 254
+      x: -680
+      y: 885
       width: 499
       height: 305
     soundEffect: {fileID: 0}
@@ -392,8 +285,8 @@ MonoBehaviour:
     - 
     nodePosition:
       serializedVersion: 2
-      x: 2912
-      y: 254
+      x: -181
+      y: 821
       width: 499
       height: 305
     soundEffect: {fileID: 0}
@@ -410,8 +303,8 @@ MonoBehaviour:
     - 
     nodePosition:
       serializedVersion: 2
-      x: 3456
-      y: 312
+      x: 318
+      y: 821
       width: 499
       height: 305
     soundEffect: {fileID: 0}
@@ -428,29 +321,10 @@ MonoBehaviour:
     - 
     nodePosition:
       serializedVersion: 2
-      x: 4028
-      y: 370
+      x: -680
+      y: 1190
       width: 499
       height: 305
-    soundEffect: {fileID: 0}
-    backgroundMusic: {fileID: 0}
-  - guid: 37f82c64-3756-494d-9193-cee1f357f95c
-    characterSpr: {fileID: 0}
-    characterName: 
-    dialogueText: 
-    backgroundSpr: {fileID: 0}
-    startNode: 0
-    endNode: 0
-    choices: 2
-    choiceOptions:
-    - "\xBFSeguro?"
-    - 
-    nodePosition:
-      serializedVersion: 2
-      x: 855
-      y: 211
-      width: 499
-      height: 369
     soundEffect: {fileID: 0}
     backgroundMusic: {fileID: 0}
   - guid: 0fac2333-a1ef-4f43-827c-e66e51a27319
@@ -465,8 +339,8 @@ MonoBehaviour:
     - 
     nodePosition:
       serializedVersion: 2
-      x: 4527
-      y: 370
+      x: -181
+      y: 1190
       width: 499
       height: 305
     soundEffect: {fileID: 0}
@@ -483,26 +357,8 @@ MonoBehaviour:
     - 
     nodePosition:
       serializedVersion: 2
-      x: 5026
-      y: 380
-      width: 499
-      height: 305
-    soundEffect: {fileID: 0}
-    backgroundMusic: {fileID: 0}
-  - guid: 9e21e597-a142-46ea-9117-47420169f18b
-    characterSpr: {fileID: 0}
-    characterName: 
-    dialogueText: Ahora veamos como fue que moriste.
-    backgroundSpr: {fileID: 0}
-    startNode: 0
-    endNode: 0
-    choices: 1
-    choiceOptions:
-    - 
-    nodePosition:
-      serializedVersion: 2
-      x: 5525
-      y: 380
+      x: 318
+      y: 1200
       width: 499
       height: 305
     soundEffect: {fileID: 0}
@@ -520,11 +376,155 @@ MonoBehaviour:
     nodePosition:
       serializedVersion: 2
       x: -181
-      y: 516
+      y: 1505
       width: 499
       height: 305
     soundEffect: {fileID: 0}
     backgroundMusic: {fileID: 8300000, guid: 8feb83380bc34254fb7a45cd1dace7db, type: 3}
+  - guid: 1d58aa0b-884e-45ed-b79f-87044560ba5a
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "Puede que si, \xBFque importa?"
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 318
+      y: 1495
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 9e21e597-a142-46ea-9117-47420169f18b
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: Ahora veamos como fue que moriste.
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: -680
+      y: 1505
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 47961444-642b-4f2c-89a4-78b7f2fbc8d0
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "\xBFAcaso no recuerdas las luces?"
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: -680
+      y: 1810
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 90dd1e1b-dadf-44ff-a68b-5582d4e1fe64
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: Ah si, luces.
+    backgroundSpr: {fileID: 21300000, guid: 7b00c190c42cd5148a5aebe2924588ba, type: 3}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: -181
+      y: 1810
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 4db78b11-6dda-47d8-b4af-5a695f202faf
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: Empecemos con tu puto cuerpo.
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 318
+      y: 1810
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: c3080dc5-d003-4150-b0c2-87f678d5be88
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "\xBFRecuerdas tus manos?"
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: -680
+      y: 2115
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 16ba4c2e-85f1-41e9-9377-496fc902b6b4
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: Claro que recuerdo mis putas manos.
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: -181
+      y: 2115
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 0278411e-b88a-4ccd-a16f-a2653d0bd84b
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: Recuerdas lo espantosas que se veian?
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 318
+      y: 2115
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
   - guid: 81bcafd9-8c23-49f1-ba23-496bd26ca348
     characterSpr: {fileID: 0}
     characterName: 
@@ -537,8 +537,8 @@ MonoBehaviour:
     - 
     nodePosition:
       serializedVersion: 2
-      x: 1247
-      y: 1330
+      x: -680
+      y: 2420
       width: 499
       height: 305
     soundEffect: {fileID: 0}
@@ -555,8 +555,8 @@ MonoBehaviour:
     - 
     nodePosition:
       serializedVersion: 2
-      x: 1746
-      y: 1330
+      x: -181
+      y: 2420
       width: 499
       height: 305
     soundEffect: {fileID: 0}
