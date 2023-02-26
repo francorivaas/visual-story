@@ -121,6 +121,21 @@ MonoBehaviour:
   - guid: 0b0bbc4d-af22-4957-b787-73229ecb86b9
     targetGuid: 26dadf20-6e97-488a-b9ee-7f8e0e2c1d72
     portId: 35
+  - guid: 26dadf20-6e97-488a-b9ee-7f8e0e2c1d72
+    targetGuid: b4b8adc5-9826-4a71-9c64-a80a91e7c18a
+    portId: 36
+  - guid: b4b8adc5-9826-4a71-9c64-a80a91e7c18a
+    targetGuid: 8f76c8c7-0fda-4a4d-8f84-2ecbe8962533
+    portId: 37
+  - guid: 8f76c8c7-0fda-4a4d-8f84-2ecbe8962533
+    targetGuid: 998f9fb1-a6ac-4b50-b6df-e773b5106f14
+    portId: 38
+  - guid: 998f9fb1-a6ac-4b50-b6df-e773b5106f14
+    targetGuid: 5a899bba-209f-476a-834b-489c476c1a10
+    portId: 39
+  - guid: 5a899bba-209f-476a-834b-489c476c1a10
+    targetGuid: e6848b45-07f6-407f-9b44-7864c5a6109e
+    portId: 40
   nodes:
   - guid: 47278b30-779b-42b5-a520-0cc3e03a8a2e
     characterSpr: {fileID: 0}
@@ -737,9 +752,9 @@ MonoBehaviour:
     backgroundMusic: {fileID: 0}
   - guid: 0b0bbc4d-af22-4957-b787-73229ecb86b9
     characterSpr: {fileID: 0}
-    characterName: 
+    characterName: Ya estabas dentro
     dialogueText: 
-    backgroundSpr: {fileID: 0}
+    backgroundSpr: {fileID: 21300000, guid: 7b32e3ad3b8fd4f40bc3826b4bf8eed4, type: 3}
     startNode: 0
     endNode: 0
     choices: 1
@@ -756,7 +771,7 @@ MonoBehaviour:
   - guid: 26dadf20-6e97-488a-b9ee-7f8e0e2c1d72
     characterSpr: {fileID: 0}
     characterName: 
-    dialogueText: 
+    dialogueText: "\xBFY esos quienes son?"
     backgroundSpr: {fileID: 0}
     startNode: 0
     endNode: 0
@@ -767,6 +782,96 @@ MonoBehaviour:
       serializedVersion: 2
       x: -195
       y: 2529
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: b4b8adc5-9826-4a71-9c64-a80a91e7c18a
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "\xBFEsa es otra de las preguntas?"
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: -1168
+      y: 2854
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 8f76c8c7-0fda-4a4d-8f84-2ecbe8962533
+    characterSpr: {fileID: 0}
+    characterName: "No lo s\xE9."
+    dialogueText: 
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: -669
+      y: 2854
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 998f9fb1-a6ac-4b50-b6df-e773b5106f14
+    characterSpr: {fileID: 0}
+    characterName: Pero vale la pena preguntar
+    dialogueText: 
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: -170
+      y: 2854
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 5a899bba-209f-476a-834b-489c476c1a10
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: 
+    backgroundSpr: {fileID: 21300000, guid: ea9ba2a9286b8a147967f63d5af0c6b9, type: 3}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: -1140
+      y: 3197
+      width: 499
+      height: 305
+    soundEffect: {fileID: 8300000, guid: fd1c407327739da4bbf517ef6645f5c9, type: 3}
+    backgroundMusic: {fileID: 8300000, guid: f667060fa7629724485b47da5089373f, type: 3}
+  - guid: e6848b45-07f6-407f-9b44-7864c5a6109e
+    characterSpr: {fileID: 0}
+    characterName: "\xBFQue quieres preguntarles?"
+    dialogueText: 
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: -641
+      y: 3197
       width: 499
       height: 305
     soundEffect: {fileID: 0}
