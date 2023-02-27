@@ -124,7 +124,7 @@ namespace VNCreator
             else if (nodesIn == 59 && quePasaCuando != null)
             {
                 quePasaCuando.SetActive(true);
-                Destroy(quePasaCuando, 7f);
+                Destroy(quePasaCuando, 12.2f);
             }
         }
 
