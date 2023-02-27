@@ -40,7 +40,7 @@ namespace VNCreator
         [SerializeField] private GameObject misteryGuys;
         [SerializeField] private GameObject quePasaCuando;
         [SerializeField] private GameObject dialogueTextPannel;
-        [SerializeField] private GameObject hand;
+        [SerializeField] private Animator hand;
 
         [Header("Nodes amount")]
         [SerializeField] private int nodesIn = 0;
@@ -90,16 +90,17 @@ namespace VNCreator
             }
             else if (nodesIn == 22 && hand != null)
             {
-                hand.GetComponent<Animator>().SetTrigger("Appear");
-                
+                hand.SetTrigger("Appear");
             }
+
             else if (nodesIn == 23 && hand != null)
             {
-                hand.GetComponent<Animator>().SetBool("Shake", true);
+                hand.SetBool("Shake", true);
             }
+
             else if (nodesIn == 26 && hand != null)
             {
-                hand.GetComponent<Animator>().SetBool("Shake", false);
+                hand.SetBool("Shake", false);
             }
 
             else if (nodesIn == 30 && tongue != null)
