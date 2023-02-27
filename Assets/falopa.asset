@@ -106,47 +106,47 @@ MonoBehaviour:
   - guid: 1c632cdb-b49a-41ee-a31e-606dbb56ae44
     targetGuid: 0b0bbc4d-af22-4957-b787-73229ecb86b9
     portId: 30
-  - guid: 26dadf20-6e97-488a-b9ee-7f8e0e2c1d72
-    targetGuid: b4b8adc5-9826-4a71-9c64-a80a91e7c18a
-    portId: 31
-  - guid: b4b8adc5-9826-4a71-9c64-a80a91e7c18a
-    targetGuid: 8f76c8c7-0fda-4a4d-8f84-2ecbe8962533
-    portId: 32
-  - guid: 8f76c8c7-0fda-4a4d-8f84-2ecbe8962533
-    targetGuid: 998f9fb1-a6ac-4b50-b6df-e773b5106f14
-    portId: 33
-  - guid: 998f9fb1-a6ac-4b50-b6df-e773b5106f14
-    targetGuid: 5a899bba-209f-476a-834b-489c476c1a10
-    portId: 34
-  - guid: 5a899bba-209f-476a-834b-489c476c1a10
-    targetGuid: e6848b45-07f6-407f-9b44-7864c5a6109e
-    portId: 35
   - guid: 47278b30-779b-42b5-a520-0cc3e03a8a2e
     targetGuid: 783da081-fadb-4b65-b316-17ffa60f4c9b
-    portId: 36
+    portId: 31
   - guid: 783da081-fadb-4b65-b316-17ffa60f4c9b
     targetGuid: 10e56a7f-94a4-48eb-8dd2-97af42a2db50
-    portId: 37
+    portId: 32
   - guid: 10e56a7f-94a4-48eb-8dd2-97af42a2db50
     targetGuid: b80a412b-02db-4226-b1ad-38963c72697f
-    portId: 38
-  - guid: 6bc5a152-b617-47ca-90ee-306bde12f734
-    targetGuid: 93c4e1d7-d359-4a90-a0da-0a3c8cd007d7
-    portId: 39
-  - guid: 6bc5a152-b617-47ca-90ee-306bde12f734
-    targetGuid: 93c4e1d7-d359-4a90-a0da-0a3c8cd007d7
-    portId: 40
-  - guid: 93c4e1d7-d359-4a90-a0da-0a3c8cd007d7
-    targetGuid: f18e2171-a103-4f85-95ab-56e6d392caad
-    portId: 41
-  - guid: e6848b45-07f6-407f-9b44-7864c5a6109e
-    targetGuid: 6bc5a152-b617-47ca-90ee-306bde12f734
-    portId: 42
-  - guid: f18e2171-a103-4f85-95ab-56e6d392caad
-    targetGuid: 81a74105-74e5-4613-a68b-d1fc7477b047
-    portId: 43
+    portId: 33
   - guid: 0b0bbc4d-af22-4957-b787-73229ecb86b9
     targetGuid: 26dadf20-6e97-488a-b9ee-7f8e0e2c1d72
+    portId: 34
+  - guid: 26dadf20-6e97-488a-b9ee-7f8e0e2c1d72
+    targetGuid: b4b8adc5-9826-4a71-9c64-a80a91e7c18a
+    portId: 35
+  - guid: b4b8adc5-9826-4a71-9c64-a80a91e7c18a
+    targetGuid: 8f76c8c7-0fda-4a4d-8f84-2ecbe8962533
+    portId: 36
+  - guid: 8f76c8c7-0fda-4a4d-8f84-2ecbe8962533
+    targetGuid: 998f9fb1-a6ac-4b50-b6df-e773b5106f14
+    portId: 37
+  - guid: 998f9fb1-a6ac-4b50-b6df-e773b5106f14
+    targetGuid: 5a899bba-209f-476a-834b-489c476c1a10
+    portId: 38
+  - guid: 5a899bba-209f-476a-834b-489c476c1a10
+    targetGuid: e6848b45-07f6-407f-9b44-7864c5a6109e
+    portId: 39
+  - guid: e6848b45-07f6-407f-9b44-7864c5a6109e
+    targetGuid: 6bc5a152-b617-47ca-90ee-306bde12f734
+    portId: 40
+  - guid: 6bc5a152-b617-47ca-90ee-306bde12f734
+    targetGuid: 93c4e1d7-d359-4a90-a0da-0a3c8cd007d7
+    portId: 41
+  - guid: 6bc5a152-b617-47ca-90ee-306bde12f734
+    targetGuid: 93c4e1d7-d359-4a90-a0da-0a3c8cd007d7
+    portId: 42
+  - guid: 93c4e1d7-d359-4a90-a0da-0a3c8cd007d7
+    targetGuid: f18e2171-a103-4f85-95ab-56e6d392caad
+    portId: 43
+  - guid: f18e2171-a103-4f85-95ab-56e6d392caad
+    targetGuid: 81a74105-74e5-4613-a68b-d1fc7477b047
     portId: 44
   - guid: 81a74105-74e5-4613-a68b-d1fc7477b047
     targetGuid: 38ab0e15-0104-4600-ba10-914fc70e6935
@@ -181,18 +181,27 @@ MonoBehaviour:
   - guid: 6e68225e-31df-4a2b-981e-05efd5435646
     targetGuid: 4816b0c9-5d75-4cf7-a9bd-c2175568b737
     portId: 55
-  - guid: a2e3b926-0e86-4de6-bfb2-d952c9fb84d7
-    targetGuid: f7c84c8b-5a26-446a-8174-a69afcf0a0b6
-    portId: 56
-  - guid: f7c84c8b-5a26-446a-8174-a69afcf0a0b6
-    targetGuid: 0013afa0-3a2f-455e-af77-9a6a33680f03
-    portId: 57
-  - guid: 0013afa0-3a2f-455e-af77-9a6a33680f03
-    targetGuid: 12047d1a-be50-4845-8a94-ca390fb6fc0f
-    portId: 58
   - guid: 4816b0c9-5d75-4cf7-a9bd-c2175568b737
     targetGuid: a2e3b926-0e86-4de6-bfb2-d952c9fb84d7
+    portId: 56
+  - guid: a2e3b926-0e86-4de6-bfb2-d952c9fb84d7
+    targetGuid: f7c84c8b-5a26-446a-8174-a69afcf0a0b6
+    portId: 57
+  - guid: f7c84c8b-5a26-446a-8174-a69afcf0a0b6
+    targetGuid: 0013afa0-3a2f-455e-af77-9a6a33680f03
+    portId: 58
+  - guid: 0013afa0-3a2f-455e-af77-9a6a33680f03
+    targetGuid: 12047d1a-be50-4845-8a94-ca390fb6fc0f
     portId: 59
+  - guid: 12047d1a-be50-4845-8a94-ca390fb6fc0f
+    targetGuid: d78bc0ec-0285-4663-a310-7ff8be22909b
+    portId: 60
+  - guid: d78bc0ec-0285-4663-a310-7ff8be22909b
+    targetGuid: 7cf66171-b67f-415a-9c89-383f68a651c4
+    portId: 61
+  - guid: 7cf66171-b67f-415a-9c89-383f68a651c4
+    targetGuid: 2de658c1-5cf1-4e67-9495-8a5c820b500a
+    portId: 62
   nodes:
   - guid: b80a412b-02db-4226-b1ad-38963c72697f
     characterSpr: {fileID: 0}
@@ -265,24 +274,6 @@ MonoBehaviour:
       y: -502
       width: 499
       height: 369
-    soundEffect: {fileID: 0}
-    backgroundMusic: {fileID: 0}
-  - guid: e3a4aeed-bce6-40b1-9086-7b8edac1384d
-    characterSpr: {fileID: 0}
-    characterName: 
-    dialogueText: "\xBFEh? \xBFy tu quien mierda eres?"
-    backgroundSpr: {fileID: 0}
-    startNode: 0
-    endNode: 0
-    choices: 1
-    choiceOptions:
-    - 
-    nodePosition:
-      serializedVersion: 2
-      x: -920
-      y: -502
-      width: 499
-      height: 305
     soundEffect: {fileID: 0}
     backgroundMusic: {fileID: 0}
   - guid: d64012ba-66f3-4b40-a89e-624d5a718169
@@ -375,42 +366,6 @@ MonoBehaviour:
       height: 305
     soundEffect: {fileID: 0}
     backgroundMusic: {fileID: 0}
-  - guid: 7c39d35b-e160-4913-b745-a4f13992e3a6
-    characterSpr: {fileID: 0}
-    characterName: 
-    dialogueText: Bueno... quiza si recuerde algo.
-    backgroundSpr: {fileID: 0}
-    startNode: 0
-    endNode: 0
-    choices: 1
-    choiceOptions:
-    - 
-    nodePosition:
-      serializedVersion: 2
-      x: -881
-      y: 223
-      width: 499
-      height: 305
-    soundEffect: {fileID: 0}
-    backgroundMusic: {fileID: 0}
-  - guid: 0fac2333-a1ef-4f43-827c-e66e51a27319
-    characterSpr: {fileID: 0}
-    characterName: Bien dicho querido.
-    dialogueText: 
-    backgroundSpr: {fileID: 0}
-    startNode: 0
-    endNode: 0
-    choices: 1
-    choiceOptions:
-    - 
-    nodePosition:
-      serializedVersion: 2
-      x: -363
-      y: 223
-      width: 499
-      height: 305
-    soundEffect: {fileID: 0}
-    backgroundMusic: {fileID: 0}
   - guid: 597b4a05-e8ff-48a3-8753-10a41e22470b
     characterSpr: {fileID: 0}
     characterName: Vamos progresando.
@@ -424,24 +379,6 @@ MonoBehaviour:
     nodePosition:
       serializedVersion: 2
       x: -1428
-      y: 528
-      width: 499
-      height: 305
-    soundEffect: {fileID: 0}
-    backgroundMusic: {fileID: 0}
-  - guid: 9e21e597-a142-46ea-9117-47420169f18b
-    characterSpr: {fileID: 0}
-    characterName: Ahora veamos como fue que moriste.
-    dialogueText: 
-    backgroundSpr: {fileID: 0}
-    startNode: 0
-    endNode: 0
-    choices: 1
-    choiceOptions:
-    - 
-    nodePosition:
-      serializedVersion: 2
-      x: -881
       y: 528
       width: 499
       height: 305
@@ -478,24 +415,6 @@ MonoBehaviour:
     nodePosition:
       serializedVersion: 2
       x: -1380
-      y: 868
-      width: 499
-      height: 305
-    soundEffect: {fileID: 0}
-    backgroundMusic: {fileID: 0}
-  - guid: 47961444-642b-4f2c-89a4-78b7f2fbc8d0
-    characterSpr: {fileID: 0}
-    characterName: "\xBFAcaso no recuerdas las luces?"
-    dialogueText: 
-    backgroundSpr: {fileID: 0}
-    startNode: 0
-    endNode: 0
-    choices: 1
-    choiceOptions:
-    - 
-    nodePosition:
-      serializedVersion: 2
-      x: -862
       y: 868
       width: 499
       height: 305
@@ -627,24 +546,6 @@ MonoBehaviour:
       height: 305
     soundEffect: {fileID: 0}
     backgroundMusic: {fileID: 0}
-  - guid: b139ab96-e8b3-421d-a774-4b6378707b7f
-    characterSpr: {fileID: 0}
-    characterName: 
-    dialogueText: "\xBFAsi que eso fue? una sobredosis."
-    backgroundSpr: {fileID: 0}
-    startNode: 0
-    endNode: 0
-    choices: 1
-    choiceOptions:
-    - 
-    nodePosition:
-      serializedVersion: 2
-      x: -1252
-      y: 1874
-      width: 499
-      height: 305
-    soundEffect: {fileID: 0}
-    backgroundMusic: {fileID: 0}
   - guid: 9110f99a-7c43-4fa8-bd1f-79389149b235
     characterSpr: {fileID: 0}
     characterName: No. No fueron las drogas.
@@ -658,24 +559,6 @@ MonoBehaviour:
     nodePosition:
       serializedVersion: 2
       x: -744
-      y: 1874
-      width: 499
-      height: 305
-    soundEffect: {fileID: 0}
-    backgroundMusic: {fileID: 0}
-  - guid: 975a4d19-13eb-4fab-ba9e-5de51949adc2
-    characterSpr: {fileID: 0}
-    characterName: Las pastillas sabian a oro, si.
-    dialogueText: 
-    backgroundSpr: {fileID: 0}
-    startNode: 0
-    endNode: 0
-    choices: 1
-    choiceOptions:
-    - 
-    nodePosition:
-      serializedVersion: 2
-      x: -245
       y: 1874
       width: 499
       height: 305
@@ -735,78 +618,6 @@ MonoBehaviour:
       height: 305
     soundEffect: {fileID: 0}
     backgroundMusic: {fileID: 0}
-  - guid: 26dadf20-6e97-488a-b9ee-7f8e0e2c1d72
-    characterSpr: {fileID: 0}
-    characterName: 
-    dialogueText: "\xBFY esos quienes son?"
-    backgroundSpr: {fileID: 0}
-    startNode: 0
-    endNode: 0
-    choices: 1
-    choiceOptions:
-    - 
-    nodePosition:
-      serializedVersion: 2
-      x: -195
-      y: 2529
-      width: 499
-      height: 305
-    soundEffect: {fileID: 0}
-    backgroundMusic: {fileID: 0}
-  - guid: b4b8adc5-9826-4a71-9c64-a80a91e7c18a
-    characterSpr: {fileID: 0}
-    characterName: 
-    dialogueText: "\xBFEsa es otra de las preguntas?"
-    backgroundSpr: {fileID: 0}
-    startNode: 0
-    endNode: 0
-    choices: 1
-    choiceOptions:
-    - 
-    nodePosition:
-      serializedVersion: 2
-      x: -1168
-      y: 2854
-      width: 499
-      height: 305
-    soundEffect: {fileID: 0}
-    backgroundMusic: {fileID: 0}
-  - guid: 8f76c8c7-0fda-4a4d-8f84-2ecbe8962533
-    characterSpr: {fileID: 0}
-    characterName: "No lo s\xE9."
-    dialogueText: 
-    backgroundSpr: {fileID: 0}
-    startNode: 0
-    endNode: 0
-    choices: 1
-    choiceOptions:
-    - 
-    nodePosition:
-      serializedVersion: 2
-      x: -669
-      y: 2854
-      width: 499
-      height: 305
-    soundEffect: {fileID: 0}
-    backgroundMusic: {fileID: 0}
-  - guid: 998f9fb1-a6ac-4b50-b6df-e773b5106f14
-    characterSpr: {fileID: 0}
-    characterName: Pero vale la pena preguntar
-    dialogueText: 
-    backgroundSpr: {fileID: 0}
-    startNode: 0
-    endNode: 0
-    choices: 1
-    choiceOptions:
-    - 
-    nodePosition:
-      serializedVersion: 2
-      x: -170
-      y: 2854
-      width: 499
-      height: 305
-    soundEffect: {fileID: 0}
-    backgroundMusic: {fileID: 0}
   - guid: 47278b30-779b-42b5-a520-0cc3e03a8a2e
     characterSpr: {fileID: 0}
     characterName: 
@@ -861,6 +672,96 @@ MonoBehaviour:
       height: 305
     soundEffect: {fileID: 0}
     backgroundMusic: {fileID: 0}
+  - guid: 0b0bbc4d-af22-4957-b787-73229ecb86b9
+    characterSpr: {fileID: 0}
+    characterName: Ya estabas dentro
+    dialogueText: 
+    backgroundSpr: {fileID: 21300000, guid: 7b32e3ad3b8fd4f40bc3826b4bf8eed4, type: 3}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: -1168
+      y: 2529
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 26dadf20-6e97-488a-b9ee-7f8e0e2c1d72
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "\xBFY esos quienes son?"
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: -669
+      y: 2529
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: b4b8adc5-9826-4a71-9c64-a80a91e7c18a
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "\xBFEsa es otra de las preguntas?"
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: -170
+      y: 2529
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 5a899bba-209f-476a-834b-489c476c1a10
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: 
+    backgroundSpr: {fileID: 21300000, guid: 37b06ef0af9c7a74f83083a5743c0f2e, type: 3}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: -128
+      y: 2854
+      width: 499
+      height: 305
+    soundEffect: {fileID: 8300000, guid: fd1c407327739da4bbf517ef6645f5c9, type: 3}
+    backgroundMusic: {fileID: 8300000, guid: f667060fa7629724485b47da5089373f, type: 3}
+  - guid: e6848b45-07f6-407f-9b44-7864c5a6109e
+    characterSpr: {fileID: 0}
+    characterName: "\xBFQue quieres que les pregunte?"
+    dialogueText: 
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: -1104
+      y: 3159
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
   - guid: 6bc5a152-b617-47ca-90ee-306bde12f734
     characterSpr: {fileID: 0}
     characterName: 
@@ -874,8 +775,8 @@ MonoBehaviour:
     - "\xBFQscuweicse2nae1s s133on?"
     nodePosition:
       serializedVersion: 2
-      x: -101
-      y: 3198
+      x: -582
+      y: 3159
       width: 499
       height: 369
     soundEffect: {fileID: 0}
@@ -892,318 +793,12 @@ MonoBehaviour:
     - 
     nodePosition:
       serializedVersion: 2
-      x: -1140
-      y: 3567
+      x: -31
+      y: 3202
       width: 499
       height: 305
     soundEffect: {fileID: 0}
     backgroundMusic: {fileID: 0}
-  - guid: e6848b45-07f6-407f-9b44-7864c5a6109e
-    characterSpr: {fileID: 0}
-    characterName: "\xBFQue quieres que les pregunte?"
-    dialogueText: 
-    backgroundSpr: {fileID: 0}
-    startNode: 0
-    endNode: 0
-    choices: 1
-    choiceOptions:
-    - 
-    nodePosition:
-      serializedVersion: 2
-      x: -627
-      y: 3211
-      width: 499
-      height: 305
-    soundEffect: {fileID: 0}
-    backgroundMusic: {fileID: 0}
-  - guid: 0b0bbc4d-af22-4957-b787-73229ecb86b9
-    characterSpr: {fileID: 0}
-    characterName: Ya estabas dentro
-    dialogueText: 
-    backgroundSpr: {fileID: 21300000, guid: 7b32e3ad3b8fd4f40bc3826b4bf8eed4, type: 3}
-    startNode: 0
-    endNode: 0
-    choices: 1
-    choiceOptions:
-    - 
-    nodePosition:
-      serializedVersion: 2
-      x: -694
-      y: 2529
-      width: 499
-      height: 305
-    soundEffect: {fileID: 0}
-    backgroundMusic: {fileID: 0}
-  - guid: 38ab0e15-0104-4600-ba10-914fc70e6935
-    characterSpr: {fileID: 0}
-    characterName: No parecen entenderte.
-    dialogueText: 
-    backgroundSpr: {fileID: 21300000, guid: 545a78430e2fbeb4995538e91d0fb1cf, type: 3}
-    startNode: 0
-    endNode: 0
-    choices: 1
-    choiceOptions:
-    - 
-    nodePosition:
-      serializedVersion: 2
-      x: -1126
-      y: 3872
-      width: 499
-      height: 305
-    soundEffect: {fileID: 0}
-    backgroundMusic: {fileID: 0}
-  - guid: 4e79d3a5-ae15-42e0-82b8-9114a6d71c8c
-    characterSpr: {fileID: 0}
-    characterName: 
-    dialogueText: "\xBFeso es un problema?"
-    backgroundSpr: {fileID: 0}
-    startNode: 0
-    endNode: 0
-    choices: 1
-    choiceOptions:
-    - 
-    nodePosition:
-      serializedVersion: 2
-      x: -627
-      y: 3872
-      width: 499
-      height: 305
-    soundEffect: {fileID: 0}
-    backgroundMusic: {fileID: 0}
-  - guid: 6eed8c5b-8958-42ee-bbd2-4716c308af73
-    characterSpr: {fileID: 0}
-    characterName: eso depende.
-    dialogueText: 
-    backgroundSpr: {fileID: 0}
-    startNode: 0
-    endNode: 0
-    choices: 1
-    choiceOptions:
-    - 
-    nodePosition:
-      serializedVersion: 2
-      x: -128
-      y: 3872
-      width: 499
-      height: 305
-    soundEffect: {fileID: 0}
-    backgroundMusic: {fileID: 0}
-  - guid: 0b6bbbae-5c4c-4678-a84f-931ccb6adf6f
-    characterSpr: {fileID: 0}
-    characterName: tu percepcion ya estaba algo arruinada
-    dialogueText: 
-    backgroundSpr: {fileID: 0}
-    startNode: 0
-    endNode: 0
-    choices: 1
-    choiceOptions:
-    - 
-    nodePosition:
-      serializedVersion: 2
-      x: -1094
-      y: 4211
-      width: 499
-      height: 305
-    soundEffect: {fileID: 0}
-    backgroundMusic: {fileID: 0}
-  - guid: 9e6b9be6-2df5-435e-9bef-1dfaca325fa2
-    characterSpr: {fileID: 0}
-    characterName: tu memoria no es confiable.
-    dialogueText: 
-    backgroundSpr: {fileID: 0}
-    startNode: 0
-    endNode: 0
-    choices: 1
-    choiceOptions:
-    - 
-    nodePosition:
-      serializedVersion: 2
-      x: -595
-      y: 4211
-      width: 499
-      height: 305
-    soundEffect: {fileID: 0}
-    backgroundMusic: {fileID: 0}
-  - guid: f68c551b-579d-4f9d-ac25-81f27d657334
-    characterSpr: {fileID: 0}
-    characterName: "\xBFque sucede cuando se pierde la memoria?"
-    dialogueText: 
-    backgroundSpr: {fileID: 0}
-    startNode: 0
-    endNode: 0
-    choices: 1
-    choiceOptions:
-    - 
-    nodePosition:
-      serializedVersion: 2
-      x: -96
-      y: 4211
-      width: 499
-      height: 305
-    soundEffect: {fileID: 0}
-    backgroundMusic: {fileID: 0}
-  - guid: eb328d2b-58c9-42ad-b31b-e599e844b780
-    characterSpr: {fileID: 0}
-    characterName: 
-    dialogueText: "\xBFsignifica que fue una noche divertida?"
-    backgroundSpr: {fileID: 0}
-    startNode: 0
-    endNode: 0
-    choices: 1
-    choiceOptions:
-    - 
-    nodePosition:
-      serializedVersion: 2
-      x: -1034
-      y: 4555
-      width: 499
-      height: 305
-    soundEffect: {fileID: 0}
-    backgroundMusic: {fileID: 0}
-  - guid: d1a8002e-9dfd-489b-af4b-db0cd4893924
-    characterSpr: {fileID: 0}
-    characterName: esto no se ve divertido.
-    dialogueText: 
-    backgroundSpr: {fileID: 0}
-    startNode: 0
-    endNode: 0
-    choices: 1
-    choiceOptions:
-    - 
-    nodePosition:
-      serializedVersion: 2
-      x: -535
-      y: 4555
-      width: 499
-      height: 305
-    soundEffect: {fileID: 0}
-    backgroundMusic: {fileID: 0}
-  - guid: 2668bb07-b198-4421-b7ce-e8d1d16b85a8
-    characterSpr: {fileID: 0}
-    characterName: es hora de que hagas una pregunta.
-    dialogueText: 
-    backgroundSpr: {fileID: 0}
-    startNode: 0
-    endNode: 0
-    choices: 1
-    choiceOptions:
-    - 
-    nodePosition:
-      serializedVersion: 2
-      x: -36
-      y: 4555
-      width: 499
-      height: 305
-    soundEffect: {fileID: 0}
-    backgroundMusic: {fileID: 0}
-  - guid: 6e68225e-31df-4a2b-981e-05efd5435646
-    characterSpr: {fileID: 0}
-    characterName: o que al menos contestes una de ellas
-    dialogueText: 
-    backgroundSpr: {fileID: 0}
-    startNode: 0
-    endNode: 0
-    choices: 1
-    choiceOptions:
-    - 
-    nodePosition:
-      serializedVersion: 2
-      x: -990
-      y: 4887
-      width: 499
-      height: 305
-    soundEffect: {fileID: 0}
-    backgroundMusic: {fileID: 0}
-  - guid: a2e3b926-0e86-4de6-bfb2-d952c9fb84d7
-    characterSpr: {fileID: 0}
-    characterName: 
-    dialogueText: ...
-    backgroundSpr: {fileID: 0}
-    startNode: 0
-    endNode: 0
-    choices: 1
-    choiceOptions:
-    - 
-    nodePosition:
-      serializedVersion: 2
-      x: 8
-      y: 4887
-      width: 499
-      height: 305
-    soundEffect: {fileID: 0}
-    backgroundMusic: {fileID: 0}
-  - guid: f7c84c8b-5a26-446a-8174-a69afcf0a0b6
-    characterSpr: {fileID: 0}
-    characterName: 
-    dialogueText: aun no estoy seguro
-    backgroundSpr: {fileID: 0}
-    startNode: 0
-    endNode: 0
-    choices: 1
-    choiceOptions:
-    - 
-    nodePosition:
-      serializedVersion: 2
-      x: -957
-      y: 5222
-      width: 499
-      height: 305
-    soundEffect: {fileID: 0}
-    backgroundMusic: {fileID: 0}
-  - guid: 0013afa0-3a2f-455e-af77-9a6a33680f03
-    characterSpr: {fileID: 0}
-    characterName: entonces debemos irnos de aqui
-    dialogueText: 
-    backgroundSpr: {fileID: 0}
-    startNode: 0
-    endNode: 0
-    choices: 1
-    choiceOptions:
-    - 
-    nodePosition:
-      serializedVersion: 2
-      x: -458
-      y: 5222
-      width: 499
-      height: 305
-    soundEffect: {fileID: 0}
-    backgroundMusic: {fileID: 0}
-  - guid: 4816b0c9-5d75-4cf7-a9bd-c2175568b737
-    characterSpr: {fileID: 0}
-    characterName: "\xBFque pasa cuando se pierde la memoria?"
-    dialogueText: 
-    backgroundSpr: {fileID: 0}
-    startNode: 0
-    endNode: 0
-    choices: 1
-    choiceOptions:
-    - 
-    nodePosition:
-      serializedVersion: 2
-      x: -491
-      y: 4887
-      width: 499
-      height: 305
-    soundEffect: {fileID: 8300000, guid: 6dcb0772d16a0f44c8f9517f519a1b5a, type: 3}
-    backgroundMusic: {fileID: 0}
-  - guid: 5a899bba-209f-476a-834b-489c476c1a10
-    characterSpr: {fileID: 0}
-    characterName: 
-    dialogueText: 
-    backgroundSpr: {fileID: 21300000, guid: 37b06ef0af9c7a74f83083a5743c0f2e, type: 3}
-    startNode: 0
-    endNode: 0
-    choices: 1
-    choiceOptions:
-    - 
-    nodePosition:
-      serializedVersion: 2
-      x: -1140
-      y: 3197
-      width: 499
-      height: 305
-    soundEffect: {fileID: 8300000, guid: fd1c407327739da4bbf517ef6645f5c9, type: 3}
-    backgroundMusic: {fileID: 8300000, guid: f667060fa7629724485b47da5089373f, type: 3}
   - guid: f18e2171-a103-4f85-95ab-56e6d392caad
     characterSpr: {fileID: 0}
     characterName: 
@@ -1216,8 +811,8 @@ MonoBehaviour:
     - 
     nodePosition:
       serializedVersion: 2
-      x: -627
-      y: 3567
+      x: -1126
+      y: 3528
       width: 499
       height: 305
     soundEffect: {fileID: 0}
@@ -1234,8 +829,242 @@ MonoBehaviour:
     - 
     nodePosition:
       serializedVersion: 2
-      x: -128
-      y: 3567
+      x: -594
+      y: 3551
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 4e79d3a5-ae15-42e0-82b8-9114a6d71c8c
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "\xBFeso es un problema?"
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: -1126
+      y: 3856
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 6eed8c5b-8958-42ee-bbd2-4716c308af73
+    characterSpr: {fileID: 0}
+    characterName: eso depende.
+    dialogueText: 
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: -582
+      y: 3880
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 0b6bbbae-5c4c-4678-a84f-931ccb6adf6f
+    characterSpr: {fileID: 0}
+    characterName: tu percepcion ya estaba algo arruinada
+    dialogueText: 
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: -55
+      y: 3856
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 9e6b9be6-2df5-435e-9bef-1dfaca325fa2
+    characterSpr: {fileID: 0}
+    characterName: tu memoria no es confiable.
+    dialogueText: 
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: -1081
+      y: 4185
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: f68c551b-579d-4f9d-ac25-81f27d657334
+    characterSpr: {fileID: 0}
+    characterName: "\xBFque sucede cuando se pierde la memoria?"
+    dialogueText: 
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: -532
+      y: 4208
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: eb328d2b-58c9-42ad-b31b-e599e844b780
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "\xBFsignifica que fue una noche divertida?"
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 8
+      y: 4208
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: d1a8002e-9dfd-489b-af4b-db0cd4893924
+    characterSpr: {fileID: 0}
+    characterName: esto no se ve divertido.
+    dialogueText: 
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: -1081
+      y: 4513
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 2668bb07-b198-4421-b7ce-e8d1d16b85a8
+    characterSpr: {fileID: 0}
+    characterName: es hora de que hagas una pregunta.
+    dialogueText: 
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: -532
+      y: 4534
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 6e68225e-31df-4a2b-981e-05efd5435646
+    characterSpr: {fileID: 0}
+    characterName: o que al menos contestes una de ellas
+    dialogueText: 
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 8
+      y: 4534
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 4816b0c9-5d75-4cf7-a9bd-c2175568b737
+    characterSpr: {fileID: 0}
+    characterName: "\xBFque pasa cuando se pierde la memoria?"
+    dialogueText: 
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: -1051
+      y: 4839
+      width: 499
+      height: 305
+    soundEffect: {fileID: 8300000, guid: 6dcb0772d16a0f44c8f9517f519a1b5a, type: 3}
+    backgroundMusic: {fileID: 0}
+  - guid: a2e3b926-0e86-4de6-bfb2-d952c9fb84d7
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: ...
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: -532
+      y: 4875
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: f7c84c8b-5a26-446a-8174-a69afcf0a0b6
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: aun no estoy seguro
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: 8
+      y: 4875
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 0013afa0-3a2f-455e-af77-9a6a33680f03
+    characterSpr: {fileID: 0}
+    characterName: entonces debemos irnos de aqui
+    dialogueText: 
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: -1051
+      y: 5222
       width: 499
       height: 305
     soundEffect: {fileID: 0}
@@ -1252,9 +1081,243 @@ MonoBehaviour:
     - 
     nodePosition:
       serializedVersion: 2
-      x: 41
+      x: -532
       y: 5222
       width: 499
       height: 305
     soundEffect: {fileID: 8300000, guid: 466429ddc945d6b44acc91cd8bf86fd3, type: 3}
+    backgroundMusic: {fileID: 0}
+  - guid: d78bc0ec-0285-4663-a310-7ff8be22909b
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: 
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: -33
+      y: 5222
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 7cf66171-b67f-415a-9c89-383f68a651c4
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: 
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: -1031
+      y: 5568
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 2de658c1-5cf1-4e67-9495-8a5c820b500a
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: 
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: -532
+      y: 5568
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: e3a4aeed-bce6-40b1-9086-7b8edac1384d
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "\xBFEh? Escucho voces. \xBFQuien mierda eres?"
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: -920
+      y: -502
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 7c39d35b-e160-4913-b745-a4f13992e3a6
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: Bueno... quiza si recuerde algo despues de todo.
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: -881
+      y: 223
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 0fac2333-a1ef-4f43-827c-e66e51a27319
+    characterSpr: {fileID: 0}
+    characterName: Bien dicho, querido.
+    dialogueText: 
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: -363
+      y: 223
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 9e21e597-a142-46ea-9117-47420169f18b
+    characterSpr: {fileID: 0}
+    characterName: Ahora veamos como fue que moriste.
+    dialogueText: 
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: -881
+      y: 528
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 47961444-642b-4f2c-89a4-78b7f2fbc8d0
+    characterSpr: {fileID: 0}
+    characterName: "\xBFAcaso no recuerdas las luces?"
+    dialogueText: 
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: -862
+      y: 868
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: b139ab96-e8b3-421d-a774-4b6378707b7f
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: "\xBFAsi que eso fue? \xBFuna sobredosis?"
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: -1252
+      y: 1874
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 975a4d19-13eb-4fab-ba9e-5de51949adc2
+    characterSpr: {fileID: 0}
+    characterName: Las pastillas sabian a oro, es cierto.
+    dialogueText: 
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: -245
+      y: 1874
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 8f76c8c7-0fda-4a4d-8f84-2ecbe8962533
+    characterSpr: {fileID: 0}
+    characterName: No lo se.
+    dialogueText: 
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: -1140
+      y: 2854
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 998f9fb1-a6ac-4b50-b6df-e773b5106f14
+    characterSpr: {fileID: 0}
+    characterName: Pero quiza valga la pena hacerla.
+    dialogueText: 
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: -627
+      y: 2854
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 38ab0e15-0104-4600-ba10-914fc70e6935
+    characterSpr: {fileID: 0}
+    characterName: No parecen entenderte.
+    dialogueText: 
+    backgroundSpr: {fileID: 21300000, guid: 535e67e7f15ba7447b2a743e9ac93c27, type: 3}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: -83
+      y: 3528
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
     backgroundMusic: {fileID: 0}

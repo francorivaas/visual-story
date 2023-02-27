@@ -33,15 +33,17 @@ namespace VNCreator
         [Scene]
         public string mainMenu;
 
-        [Header("My settings")]
+        [Header("My Objects")]
         [SerializeField] private GameObject titleImage;
         [SerializeField] private GameObject tongue;
         [SerializeField] private GameObject enterRoom;
         [SerializeField] private GameObject misteryGuys;
-
+        [SerializeField] private GameObject quePasaCuando;
         [SerializeField] private GameObject dialogueTextPannel;
+        [SerializeField] private GameObject hand;
+
+        [Header("Nodes amount")]
         [SerializeField] private int nodesIn = 0;
-        [SerializeField] private Animator handAnimator;
 
         void Start()
         {
@@ -86,18 +88,18 @@ namespace VNCreator
                 Destroy(titleImage, 5.0f);
                 
             }
-            else if (nodesIn == 22)
+            else if (nodesIn == 22 && hand != null)
             {
-                handAnimator.SetTrigger("Appear");
+                hand.GetComponent<Animator>().SetTrigger("Appear");
                 
             }
-            else if (nodesIn == 23)
+            else if (nodesIn == 23 && hand != null)
             {
-                handAnimator.SetBool("Shake", true);
+                hand.GetComponent<Animator>().SetBool("Shake", true);
             }
-            else if (nodesIn == 26)
+            else if (nodesIn == 26 && hand != null)
             {
-                handAnimator.SetBool("Shake", false);
+                hand.GetComponent<Animator>().SetBool("Shake", false);
             }
 
             else if (nodesIn == 30 && tongue != null)
@@ -111,14 +113,17 @@ namespace VNCreator
                 enterRoom.SetActive(true);
                 Destroy(enterRoom, 2.5f);
             }
+
             else if (nodesIn == 40 && misteryGuys != null)
             {
                 misteryGuys.SetActive(true);
                 Destroy(misteryGuys, 3f);
             }
-            else if (nodesIn == 58)
+
+            else if (nodesIn == 59 && quePasaCuando != null)
             {
-                SceneManager.LoadScene(2);
+                quePasaCuando.SetActive(true);
+                Destroy(quePasaCuando, 7f);
             }
         }
 
