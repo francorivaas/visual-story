@@ -90,6 +90,7 @@ namespace VNCreator
                 Destroy(titleImage, 5.0f);
                 
             }
+
             else if (nodesIn == 22 && hand != null)
             {
                 hand.SetTrigger("Appear");
