@@ -41,6 +41,7 @@ namespace VNCreator
         [SerializeField] private GameObject quePasaCuando;
         [SerializeField] private GameObject dialogueTextPannel;
         [SerializeField] private Animator hand;
+        [SerializeField] private AudioSource music;
 
         [Header("Nodes amount")]
         [SerializeField] private int nodesIn = 0;
@@ -124,7 +125,9 @@ namespace VNCreator
             else if (nodesIn == 59 && quePasaCuando != null)
             {
                 quePasaCuando.SetActive(true);
+                music.Stop();
                 Destroy(quePasaCuando, 12.2f);
+                music.Play();
             }
         }
 

@@ -139,7 +139,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!82 &40334274
 AudioSource:
   m_ObjectHideFlags: 0
@@ -2496,7 +2496,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 11.9453125, y: 0.000061035156}
+  m_AnchoredPosition: {x: 11.9453125, y: 0}
   m_SizeDelta: {x: -856.6384, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!212 &706982841
@@ -3705,7 +3705,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 2.1119995, y: -6}
+  m_AnchoredPosition: {x: 2.1120605, y: -6}
   m_SizeDelta: {x: -994.3, y: -208}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!95 &1130306378
@@ -4744,6 +4744,7 @@ MonoBehaviour:
   quePasaCuando: {fileID: 2048232922}
   dialogueTextPannel: {fileID: 1207470966}
   hand: {fileID: 347791253}
+  music: {fileID: 143318024}
   nodesIn: 0
 --- !u!4 &1466996396
 Transform:
