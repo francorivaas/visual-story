@@ -40,6 +40,7 @@ namespace VNCreator
         [SerializeField] private GameObject misteryGuys;
         [SerializeField] private GameObject quePasaCuando;
         [SerializeField] private GameObject dialogueTextPannel;
+        [SerializeField] private GameObject blackFlash;
         [SerializeField] private Animator hand;
         [SerializeField] private AudioSource music;
 
@@ -120,6 +121,12 @@ namespace VNCreator
             {
                 misteryGuys.SetActive(true);
                 Destroy(misteryGuys, 3f);
+            }
+
+            else if (nodesIn == 54 && blackFlash != null)
+            {
+                blackFlash.SetActive(true);
+                Destroy(blackFlash, 1f);
             }
 
             else if (nodesIn == 59 && quePasaCuando != null)
