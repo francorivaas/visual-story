@@ -126,7 +126,7 @@ namespace VNCreator
             {
                 quePasaCuando.SetActive(true);
                 music.Stop();
-                Destroy(quePasaCuando, 12.2f);
+                Destroy(quePasaCuando, 8.0f);
                 music.Play();
             }
         }
