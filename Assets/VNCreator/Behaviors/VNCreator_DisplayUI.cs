@@ -33,6 +33,10 @@ namespace VNCreator
         [Scene]
         public string mainMenu;
 
+        [Header("")]
+        [Header("-My SETTINGS-")]
+        [Header("")]
+
         [Header("My Objects")]
         [SerializeField] private GameObject titleImage;
         [SerializeField] private GameObject tongue;
@@ -41,8 +45,15 @@ namespace VNCreator
         [SerializeField] private GameObject quePasaCuando;
         [SerializeField] private GameObject dialogueTextPannel;
         [SerializeField] private GameObject blackFlash;
-        [SerializeField] private Animator hand;
+        [SerializeField] private GameObject audioSources;
+
+        [Header("My AudioSource's")]
         [SerializeField] private AudioSource music;
+        [SerializeField] private AudioSource sfx;
+
+        [Header("My Animators")]
+        [SerializeField] private Animator handAnimator;
+        [SerializeField] private Animator textPannelAnimator;
 
         [Header("Nodes amount")]
         [SerializeField] private int nodesIn = 0;
@@ -91,19 +102,19 @@ namespace VNCreator
                 
             }
 
-            else if (nodesIn == 22 && hand != null)
+            else if (nodesIn == 22 && handAnimator != null)
             {
-                hand.SetTrigger("Appear");
+                handAnimator.SetTrigger("Appear");
             }
 
-            else if (nodesIn == 23 && hand != null)
+            else if (nodesIn == 23 && handAnimator != null)
             {
-                hand.SetBool("Shake", true);
+                handAnimator.SetBool("Shake", true);
             }
 
-            else if (nodesIn == 26 && hand != null)
+            else if (nodesIn == 27 && handAnimator != null)
             {
-                hand.SetBool("Shake", false);
+                handAnimator.SetBool("Shake", false);
             }
 
             else if (nodesIn == 30 && tongue != null)
@@ -127,15 +138,28 @@ namespace VNCreator
             else if (nodesIn == 54 && blackFlash != null)
             {
                 blackFlash.SetActive(true);
+                textPannelAnimator.SetBool("Activate", true);
                 Destroy(blackFlash, 1f);
+            }
+
+            else if (nodesIn == 56 && textPannelAnimator != null)
+            {
+                textPannelAnimator.SetBool("Activate", false);
             }
 
             else if (nodesIn == 59 && quePasaCuando != null)
             {
                 quePasaCuando.SetActive(true);
-                music.Stop();
-                Destroy(quePasaCuando, 8.0f);
-                music.Play();
+
+                music.mute = true;
+                sfx.mute = true;
+
+                if (Input.GetMouseButtonDown(0))
+                {
+                    Destroy(quePasaCuando);
+                    music.mute = false;
+                    sfx.mute = false;
+                }
             }
         }
 
