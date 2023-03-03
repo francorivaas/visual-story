@@ -166,41 +166,41 @@ MonoBehaviour:
   - guid: 12047d1a-be50-4845-8a94-ca390fb6fc0f
     targetGuid: d78bc0ec-0285-4663-a310-7ff8be22909b
     portId: 50
-  - guid: 7cf66171-b67f-415a-9c89-383f68a651c4
-    targetGuid: 2de658c1-5cf1-4e67-9495-8a5c820b500a
-    portId: 51
   - guid: e3a4aeed-bce6-40b1-9086-7b8edac1384d
     targetGuid: d64012ba-66f3-4b40-a89e-624d5a718169
-    portId: 52
+    portId: 51
   - guid: 7c39d35b-e160-4913-b745-a4f13992e3a6
     targetGuid: 0fac2333-a1ef-4f43-827c-e66e51a27319
-    portId: 53
+    portId: 52
   - guid: 0fac2333-a1ef-4f43-827c-e66e51a27319
     targetGuid: 597b4a05-e8ff-48a3-8753-10a41e22470b
-    portId: 54
+    portId: 53
   - guid: 9e21e597-a142-46ea-9117-47420169f18b
     targetGuid: bcd2872b-2964-46c1-af33-4cf8793b835c
-    portId: 55
+    portId: 54
   - guid: 47961444-642b-4f2c-89a4-78b7f2fbc8d0
     targetGuid: 90dd1e1b-dadf-44ff-a68b-5582d4e1fe64
-    portId: 56
+    portId: 55
   - guid: b139ab96-e8b3-421d-a774-4b6378707b7f
     targetGuid: 9110f99a-7c43-4fa8-bd1f-79389149b235
-    portId: 57
+    portId: 56
   - guid: 975a4d19-13eb-4fab-ba9e-5de51949adc2
     targetGuid: 5abbc995-aa75-47cb-ac35-02247364ed9b
-    portId: 58
+    portId: 57
   - guid: 8f76c8c7-0fda-4a4d-8f84-2ecbe8962533
     targetGuid: 998f9fb1-a6ac-4b50-b6df-e773b5106f14
-    portId: 59
+    portId: 58
   - guid: 998f9fb1-a6ac-4b50-b6df-e773b5106f14
     targetGuid: 5a899bba-209f-476a-834b-489c476c1a10
-    portId: 60
+    portId: 59
   - guid: 38ab0e15-0104-4600-ba10-914fc70e6935
     targetGuid: 4e79d3a5-ae15-42e0-82b8-9114a6d71c8c
-    portId: 61
+    portId: 60
   - guid: d78bc0ec-0285-4663-a310-7ff8be22909b
     targetGuid: 7cf66171-b67f-415a-9c89-383f68a651c4
+    portId: 61
+  - guid: 7cf66171-b67f-415a-9c89-383f68a651c4
+    targetGuid: 2de658c1-5cf1-4e67-9495-8a5c820b500a
     portId: 62
   - guid: 2de658c1-5cf1-4e67-9495-8a5c820b500a
     targetGuid: 697c5b09-b62a-4daa-9ab3-83aa9e6e8cd6
@@ -1992,24 +1992,6 @@ MonoBehaviour:
       height: 305
     soundEffect: {fileID: 0}
     backgroundMusic: {fileID: 0}
-  - guid: 19d8e71c-0dfa-4d98-a34e-ae2a48e3c46b
-    characterSpr: {fileID: 0}
-    characterName: 
-    dialogueText: como se que muerto realmente?
-    backgroundSpr: {fileID: 0}
-    startNode: 0
-    endNode: 0
-    choices: 1
-    choiceOptions:
-    - 
-    nodePosition:
-      serializedVersion: 2
-      x: -578
-      y: 9283
-      width: 499
-      height: 305
-    soundEffect: {fileID: 0}
-    backgroundMusic: {fileID: 0}
   - guid: b499d624-732d-4389-b7c0-aed920717688
     characterSpr: {fileID: 0}
     characterName: ...
@@ -2097,6 +2079,24 @@ MonoBehaviour:
       serializedVersion: 2
       x: 453
       y: 9618
+      width: 499
+      height: 305
+    soundEffect: {fileID: 0}
+    backgroundMusic: {fileID: 0}
+  - guid: 19d8e71c-0dfa-4d98-a34e-ae2a48e3c46b
+    characterSpr: {fileID: 0}
+    characterName: 
+    dialogueText: como se que he muerto realmente?
+    backgroundSpr: {fileID: 0}
+    startNode: 0
+    endNode: 0
+    choices: 1
+    choiceOptions:
+    - 
+    nodePosition:
+      serializedVersion: 2
+      x: -578
+      y: 9283
       width: 499
       height: 305
     soundEffect: {fileID: 0}

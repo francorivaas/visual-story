@@ -45,7 +45,9 @@ namespace VNCreator
         [SerializeField] private GameObject quePasaCuando;
         [SerializeField] private GameObject dialogueTextPannel;
         [SerializeField] private GameObject blackFlash;
+        [SerializeField] private float blackFlashTiming = 1.0f;
         [SerializeField] private GameObject audioSources;
+        [SerializeField] private GameObject siUnArbol;
 
         [Header("My AudioSource's")]
         [SerializeField] private AudioSource music;
@@ -54,6 +56,7 @@ namespace VNCreator
         [Header("My Animators")]
         [SerializeField] private Animator handAnimator;
         [SerializeField] private Animator textPannelAnimator;
+        [SerializeField] private Animator backgroundPannelAnimator;
 
         [Header("Nodes amount")]
         [SerializeField] private int nodesIn = 0;
@@ -139,12 +142,14 @@ namespace VNCreator
             {
                 blackFlash.SetActive(true);
                 textPannelAnimator.SetBool("Activate", true);
-                Destroy(blackFlash, 1f);
+                backgroundPannelAnimator.SetBool("Activate", true);
+                Destroy(blackFlash, 1.0f);
             }
 
             else if (nodesIn == 56 && textPannelAnimator != null)
             {
                 textPannelAnimator.SetBool("Activate", false);
+                backgroundPannelAnimator.SetBool("Activate", false);
             }
 
             else if (nodesIn == 59 && quePasaCuando != null)
@@ -157,6 +162,22 @@ namespace VNCreator
                 if (Input.GetMouseButtonDown(0))
                 {
                     Destroy(quePasaCuando);
+                    music.mute = false;
+                    sfx.mute = false;
+                }
+            }
+
+            else if (nodesIn == 98 && siUnArbol != null)
+            {
+                siUnArbol.SetActive(true);
+                Destroy(siUnArbol, 30f);
+
+                music.mute = true;
+                sfx.mute = true;
+
+                if (Input.GetMouseButtonDown(0))
+                {
+                    Destroy(siUnArbol);
                     music.mute = false;
                     sfx.mute = false;
                 }
