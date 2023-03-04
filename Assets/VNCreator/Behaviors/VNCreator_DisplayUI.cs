@@ -48,6 +48,7 @@ namespace VNCreator
         [SerializeField] private float blackFlashTiming = 1.0f;
         [SerializeField] private GameObject audioSources;
         [SerializeField] private GameObject siUnArbol;
+        [SerializeField] private GameObject arrow;
 
         [Header("My AudioSource's")]
         [SerializeField] private AudioSource music;
@@ -268,6 +269,7 @@ namespace VNCreator
                     fullString += _chars[i];
                     dialogueTxt.text = fullString;
                     yield return new WaitForSeconds(0.01f/ GameOptions.readSpeed);
+                    
                 }
             }
         }
