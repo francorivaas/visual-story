@@ -43,11 +43,13 @@ namespace VNCreator
         [SerializeField] private GameObject enterRoom;
         [SerializeField] private GameObject misteryGuys;
         [SerializeField] private GameObject quePasaCuando;
+        [SerializeField] private float timeToResumeAudioOne;
         [SerializeField] private GameObject dialogueTextPannel;
         [SerializeField] private GameObject blackFlash;
         [SerializeField] private float blackFlashTiming = 1.0f;
         [SerializeField] private GameObject audioSources;
         [SerializeField] private GameObject siUnArbol;
+        [SerializeField] private float timeToResumeAudioTwo;
         [SerializeField] private GameObject arrow;
         [SerializeField] private GameObject bathroom;
         [SerializeField] private GameObject finalScene;
@@ -147,39 +149,43 @@ namespace VNCreator
             else if (nodesIn == 59 && quePasaCuando != null)
             {
                 quePasaCuando.SetActive(true);
-
                 music.mute = true;
                 sfx.mute = true;
 
-                if (Input.GetMouseButtonDown(0))
+                timeToResumeAudioOne -= Time.deltaTime;
+                if (timeToResumeAudioOne <= 0)
                 {
-                    Destroy(quePasaCuando);
                     music.mute = false;
                     sfx.mute = false;
                 }
+                Destroy(quePasaCuando, 7.05f);
             }
 
             else if (nodesIn == 98 && siUnArbol != null)
             {
                 siUnArbol.SetActive(true);
-                Destroy(siUnArbol, 30f);
-
                 music.mute = true;
                 sfx.mute = true;
 
-                if (Input.GetMouseButtonDown(0))
+                timeToResumeAudioTwo -= Time.deltaTime;
+                if (timeToResumeAudioTwo <= 0)
                 {
-                    Destroy(siUnArbol);
                     music.mute = false;
                     sfx.mute = false;
                 }
+                Destroy(siUnArbol, 10.05f);
             }
 
-            else if (nodesIn == 148 && finalScene != null)
+            else if (nodesIn == 148 && bathroom != null)
             {
                 bathroom.SetActive(true);
                 music.mute = true;
                 sfx.mute = true;
+                Destroy(bathroom, 2f);
+            }
+            else if (bathroom == null)
+            {
+                finalScene.SetActive(true);
             }
         }
 
@@ -252,6 +258,7 @@ namespace VNCreator
                 VNCreator_SfxSource.instance.Play(currentNode.soundEffect);
 
             dialogueTxt.text = string.Empty;
+           
             if (GameOptions.isInstantText)
             {
                 dialogueTxt.text = currentNode.dialogueText;
@@ -265,7 +272,6 @@ namespace VNCreator
                     fullString += _chars[i];
                     dialogueTxt.text = fullString;
                     yield return new WaitForSeconds(0.01f/ GameOptions.readSpeed);
-                    
                 }
             }
         }
