@@ -49,6 +49,7 @@ namespace VNCreator
         [SerializeField] private GameObject audioSources;
         [SerializeField] private GameObject siUnArbol;
         [SerializeField] private GameObject arrow;
+        [SerializeField] private GameObject bathroom;
         [SerializeField] private GameObject finalScene;
 
         [Header("My AudioSource's")]
@@ -176,7 +177,7 @@ namespace VNCreator
 
             else if (nodesIn == 148 && finalScene != null)
             {
-                finalScene.SetActive(true);
+                bathroom.SetActive(true);
                 music.mute = true;
                 sfx.mute = true;
             }
