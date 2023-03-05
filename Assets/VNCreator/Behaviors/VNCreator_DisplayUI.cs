@@ -86,20 +86,9 @@ namespace VNCreator
             StartCoroutine(DisplayCurrentNode());
         }
 
-        private void DisableButtonTwo()
-        {
-            choiceBtn2.enabled = false;
-            choiceBtn2.gameObject.SetActive(false);
-        }
-
         private void Update()
         {
-            if (nodesIn == 6)
-            {
-                DisableButtonTwo();
-            }
-
-            else if (nodesIn == 17 && titleImage != null)
+            if (nodesIn == 17 && titleImage != null)
             {
                 titleImage.SetActive(true);
                 Destroy(titleImage, 5.0f);
@@ -204,14 +193,13 @@ namespace VNCreator
             characterNameTxt.text = currentNode.characterName;
             if (currentNode.characterSpr != null)
             {
-                
                 characterImg.sprite = currentNode.characterSpr;
                 characterImg.color = Color.white;
             }
+
             else
             {
                 characterImg.color = new Color(1, 1, 1, 0);
-                
             }
 
             if(currentNode.backgroundSpr != null)
@@ -230,7 +218,6 @@ namespace VNCreator
 
             else
             {
-
                 nextBtn.gameObject.SetActive(false);
 
                 choiceBtn1.gameObject.SetActive(true);
