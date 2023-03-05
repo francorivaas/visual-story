@@ -49,6 +49,7 @@ namespace VNCreator
         [SerializeField] private GameObject audioSources;
         [SerializeField] private GameObject siUnArbol;
         [SerializeField] private GameObject arrow;
+        [SerializeField] private GameObject finalScene;
 
         [Header("My AudioSource's")]
         [SerializeField] private AudioSource music;
