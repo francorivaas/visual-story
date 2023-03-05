@@ -39,6 +39,11 @@ namespace VNCreator
 
         [Header("My Objects")]
         [SerializeField] private GameObject titleImage;
+        [SerializeField] private GameObject titleImage2;
+        [SerializeField] private GameObject titleImage3;
+        [SerializeField] private GameObject titleImage4;
+        [SerializeField] private GameObject titleImage5;
+        [SerializeField] private GameObject titleImage6;
         [SerializeField] private GameObject tongue;
         [SerializeField] private GameObject enterRoom;
         [SerializeField] private GameObject misteryGuys;
@@ -96,7 +101,6 @@ namespace VNCreator
             {
                 titleImage.SetActive(true);
                 Destroy(titleImage, 5.0f);
-                
             }
 
             else if (nodesIn == 22 && handAnimator != null)
@@ -114,13 +118,25 @@ namespace VNCreator
                 handAnimator.SetBool("Shake", false);
             }
 
+            else if (nodesIn == 28 && titleImage2 != null)
+            {
+                titleImage2.SetActive(true);
+                Destroy(titleImage2, 5.0f);
+            }
+
             else if (nodesIn == 30 && tongue != null)
             {
                 tongue.SetActive(true);
                 Destroy(tongue, 2.0f);
             }
 
-            else if (nodesIn == 33 && enterRoom != null)
+            else if (nodesIn == 33 && titleImage3 != null)
+            {
+                titleImage3.SetActive(true);
+                Destroy(titleImage3, 5.0f);
+            }
+
+            else if (nodesIn == 34 && enterRoom != null)
             {
                 enterRoom.SetActive(true);
                 Destroy(enterRoom, 2.5f);
@@ -130,6 +146,11 @@ namespace VNCreator
             {
                 misteryGuys.SetActive(true);
                 Destroy(misteryGuys, 3f);
+            }
+            else if (nodesIn == 44 && titleImage4 != null)
+            {
+                titleImage4.SetActive(true);
+                Destroy(titleImage4, 5.0f);
             }
 
             else if (nodesIn == 54 && blackFlash != null)
@@ -158,10 +179,22 @@ namespace VNCreator
                     music.mute = false;
                     sfx.mute = false;
                 }
-                Destroy(quePasaCuando, 7.05f);
+                Destroy(quePasaCuando, 8.05f);
             }
 
-            else if (nodesIn == 98 && siUnArbol != null)
+            else if (nodesIn == 86 && titleImage5 != null)
+            {
+                titleImage5.SetActive(true);
+                Destroy(titleImage5, 5.0f);
+            }
+
+            else if (nodesIn == 89 && titleImage6 != null)
+            {
+                titleImage6.SetActive(true);
+                Destroy(titleImage6, 5.0f);
+            }
+
+            else if (nodesIn == 96 && siUnArbol != null)
             {
                 siUnArbol.SetActive(true);
                 music.mute = true;
@@ -173,7 +206,7 @@ namespace VNCreator
                     music.mute = false;
                     sfx.mute = false;
                 }
-                Destroy(siUnArbol, 10.05f);
+                Destroy(siUnArbol, 8.05f);
             }
 
             else if (nodesIn == 148 && bathroom != null)
