@@ -173,6 +173,13 @@ namespace VNCreator
                     sfx.mute = false;
                 }
             }
+
+            else if (nodesIn == 148 && finalScene != null)
+            {
+                finalScene.SetActive(true);
+                music.mute = true;
+                sfx.mute = true;
+            }
         }
 
         protected override void NextNode(int _choiceId)
