@@ -51,7 +51,6 @@ namespace VNCreator
         [SerializeField] private float timeToResumeAudioOne;
         [SerializeField] private GameObject dialogueTextPannel;
         [SerializeField] private GameObject blackFlash;
-        [SerializeField] private float blackFlashTiming = 1.0f;
         [SerializeField] private GameObject audioSources;
         [SerializeField] private GameObject siUnArbol;
         [SerializeField] private float timeToResumeAudioTwo;
@@ -147,6 +146,7 @@ namespace VNCreator
                 misteryGuys.SetActive(true);
                 Destroy(misteryGuys, 3f);
             }
+
             else if (nodesIn == 44 && titleImage4 != null)
             {
                 titleImage4.SetActive(true);
@@ -216,6 +216,7 @@ namespace VNCreator
                 sfx.mute = true;
                 Destroy(bathroom, 2f);
             }
+
             else if (bathroom == null)
             {
                 finalScene.SetActive(true);
@@ -296,6 +297,7 @@ namespace VNCreator
             {
                 dialogueTxt.text = currentNode.dialogueText;
             }
+
             else
             {
                 char[] _chars = currentNode.dialogueText.ToCharArray();
