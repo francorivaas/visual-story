@@ -102,125 +102,125 @@ namespace VNCreator
                 Destroy(titleImage, 5.0f);
             }
 
-            else if (nodesIn == 22 && handAnimator != null)
+            else if (nodesIn == 29 && handAnimator != null)
             {
                 handAnimator.SetTrigger("Appear");
             }
 
-            else if (nodesIn == 23 && handAnimator != null)
+            else if (nodesIn == 30 && handAnimator != null)
             {
                 handAnimator.SetBool("Shake", true);
             }
 
-            else if (nodesIn == 27 && handAnimator != null)
+            else if (nodesIn == 33 && handAnimator != null)
             {
                 handAnimator.SetBool("Shake", false);
             }
 
-            else if (nodesIn == 28 && titleImage2 != null)
+            else if (nodesIn == 32 && titleImage2 != null)
             {
                 titleImage2.SetActive(true);
                 Destroy(titleImage2, 5.0f);
             }
 
-            else if (nodesIn == 30 && tongue != null)
+            else if (nodesIn == 36 && tongue != null)
             {
                 tongue.SetActive(true);
                 Destroy(tongue, 2.0f);
             }
 
-            else if (nodesIn == 33 && titleImage3 != null)
-            {
-                titleImage3.SetActive(true);
-                Destroy(titleImage3, 5.0f);
-            }
+            //else if (nodesIn == 46 && titleImage3 != null)
+            //{
+            //    titleImage3.SetActive(true);
+            //    Destroy(titleImage3, 5.0f);
+            //}
 
-            else if (nodesIn == 34 && enterRoom != null)
+            else if (nodesIn == 56 && enterRoom != null)
             {
                 enterRoom.SetActive(true);
-                Destroy(enterRoom, 2.5f);
+                Destroy(enterRoom, 12f);
             }
 
-            else if (nodesIn == 40 && misteryGuys != null)
-            {
-                misteryGuys.SetActive(true);
-                Destroy(misteryGuys, 3f);
-            }
+            //else if (nodesIn == 40 && misteryGuys != null)
+            //{
+            //    misteryGuys.SetActive(true);
+            //    Destroy(misteryGuys, 3f);
+            //}
 
-            else if (nodesIn == 44 && titleImage4 != null)
-            {
-                titleImage4.SetActive(true);
-                Destroy(titleImage4, 5.0f);
-            }
+            //else if (nodesIn == 44 && titleImage4 != null)
+            //{
+            //    titleImage4.SetActive(true);
+            //    Destroy(titleImage4, 5.0f);
+            //}
 
-            else if (nodesIn == 54 && blackFlash != null)
-            {
-                blackFlash.SetActive(true);
-                textPannelAnimator.SetBool("Activate", true);
-                backgroundPannelAnimator.SetBool("Activate", true);
-                Destroy(blackFlash, 1.0f);
-            }
+            //else if (nodesIn == 54 && blackFlash != null)
+            //{
+            //    blackFlash.SetActive(true);
+            //    textPannelAnimator.SetBool("Activate", true);
+            //    backgroundPannelAnimator.SetBool("Activate", true);
+            //    Destroy(blackFlash, 1.0f);
+            //}
 
-            else if (nodesIn == 56 && textPannelAnimator != null)
-            {
-                textPannelAnimator.SetBool("Activate", false);
-                backgroundPannelAnimator.SetBool("Activate", false);
-            }
+            //else if (nodesIn == 56 && textPannelAnimator != null)
+            //{
+            //    textPannelAnimator.SetBool("Activate", false);
+            //    backgroundPannelAnimator.SetBool("Activate", false);
+            //}
 
-            else if (nodesIn == 59 && quePasaCuando != null)
-            {
-                quePasaCuando.SetActive(true);
-                music.mute = true;
-                sfx.mute = true;
+            //else if (nodesIn == 59 && quePasaCuando != null)
+            //{
+            //    quePasaCuando.SetActive(true);
+            //    music.mute = true;
+            //    sfx.mute = true;
 
-                timeToResumeAudioOne -= Time.deltaTime;
-                if (timeToResumeAudioOne <= 0)
-                {
-                    music.mute = false;
-                    sfx.mute = false;
-                }
-                Destroy(quePasaCuando, 8.05f);
-            }
+            //    timeToResumeAudioOne -= Time.deltaTime;
+            //    if (timeToResumeAudioOne <= 0)
+            //    {
+            //        music.mute = false;
+            //        sfx.mute = false;
+            //    }
+            //    Destroy(quePasaCuando, 8.05f);
+            //}
 
-            else if (nodesIn == 86 && titleImage5 != null)
-            {
-                titleImage5.SetActive(true);
-                Destroy(titleImage5, 5.0f);
-            }
+            //else if (nodesIn == 86 && titleImage5 != null)
+            //{
+            //    titleImage5.SetActive(true);
+            //    Destroy(titleImage5, 5.0f);
+            //}
 
-            else if (nodesIn == 89 && titleImage6 != null)
-            {
-                titleImage6.SetActive(true);
-                Destroy(titleImage6, 5.0f);
-            }
+            //else if (nodesIn == 89 && titleImage6 != null)
+            //{
+            //    titleImage6.SetActive(true);
+            //    Destroy(titleImage6, 5.0f);
+            //}
 
-            else if (nodesIn == 96 && siUnArbol != null)
-            {
-                siUnArbol.SetActive(true);
-                music.mute = true;
-                sfx.mute = true;
+            //else if (nodesIn == 96 && siUnArbol != null)
+            //{
+            //    siUnArbol.SetActive(true);
+            //    music.mute = true;
+            //    sfx.mute = true;
 
-                timeToResumeAudioTwo -= Time.deltaTime;
-                if (timeToResumeAudioTwo <= 0)
-                {
-                    music.mute = false;
-                    sfx.mute = false;
-                }
-                Destroy(siUnArbol, 8.05f);
-            }
+            //    timeToResumeAudioTwo -= Time.deltaTime;
+            //    if (timeToResumeAudioTwo <= 0)
+            //    {
+            //        music.mute = false;
+            //        sfx.mute = false;
+            //    }
+            //    Destroy(siUnArbol, 8.05f);
+            //}
 
-            else if (nodesIn == 148 && bathroom != null)
-            {
-                bathroom.SetActive(true);
-                music.mute = true;
-                sfx.mute = true;
-                Destroy(bathroom, 2f);
-            }
+            //else if (nodesIn == 148 && bathroom != null)
+            //{
+            //    bathroom.SetActive(true);
+            //    music.mute = true;
+            //    sfx.mute = true;
+            //    Destroy(bathroom, 2f);
+            //}
 
-            else if (bathroom == null)
-            {
-                finalScene.SetActive(true);
-            }
+            //else if (bathroom == null)
+            //{
+            //    finalScene.SetActive(true);
+            //}
         }
 
         protected override void NextNode(int _choiceId)
